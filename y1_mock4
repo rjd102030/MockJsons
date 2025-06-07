@@ -1,0 +1,1302 @@
+[
+    {
+        "id": 1,
+        "question": "Which cell type synthesises and maintains the collagenous matrix of hyaline cartilage?",
+        "options": {
+            "A": "Chondroblast",
+            "B": "Osteoblast",
+            "C": "Fibroblast",
+            "D": "Chondrocyte",
+            "E": "Osteocyte"
+        },
+        "answer": "D",
+        "explanation": "Chondrocytes reside within lacunae in hyaline cartilage and produce its collagen-rich matrix."
+    },
+    {
+        "id": 2,
+        "question": "During endochondral ossification, hypertrophic chondrocytes in the growth plate undergo:",
+        "options": {
+            "A": "Proliferation",
+            "B": "Apoptosis",
+            "C": "Osteoclastic resorption",
+            "D": "Transdifferentiation into osteoblasts",
+            "E": "Matrix vesicle release"
+        },
+        "answer": "B",
+        "explanation": "Chondrocytes in the hypertrophic zone enlarge then undergo apoptosis to allow vascular invasion and bone formation."
+    },
+    {
+        "id": 3,
+        "question": "Which band becomes narrower during skeletal muscle contraction?",
+        "options": {
+            "A": "A band",
+            "B": "I band",
+            "C": "H zone",
+            "D": "Z disc",
+            "E": "M line"
+        },
+        "answer": "B",
+        "explanation": "The I band (light band) shortens as actin filaments slide over myosin during contraction."
+    },
+    {
+        "id": 4,
+        "question": "A patient reports deep, poorly localised chest pain that refers to the jaw. This is characteristic of:",
+        "options": {
+            "A": "Somatic pain",
+            "B": "Visceral pain",
+            "C": "Neuropathic pain",
+            "D": "Referred somatic pain",
+            "E": "Psychogenic pain"
+        },
+        "answer": "B",
+        "explanation": "Visceral pain is often diffuse and can be referred to distant somatic regions, such as the jaw in cardiac ischaemia."
+    },
+    {
+        "id": 5,
+        "question": "Which artery type contains a prominent internal elastic lamina and regulates distribution of blood flow?",
+        "options": {
+            "A": "Elastic artery",
+            "B": "Muscular artery",
+            "C": "Arteriole",
+            "D": "Venule",
+            "E": "Capillary"
+        },
+        "answer": "B",
+        "explanation": "Muscular arteries have a thick tunica media with internal elastic lamina to distribute blood to organs."
+    },
+    {
+        "id": 6,
+        "question": "In the foetal circulation, oxygenated blood from the placenta bypasses the liver via the:",
+        "options": {
+            "A": "Ductus arteriosus",
+            "B": "Ductus venosus",
+            "C": "Foramen ovale",
+            "D": "Umbilical vein",
+            "E": "Ligamentum teres"
+        },
+        "answer": "B",
+        "explanation": "The ductus venosus shunts a portion of umbilical venous blood directly into the inferior vena cava."
+    },
+    {
+        "id": 7,
+        "question": "Which ECG finding is pathognomonic for left ventricular hypertrophy?",
+        "options": {
+            "A": "P mitrale",
+            "B": "Deep S waves in V1",
+            "C": "Tall R waves in V5–V6",
+            "D": "ST depression in inferior leads",
+            "E": "QT prolongation"
+        },
+        "answer": "C",
+        "explanation": "In LVH, increased muscle mass generates high-voltage R waves in lateral leads V5–V6."
+    },
+    {
+        "id": 8,
+        "question": "Stroke volume increases during exercise primarily due to:",
+        "options": {
+            "A": "Increased afterload",
+            "B": "Decreased contractility",
+            "C": "Increased preload",
+            "D": "Decreased heart rate",
+            "E": "Increased systemic vascular resistance"
+        },
+        "answer": "C",
+        "explanation": "Enhanced venous return raises end-diastolic volume (preload), which by the Frank–Starling mechanism increases stroke volume."
+    },
+    {
+        "id": 9,
+        "question": "Which pressure‐volume loop feature represents isovolumetric contraction?",
+        "options": {
+            "A": "Vertical upstroke before aortic valve opening",
+            "B": "Horizontal line during ejection",
+            "C": "Vertical downstroke after aortic valve closure",
+            "D": "Horizontal line during filling",
+            "E": "Loop base at end‐diastole"
+        },
+        "answer": "A",
+        "explanation": "Isovolumetric contraction is shown by a steep vertical increase in pressure at constant volume before the aortic valve opens."
+    },
+    {
+        "id": 10,
+        "question": "A reduced FEV₁/FVC ratio on spirometry indicates:",
+        "options": {
+            "A": "Restrictive lung disease",
+            "B": "Obstructive lung disease",
+            "C": "Normal variant",
+            "D": "Mixed pattern",
+            "E": "Upper airway obstruction"
+        },
+        "answer": "B",
+        "explanation": "Obstructive disease (e.g., COPD, asthma) reduces FEV₁ disproportionately to FVC, lowering the ratio."
+    },
+    {
+        "id": 11,
+        "question": "Type II pneumocytes are responsible for:",
+        "options": {
+            "A": "Gas exchange",
+            "B": "Surfactant production",
+            "C": "Alveolar macrophage recruitment",
+            "D": "Fibrosis",
+            "E": "Bronchoconstriction"
+        },
+        "answer": "B",
+        "explanation": "Type II pneumocytes synthesise and secrete pulmonary surfactant to reduce alveolar surface tension."
+    },
+    {
+        "id": 12,
+        "question": "Central chemoreceptors respond to changes in CSF pH caused by:",
+        "options": {
+            "A": "Arterial PO₂",
+            "B": "Arterial H⁺",
+            "C": "Arterial PCO₂",
+            "D": "Plasma HCO₃⁻",
+            "E": "Plasma glucose"
+        },
+        "answer": "C",
+        "explanation": "CO₂ diffuses into CSF, forms carbonic acid and lowers pH, which is detected by central chemoreceptors."
+    },
+    {
+        "id": 13,
+        "question": "Baroreceptor firing in the carotid sinus increases when:",
+        "options": {
+            "A": "Mean arterial pressure rises",
+            "B": "Mean arterial pressure falls",
+            "C": "Heart rate increases",
+            "D": "Blood viscosity increases",
+            "E": "Sympathetic tone rises"
+        },
+        "answer": "A",
+        "explanation": "Stretch‐sensitive baroreceptors in high‐pressure areas increase firing with elevated arterial pressure, reducing sympathetic outflow."
+    },
+    {
+        "id": 14,
+        "question": "An arterial blood gas with pH 7.25, PCO₂ 60 mmHg reflects:",
+        "options": {
+            "A": "Respiratory alkalosis",
+            "B": "Respiratory acidosis",
+            "C": "Metabolic acidosis",
+            "D": "Mixed disorder",
+            "E": "Compensated alkalosis"
+        },
+        "answer": "B",
+        "explanation": "Elevated PCO₂ with low pH indicates respiratory acidosis due to hypoventilation."
+    },
+    {
+        "id": 15,
+        "question": "Which histological layer of the GI tract contains Meissner’s plexus?",
+        "options": {
+            "A": "Mucosa",
+            "B": "Submucosa",
+            "C": "Muscularis externa",
+            "D": "Serosa",
+            "E": "Adventitia"
+        },
+        "answer": "B",
+        "explanation": "Meissner’s (submucosal) plexus lies in the submucosa and regulates secretions and blood flow."
+    },
+    {
+        "id": 16,
+        "question": "Bile salts facilitate fat absorption by:",
+        "options": {
+            "A": "Coagulating lipase",
+            "B": "Emulsifying lipids into micelles",
+            "C": "Inhibiting pancreatic lipase",
+            "D": "Stimulating enterohepatic circulation",
+            "E": "Increasing duodenal pH"
+        },
+        "answer": "B",
+        "explanation": "Bile salts emulsify triglyceride droplets into micelles, increasing surface area for lipase action."
+    },
+    {
+        "id": 17,
+        "question": "Glucose absorption across the proximal enterocyte apical membrane uses:",
+        "options": {
+            "A": "GLUT2",
+            "B": "SGLT1",
+            "C": "CFTR",
+            "D": "Na⁺/K⁺-ATPase",
+            "E": "GLUT5"
+        },
+        "answer": "B",
+        "explanation": "SGLT1 is a sodium‐dependent glucose cotransporter on the brush border of enterocytes."
+    },
+    {
+        "id": 18,
+        "question": "Which renal segment is impermeable to water but actively reabsorbs Na⁺ and Cl⁻?",
+        "options": {
+            "A": "PCT",
+            "B": "Descending limb",
+            "C": "Ascending limb of loop of Henle",
+            "D": "DCT",
+            "E": "Collecting duct"
+        },
+        "answer": "C",
+        "explanation": "The thick ascending limb actively transports ions and is water‐impermeable, diluting tubular fluid."
+    },
+    {
+        "id": 19,
+        "question": "ADH acts on the collecting duct by inserting:",
+        "options": {
+            "A": "Na⁺ channels",
+            "B": "Aquaporin-2 channels",
+            "C": "K⁺ channels",
+            "D": "Cl⁻ channels",
+            "E": "H⁺ pumps"
+        },
+        "answer": "B",
+        "explanation": "ADH binds V2 receptors to trigger insertion of aquaporin-2 water channels into the collecting duct apical membrane."
+    },
+    {
+        "id": 20,
+        "question": "A GFR measured by inulin clearance is preferred because inulin is:",
+        "options": {
+            "A": "Reabsorbed",
+            "B": "Secreted",
+            "C": "Neither secreted nor reabsorbed",
+            "D": "Bound to plasma proteins",
+            "E": "Metabolised by tubules"
+        },
+        "answer": "C",
+        "explanation": "Inulin is freely filtered and neither reabsorbed nor secreted, giving an accurate measure of GFR."
+    },
+    {
+        "id": 21,
+        "question": "Which hormone is the primary negative regulator of calcium by inhibiting osteoclast activity?",
+        "options": {
+            "A": "PTH",
+            "B": "Calcitonin",
+            "C": "Calcitriol",
+            "D": "Vitamin D",
+            "E": "Thyroxine"
+        },
+        "answer": "B",
+        "explanation": "Calcitonin, secreted by thyroid C cells, lowers blood calcium by inhibiting osteoclast‐mediated bone resorption."
+    },
+    {
+        "id": 22,
+        "question": "Rickets in a child most likely results from a deficiency of:",
+        "options": {
+            "A": "Vitamin C",
+            "B": "Vitamin D",
+            "C": "Calcium",
+            "D": "Phosphate",
+            "E": "Vitamin A"
+        },
+        "answer": "B",
+        "explanation": "Vitamin D deficiency impairs mineralization of growth plates, causing rickets."
+    },
+    {
+        "id": 23,
+        "question": "Which imaging modality best visualises soft-tissue contrast in a suspected joint infection?",
+        "options": {
+            "A": "Plain radiograph",
+            "B": "Ultrasound",
+            "C": "CT scan",
+            "D": "MRI",
+            "E": "Bone scan"
+        },
+        "answer": "D",
+        "explanation": "MRI provides superior soft‐tissue contrast for detecting joint effusions and soft‐tissue involvement."
+    },
+    {
+        "id": 24,
+        "question": "The primary site of erythropoietin production in adults is the:",
+        "options": {
+            "A": "Liver",
+            "B": "Kidney",
+            "C": "Bone marrow",
+            "D": "Spleen",
+            "E": "Lung"
+        },
+        "answer": "B",
+        "explanation": "Peritubular fibroblasts in the renal cortex secrete erythropoietin in response to hypoxia."
+    },
+    {
+        "id": 25,
+        "question": "During moderate exercise, the main driver of increased ventilation is:",
+        "options": {
+            "A": "Hypoxaemia",
+            "B": "Hypercapnia",
+            "C": "Increased proprioceptor input",
+            "D": "Decreased pH",
+            "E": "Increased core temperature"
+        },
+        "answer": "C",
+        "explanation": "Neural reflexes from muscle and joint mechanoreceptors initiate increased ventilation at exercise onset."
+    },
+    {
+        "id": 26,
+        "question": "A respiratory quotient (RQ) of 0.7 indicates predominant metabolism of:",
+        "options": {
+            "A": "Carbohydrates",
+            "B": "Proteins",
+            "C": "Fats",
+            "D": "Ketones",
+            "E": "Alcohol"
+        },
+        "answer": "C",
+        "explanation": "RQ = CO₂ produced/O₂ consumed; an RQ of 0.7 corresponds to oxidation of fatty acids."
+    },
+    {
+        "id": 27,
+        "question": "Which part of the neuron conducts action potentials toward the cell body?",
+        "options": {
+            "A": "Axon",
+            "B": "Dendrite",
+            "C": "Node of Ranvier",
+            "D": "Synaptic bouton",
+            "E": "Axon hillock"
+        },
+        "answer": "B",
+        "explanation": "Dendrites receive synaptic inputs and conduct graded potentials toward the soma."
+    },
+    {
+        "id": 28,
+        "question": "The blood–brain barrier is formed mainly by:",
+        "options": {
+            "A": "Astrocyte endfeet",
+            "B": "Loose capillaries",
+            "C": "Fenestrated endothelium",
+            "D": "Choroid plexus epithelium",
+            "E": "Microglia"
+        },
+        "answer": "A",
+        "explanation": "Tight junctions between CNS endothelial cells plus astrocyte endfeet establish the blood–brain barrier."
+    },
+    {
+        "id": 29,
+        "question": "Which reflex tests the integrity of the S1–S2 spinal segments?",
+        "options": {
+            "A": "Biceps reflex",
+            "B": "Patellar reflex",
+            "C": "Achilles reflex",
+            "D": "Triceps reflex",
+            "E": "Jaw jerk"
+        },
+        "answer": "C",
+        "explanation": "The Achilles tendon reflex evaluates S1–S2 nerve root function by eliciting plantar flexion."
+    },
+    {
+        "id": 30,
+        "question": "A systematic review differs from a narrative review by its:",
+        "options": {
+            "A": "Scope of topic",
+            "B": "Use of meta-analysis",
+            "C": "Transparent search strategy",
+            "D": "Peer-reviewed status",
+            "E": "Length"
+        },
+        "answer": "C",
+        "explanation": "Systematic reviews employ predefined, reproducible search criteria and methods to minimise bias."
+    },
+    {
+        "id": 31,
+        "question": "In a case–control study, the measure of association is usually the:",
+        "options": {
+            "A": "Relative risk",
+            "B": "Odds ratio",
+            "C": "Risk difference",
+            "D": "Hazard ratio",
+            "E": "Incidence rate"
+        },
+        "answer": "B",
+        "explanation": "The odds ratio estimates the odds of exposure in cases versus controls in retrospective case–control designs."
+    },
+    {
+        "id": 32,
+        "question": "Which Sustainable Development Goal specifically targets global health improvement?",
+        "options": {
+            "A": "SDG 1",
+            "B": "SDG 2",
+            "C": "SDG 3",
+            "D": "SDG 5",
+            "E": "SDG 6"
+        },
+        "answer": "C",
+        "explanation": "SDG 3 aims to ensure healthy lives and promote well-being for all ages."
+    },
+    {
+        "id": 33,
+        "question": "Health inequalities measured on an absolute scale refer to:",
+        "options": {
+            "A": "Ratio of rates between groups",
+            "B": "Difference in rates between groups",
+            "C": "Standardised mortality ratios",
+            "D": "Prevalence odds ratios",
+            "E": "Gini coefficient"
+        },
+        "answer": "B",
+        "explanation": "Absolute inequalities compare the arithmetic difference in health outcome rates between groups."
+    },
+    {
+        "id": 34,
+        "question": "Which hormone’s tonic inhibition is lifted by stress to increase secretion?",
+        "options": {
+            "A": "Prolactin",
+            "B": "ACTH",
+            "C": "Growth hormone",
+            "D": "TSH",
+            "E": "FSH"
+        },
+        "answer": "A",
+        "explanation": "Stress reduces hypothalamic dopamine, disinhibiting prolactin release from the anterior pituitary."
+    },
+    {
+        "id": 35,
+        "question": "Glucagon’s primary effect on the liver is to:",
+        "options": {
+            "A": "Increase glycolysis",
+            "B": "Stimulate gluconeogenesis",
+            "C": "Activate lipoprotein lipase",
+            "D": "Promote glycogen synthesis",
+            "E": "Inhibit hormone-sensitive lipase"
+        },
+        "answer": "B",
+        "explanation": "Glucagon activates pathways that generate glucose, including gluconeogenesis and glycogenolysis."
+    },
+    {
+        "id": 36,
+        "question": "Which pituitary hormone exhibits diurnal secretion peaking in early morning?",
+        "options": {
+            "A": "Prolactin",
+            "B": "Growth hormone",
+            "C": "Cortisol (via ACTH)",
+            "D": "TSH",
+            "E": "LH"
+        },
+        "answer": "C",
+        "explanation": "ACTH and cortisol follow a circadian rhythm, peaking around waking hours in the early morning."
+    },
+    {
+        "id": 37,
+        "question": "Primary adrenal insufficiency (Addison’s disease) characteristically shows:",
+        "options": {
+            "A": "Low ACTH, low cortisol",
+            "B": "High ACTH, low cortisol",
+            "C": "Low ACTH, high cortisol",
+            "D": "High ACTH, high cortisol",
+            "E": "Normal ACTH, variable cortisol"
+        },
+        "answer": "B",
+        "explanation": "Destruction of the adrenal cortex reduces cortisol, removing feedback inhibition and raising ACTH."
+    },
+    {
+        "id": 38,
+        "question": "Which thyroid hormone requires conversion by deiodinase in peripheral tissues?",
+        "options": {
+            "A": "T₃",
+            "B": "rT₃",
+            "C": "T₄",
+            "D": "Calcitonin",
+            "E": "TSH"
+        },
+        "answer": "C",
+        "explanation": "Thyroxine (T₄) is peripherally deiodinated to the more active triiodothyronine (T₃)."
+    },
+    {
+        "id": 39,
+        "question": "Insulin release from β-cells is directly triggered by:",
+        "options": {
+            "A": "Increased intracellular ATP",
+            "B": "ACTH",
+            "C": "Glucagon",
+            "D": "GH",
+            "E": "Somatostatin"
+        },
+        "answer": "A",
+        "explanation": "Glucose metabolism raises ATP/ADP ratio, closing K_ATP channels, depolarising the β-cell and triggering insulin release."
+    },
+    {
+        "id": 40,
+        "question": "Which structure anchors the liver to the anterior abdominal wall?",
+        "options": {
+            "A": "Coronary ligament",
+            "B": "Falciform ligament",
+            "C": "Round ligament",
+            "D": "Triangular ligament",
+            "E": "Hepatoduodenal ligament"
+        },
+        "answer": "B",
+        "explanation": "The falciform ligament attaches the liver to the anterior abdominal wall and diaphragm."
+    },
+    {
+        "id": 41,
+        "question": "Gastric mixing waves originate in the:",
+        "options": {
+            "A": "Fundus",
+            "B": "Body",
+            "C": "Antrum",
+            "D": "Pylorus",
+            "E": "Cardia"
+        },
+        "answer": "C",
+        "explanation": "Rhythmic contractions in the antrum churn chyme and regulate gastric emptying."
+    },
+    {
+        "id": 42,
+        "question": "Which U-shaped capillary bed in the hepatic portal system connects two capillary networks?",
+        "options": {
+            "A": "Renal portal system",
+            "B": "Hypophyseal portal system",
+            "C": "Hepatic portal system",
+            "D": "Coronary circulation",
+            "E": "Pulmonary circulation"
+        },
+        "answer": "C",
+        "explanation": "The hepatic portal vein carries blood from intestinal capillaries to hepatic sinusoids before returning to systemic veins."
+    },
+    {
+        "id": 43,
+        "question": "The functional unit of the kidney, the nephron, includes all except:",
+        "options": {
+            "A": "Glomerulus",
+            "B": "Bowman’s capsule",
+            "C": "Collecting duct",
+            "D": "Distal tubule",
+            "E": "Loop of Henle"
+        },
+        "answer": "C",
+        "explanation": "The collecting duct is shared by multiple nephrons and is not part of a single nephron’s tubular components."
+    },
+    {
+        "id": 44,
+        "question": "Which reflex initiates detrusor contraction and urethral relaxation for micturition?",
+        "options": {
+            "A": "Pudendal reflex",
+            "B": "Pelvic splanchnic reflex",
+            "C": "Hypogastric reflex",
+            "D": "Vesicoureteric reflux",
+            "E": "Somatic reflex"
+        },
+        "answer": "B",
+        "explanation": "Parasympathetic pelvic splanchnic nerves (S2–S4) trigger detrusor contraction and internal sphincter relaxation."
+    },
+    {
+        "id": 45,
+        "question": "Stress urinary incontinence is due to:",
+        "options": {
+            "A": "Detrusor overactivity",
+            "B": "Urethral sphincter incompetence",
+            "C": "Neurogenic bladder",
+            "D": "Overflow",
+            "E": "Functional obstruction"
+        },
+        "answer": "B",
+        "explanation": "Loss of urethral closure pressure during increased abdominal pressure causes leakage in stress incontinence."
+    },
+    {
+        "id": 46,
+        "question": "Which nerve conveys sensation from the anterior two-thirds of the tongue?",
+        "options": {
+            "A": "Glossopharyngeal",
+            "B": "Hypoglossal",
+            "C": "Chorda tympani",
+            "D": "Vagus",
+            "E": "Lingual"
+        },
+        "answer": "C",
+        "explanation": "Taste and some general sensation from the anterior tongue is via the chorda tympani branch of facial nerve."
+    },
+    {
+        "id": 47,
+        "question": "Informed consent requires all except:",
+        "options": {
+            "A": "Capacity",
+            "B": "Disclosure",
+            "C": "Voluntariness",
+            "D": "Documentation",
+            "E": "Comprehension"
+        },
+        "answer": "D",
+        "explanation": "While documentation is good practice, the legal elements of consent are capacity, disclosure, comprehension, and voluntariness."
+    },
+    {
+        "id": 48,
+        "question": "The ICE framework in consultations stands for:",
+        "options": {
+            "A": "Information, consent, empathy",
+            "B": "Ideas, concerns, expectations",
+            "C": "Investigations, complaints, education",
+            "D": "Inclusion, culture, ethics",
+            "E": "Identity, context, environment"
+        },
+        "answer": "B",
+        "explanation": "ICE explores a patient’s own ideas about illness, concerns, and expectations for management."
+    },
+    {
+        "id": 49,
+        "question": "Which coping strategy involves planning and problem-solving to manage a stressor?",
+        "options": {
+            "A": "Emotion‐focused coping",
+            "B": "Avoidance coping",
+            "C": "Problem‐focused coping",
+            "D": "Denial",
+            "E": "Substance use"
+        },
+        "answer": "C",
+        "explanation": "Problem‐focused coping tackles the source of stress directly through planning and active strategies."
+    },
+    {
+        "id": 50,
+        "question": "A primary prevention strategy for iodine deficiency is:",
+        "options": {
+            "A": "Daily iodine supplements to pregnant women",
+            "B": "Salt iodisation",
+            "C": "Fortification of milk with calcium",
+            "D": "Universal screening of newborns",
+            "E": "Thyroid hormone replacement"
+        },
+        "answer": "B",
+        "explanation": "Salt iodisation provides a population‐wide source of iodine to prevent deficiency disorders."
+    },
+    {
+        "id": 51,
+        "question": "Which bone marrow structure supports erythroblastic islands?",
+        "options": {
+            "A": "Adipocyte",
+            "B": "Osteoclast",
+            "C": "Stromal fibroblast",
+            "D": "Macrophage",
+            "E": "Endothelial cell"
+        },
+        "answer": "D",
+        "explanation": "Central macrophages (‘nurse cells’) provide signals and iron to developing erythroblasts in islands."
+    },
+    {
+        "id": 52,
+        "question": "Which neurotransmitter is released at the neuromuscular junction?",
+        "options": {
+            "A": "GABA",
+            "B": "Dopamine",
+            "C": "Acetylcholine",
+            "D": "Norepinephrine",
+            "E": "Serotonin"
+        },
+        "answer": "C",
+        "explanation": "Acetylcholine released from motor nerve terminals binds nicotinic receptors on the muscle endplate."
+    },
+    {
+        "id": 53,
+        "question": "The primary active transporter in the proximal tubule reabsorbs:",
+        "options": {
+            "A": "Glucose via GLUT2",
+            "B": "Na⁺ via Na⁺/K⁺-ATPase",
+            "C": "Water via AQP2",
+            "D": "Urea via passive diffusion",
+            "E": "HCO₃⁻ via carbonic anhydrase"
+        },
+        "answer": "B",
+        "explanation": "Basolateral Na⁺/K⁺-ATPase maintains the electrochemical gradient driving reabsorption of multiple solutes."
+    },
+    {
+        "id": 54,
+        "question": "Which GI hormone stimulates pancreatic enzyme secretion?",
+        "options": {
+            "A": "Gastrin",
+            "B": "Secretin",
+            "C": "Cholecystokinin (CCK)",
+            "D": "Motilin",
+            "E": "Somatostatin"
+        },
+        "answer": "C",
+        "explanation": "CCK from duodenal I cells stimulates acinar cells to release digestive enzymes."
+    },
+    {
+        "id": 55,
+        "question": "Cruveilhier–Baumgarten syndrome involves recanalisation of:",
+        "options": {
+            "A": "Ductus arteriosus",
+            "B": "Ductus venosus",
+            "C": "Foramen ovale",
+            "D": "Umbilical vein",
+            "E": "Ligamentum teres"
+        },
+        "answer": "B",
+        "explanation": "Reopening of the ligamentum venosum (remnant of ductus venosus) can form a paraumbilical venous shunt."
+    },
+    {
+        "id": 56,
+        "question": "Which cell type in the adrenal cortex synthesises mineralocorticoids?",
+        "options": {
+            "A": "Zona glomerulosa cells",
+            "B": "Zona fasciculata cells",
+            "C": "Zona reticularis cells",
+            "D": "Chromaffin cells",
+            "E": "Medullary cells"
+        },
+        "answer": "A",
+        "explanation": "Zona glomerulosa synthesises aldosterone, the principal mineralocorticoid."
+    },
+    {
+        "id": 57,
+        "question": "Which tract conveys pain and temperature from the body to the brain?",
+        "options": {
+            "A": "Dorsal column–medial lemniscus",
+            "B": "Spinothalamic",
+            "C": "Corticospinal",
+            "D": "Spinocerebellar",
+            "E": "Vestibulospinal"
+        },
+        "answer": "B",
+        "explanation": "The anterolateral (spinothalamic) pathway transmits pain and temperature sensations."
+    },
+    {
+        "id": 58,
+        "question": "Which study design randomises participants to exposure groups?",
+        "options": {
+            "A": "Case–control",
+            "B": "Cohort",
+            "C": "Randomised controlled trial",
+            "D": "Cross-sectional",
+            "E": "Ecological"
+        },
+        "answer": "C",
+        "explanation": "RCTs allocate participants randomly to interventions to compare outcomes prospectively."
+    },
+    {
+        "id": 59,
+        "question": "Which vitamin deficiency causes neural tube defects when absent early in pregnancy?",
+        "options": {
+            "A": "Vitamin A",
+            "B": "Vitamin B₉ (folate)",
+            "C": "Vitamin B₁₂",
+            "D": "Vitamin D",
+            "E": "Vitamin K"
+        },
+        "answer": "B",
+        "explanation": "Folate is essential for DNA synthesis during neurulation; deficiency leads to defects like spina bifida."
+    },
+    {
+        "id": 60,
+        "question": "Which structure in the adult brain is derived from the embryonic diencephalon?",
+        "options": {
+            "A": "Cerebral cortex",
+            "B": "Cerebellum",
+            "C": "Thalamus",
+            "D": "Pons",
+            "E": "Medulla"
+        },
+        "answer": "C",
+        "explanation": "The thalamus and hypothalamus develop from the diencephalon."
+    },
+    {
+        "id": 61,
+        "question": "Which part of the ECG correlates with ventricular repolarisation?",
+        "options": {
+            "A": "P wave",
+            "B": "QRS complex",
+            "C": "T wave",
+            "D": "PR interval",
+            "E": "ST segment"
+        },
+        "answer": "C",
+        "explanation": "The T wave represents the phase of ventricular repolarisation."
+    },
+    {
+        "id": 62,
+        "question": "In critical appraisal, a 95% confidence interval that does not cross 1.0 for an odds ratio indicates:",
+        "options": {
+            "A": "No association",
+            "B": "Statistical significance",
+            "C": "Wide variability",
+            "D": "Confounding",
+            "E": "Effect modification"
+        },
+        "answer": "B",
+        "explanation": "If the CI excludes the null value (1.0 for OR), the association is statistically significant at the 5% level."
+    },
+    {
+        "id": 63,
+        "question": "Which blood vessel carries oxygenated blood in the foetus?",
+        "options": {
+            "A": "Umbilical artery",
+            "B": "Umbilical vein",
+            "C": "Pulmonary artery",
+            "D": "Ductus arteriosus",
+            "E": "Ductus venosus"
+        },
+        "answer": "B",
+        "explanation": "The umbilical vein transports oxygen-rich blood from placenta to the foetus."
+    },
+    {
+        "id": 64,
+        "question": "A T-score of –2.6 on DEXA indicates:",
+        "options": {
+            "A": "Normal bone density",
+            "B": "Osteopenia",
+            "C": "Osteoporosis",
+            "D": "Severe osteoporosis",
+            "E": "High bone mass"
+        },
+        "answer": "C",
+        "explanation": "A T-score ≤ –2.5 defines osteoporosis by WHO criteria."
+    },
+    {
+        "id": 65,
+        "question": "The ligament of Treitz marks the junction between:",
+        "options": {
+            "A": "Stomach and duodenum",
+            "B": "Duodenum and jejunum",
+            "C": "Ileum and colon",
+            "D": "Ascending and transverse colon",
+            "E": "Sigmoid and rectum"
+        },
+        "answer": "B",
+        "explanation": "The suspensory muscle (ligament) of the duodenum marks the duodenojejunal flexure."
+    },
+    {
+        "id": 66,
+        "question": "Which cell type in gastric glands secretes intrinsic factor?",
+        "options": {
+            "A": "Chief cell",
+            "B": "Parietal cell",
+            "C": "G cell",
+            "D": "D cell",
+            "E": "Mucous cell"
+        },
+        "answer": "B",
+        "explanation": "Parietal cells secrete hydrochloric acid and intrinsic factor necessary for B₁₂ absorption."
+    },
+    {
+        "id": 67,
+        "question": "The circle of Willis provides a collateral pathway between:",
+        "options": {
+            "A": "Anterior and posterior cerebral circulations",
+            "B": "Pulmonary and systemic circulations",
+            "C": "Left and right coronary arteries",
+            "D": "Hepatic portal and systemic veins",
+            "E": "Renal arteries"
+        },
+        "answer": "A",
+        "explanation": "The arterial circle connects anterior (carotid) and posterior (vertebrobasilar) cerebral circulations."
+    },
+    {
+        "id": 68,
+        "question": "Which neurotransmitter is primarily inhibitory in the CNS?",
+        "options": {
+            "A": "Glutamate",
+            "B": "GABA",
+            "C": "Acetylcholine",
+            "D": "Dopamine",
+            "E": "Noradrenaline"
+        },
+        "answer": "B",
+        "explanation": "GABA is the main inhibitory neurotransmitter in the adult brain."
+    },
+    {
+        "id": 69,
+        "question": "Which structure regulates circadian release of cortisol?",
+        "options": {
+            "A": "Suprachiasmatic nucleus",
+            "B": "Paraventricular nucleus",
+            "C": "Arcuate nucleus",
+            "D": "Ventromedial nucleus",
+            "E": "Lateral hypothalamus"
+        },
+        "answer": "A",
+        "explanation": "The suprachiasmatic nucleus in the hypothalamus controls circadian rhythms, including cortisol secretion."
+    },
+    {
+        "id": 70,
+        "question": "Which GI hormone is released in response to acid in the duodenum to stimulate pancreatic bicarbonate?",
+        "options": {
+            "A": "Secretin",
+            "B": "Gastrin",
+            "C": "CCK",
+            "D": "Motilin",
+            "E": "GIP"
+        },
+        "answer": "A",
+        "explanation": "Secretin from S cells triggers pancreatic duct cells to secrete bicarbonate-rich fluid."
+    },
+    {
+        "id": 71,
+        "question": "Which mechanism underlies passive immunity in newborns?",
+        "options": {
+            "A": "Transplacental IgG transfer",
+            "B": "Breastmilk IgA transfer",
+            "C": "Vaccination in utero",
+            "D": "Neonatal B cell activation",
+            "E": "T cell transfer"
+        },
+        "answer": "A",
+        "explanation": "Maternal IgG crosses the placenta to provide passive immunity to the fetus."
+    },
+    {
+        "id": 72,
+        "question": "Which type of joint is the hip joint classified as?",
+        "options": {
+            "A": "Hinge",
+            "B": "Ball-and-socket",
+            "C": "Pivot",
+            "D": "Saddle",
+            "E": "Plane"
+        },
+        "answer": "B",
+        "explanation": "The hip is a synovial ball-and-socket joint allowing movement in multiple planes."
+    },
+    {
+        "id": 73,
+        "question": "Which muscle group is primarily responsible for knee extension?",
+        "options": {
+            "A": "Hamstrings",
+            "B": "Quadriceps",
+            "C": "Gastrocnemius",
+            "D": "Iliopsoas",
+            "E": "Adductors"
+        },
+        "answer": "B",
+        "explanation": "The quadriceps femoris group extends the knee via insertion onto the tibial tuberosity."
+    },
+    {
+        "id": 74,
+        "question": "Which component of a clinical history addresses patient expectations?",
+        "options": {
+            "A": "Symptoms",
+            "B": "Risk factors",
+            "C": "ICE",
+            "D": "Past medical history",
+            "E": "Family history"
+        },
+        "answer": "C",
+        "explanation": "ICE explores Ideas, Concerns, and Expectations to align management with patient goals."
+    },
+    {
+        "id": 75,
+        "question": "Which statistical test compares means of two related samples?",
+        "options": {
+            "A": "Independent t-test",
+            "B": "Paired t-test",
+            "C": "Chi-square test",
+            "D": "ANOVA",
+            "E": "Mann–Whitney U test"
+        },
+        "answer": "B",
+        "explanation": "The paired t-test analyses differences between two measurements taken on the same individuals."
+    },
+    {
+        "id": 76,
+        "question": "Which enzyme catalyses the rate-limiting step in steroid hormone synthesis?",
+        "options": {
+            "A": "21-hydroxylase",
+            "B": "Cholesterol desmolase (P450scc)",
+            "C": "11β-hydroxylase",
+            "D": "Aromatase",
+            "E": "17α-hydroxylase"
+        },
+        "answer": "B",
+        "explanation": "P450scc cleaves the cholesterol side chain to form pregnenolone, initiating steroidogenesis."
+    },
+    {
+        "id": 77,
+        "question": "Which cranial nerve mediates the corneal reflex afferent limb?",
+        "options": {
+            "A": "Ophthalmic branch of V (V₁)",
+            "B": "Facial (VII)",
+            "C": "Trigeminal motor (V₃)",
+            "D": "Glossopharyngeal (IX)",
+            "E": "Optic (II)"
+        },
+        "answer": "A",
+        "explanation": "Touch to the cornea is sensed by V₁, then efferent blink via facial nerve VII."
+    },
+    {
+        "id": 78,
+        "question": "In motivational interviewing, a ‘change talk’ statement expresses:",
+        "options": {
+            "A": "Resistance",
+            "B": "Desire, ability, reason, or need for change",
+            "C": "Sustain talk",
+            "D": "Advice-giving",
+            "E": "Reflection of content"
+        },
+        "answer": "B",
+        "explanation": "Change talk includes patient’s own expressions of desire, ability, reasons, or need to change behaviour."
+    },
+    {
+        "id": 79,
+        "question": "Which cell type in the gut secretes antimicrobial peptides?",
+        "options": {
+            "A": "Goblet cell",
+            "B": "Enterocyte",
+            "C": "Paneth cell",
+            "D": "M cell",
+            "E": "Enteroendocrine cell"
+        },
+        "answer": "C",
+        "explanation": "Paneth cells at the bases of crypts release defensins and lysozyme to regulate microbiota."
+    },
+    {
+        "id": 80,
+        "question": "A positive nitrite test on urine dipstick suggests infection with:",
+        "options": {
+            "A": "Staphylococcus saprophyticus",
+            "B": "Enterococcus faecalis",
+            "C": "Escherichia coli",
+            "D": "Streptococcus pyogenes",
+            "E": "Pseudomonas aeruginosa"
+        },
+        "answer": "C",
+        "explanation": "Many Gram-negative bacteria, notably E. coli, reduce nitrate to nitrite in urine."
+    },
+    {
+        "id": 81,
+        "question": "Which area of the nephron is most highly permeable to water in the absence of ADH?",
+        "options": {
+            "A": "Proximal tubule",
+            "B": "Thin descending limb",
+            "C": "Thick ascending limb",
+            "D": "Distal convoluted tubule",
+            "E": "Collecting duct"
+        },
+        "answer": "B",
+        "explanation": "The thin descending limb is water-permeable and concentrates filtrate before the thick ascending segment."
+    },
+    {
+        "id": 82,
+        "question": "Which amino acid hormone cascade involves JAK-STAT signalling?",
+        "options": {
+            "A": "Insulin",
+            "B": "Growth hormone",
+            "C": "Epinephrine",
+            "D": "Thyroxine",
+            "E": "Cortisol"
+        },
+        "answer": "B",
+        "explanation": "Growth hormone binds its receptor, activating JAK2 and STAT transcription factors."
+    },
+    {
+        "id": 83,
+        "question": "Which ligament stabilises the shoulder by spanning the coracoid to the clavicle?",
+        "options": {
+            "A": "Coracoacromial ligament",
+            "B": "Coracoclavicular ligament",
+            "C": "Glenohumeral ligament",
+            "D": "Transverse humeral ligament",
+            "E": "Acromioclavicular ligament"
+        },
+        "answer": "B",
+        "explanation": "The coracoclavicular ligament (conoid and trapezoid parts) anchors the scapula to the clavicle."
+    },
+    {
+        "id": 84,
+        "question": "Which cranial nerve carries taste from the posterior one-third of the tongue?",
+        "options": {
+            "A": "Facial (VII)",
+            "B": "Glossopharyngeal (IX)",
+            "C": "Vagus (X)",
+            "D": "Hypoglossal (XII)",
+            "E": "Trigeminal (V)"
+        },
+        "answer": "B",
+        "explanation": "Taste from the posterior tongue is transmitted via cranial nerve IX."
+    },
+    {
+        "id": 85,
+        "question": "Which ECG interval represents conduction through the AV node?",
+        "options": {
+            "A": "PR interval",
+            "B": "QT interval",
+            "C": "ST segment",
+            "D": "QRS complex",
+            "E": "RR interval"
+        },
+        "answer": "A",
+        "explanation": "The PR interval spans atrial depolarisation and AV nodal conduction delay before ventricular activation."
+    },
+    {
+        "id": 86,
+        "question": "Which statistical measure indicates precision of an estimate?",
+        "options": {
+            "A": "p-value",
+            "B": "Confidence interval width",
+            "C": "Mean",
+            "D": "Standard deviation",
+            "E": "Mode"
+        },
+        "answer": "B",
+        "explanation": "Narrower confidence intervals reflect greater precision around the point estimate."
+    },
+    {
+        "id": 87,
+        "question": "Which protein carrier transports thyroid hormones in the blood?",
+        "options": {
+            "A": "Albumin",
+            "B": "Thyroxine-binding globulin (TBG)",
+            "C": "Transferrin",
+            "D": "Fibrinogen",
+            "E": "IgG"
+        },
+        "answer": "B",
+        "explanation": "TBG binds most circulating T₄ and T₃, regulating their free hormone levels."
+    },
+    {
+        "id": 88,
+        "question": "A patient with primary hyperaldosteronism typically has:",
+        "options": {
+            "A": "Hyponatraemia, hyperkalaemia",
+            "B": "Hypernatraemia, hypokalaemia",
+            "C": "Hypernatraemia, hyperkalaemia",
+            "D": "Hyponatraemia, hypokalaemia",
+            "E": "Normal electrolytes"
+        },
+        "answer": "B",
+        "explanation": "Excess aldosterone promotes sodium retention and potassium excretion, raising Na⁺ and lowering K⁺."
+    },
+    {
+        "id": 89,
+        "question": "Which cranial nerve nucleus is located in the dorsal medulla?",
+        "options": {
+            "A": "Nucleus ambiguus",
+            "B": "Dorsal motor nucleus of X",
+            "C": "Hypoglossal nucleus",
+            "D": "Facial nucleus",
+            "E": "Trigeminal motor nucleus"
+        },
+        "answer": "B",
+        "explanation": "The dorsal motor nucleus of the vagus resides in the floor of the 4th ventricle in the medulla."
+    },
+    {
+        "id": 90,
+        "question": "Effective safety-netting in a consultation involves:",
+        "options": {
+            "A": "Scheduling immediate follow-up",
+            "B": "Providing written information only",
+            "C": "Advising 'watchful waiting' without criteria",
+            "D": "Explaining red flags and when to return",
+            "E": "Prescribing antibiotics prophylactically"
+        },
+        "answer": "D",
+        "explanation": "Safety-netting includes telling patients warning signs that warrant prompt re-evaluation."
+    },
+    {
+        "id": 91,
+        "question": "Which spinal tract conducts fine touch and proprioception?",
+        "options": {
+            "A": "Spinothalamic",
+            "B": "Dorsal column",
+            "C": "Spinocerebellar",
+            "D": "Corticospinal",
+            "E": "Reticulospinal"
+        },
+        "answer": "B",
+        "explanation": "The dorsal columns (fasciculus gracilis and cuneatus) carry discriminative touch and proprioceptive information."
+    },
+    {
+        "id": 92,
+        "question": "Which test appraises ability to synthesise data on interventions quantitatively?",
+        "options": {
+            "A": "Forest plot",
+            "B": "Funnel plot",
+            "C": "Meta-analysis",
+            "D": "Cochrane Q",
+            "E": "Egger’s test"
+        },
+        "answer": "C",
+        "explanation": "Meta-analysis pools effect sizes across studies to derive a summary quantitative estimate."
+    },
+    {
+        "id": 93,
+        "question": "Which GI motility pattern mixes chyme without net propulsion?",
+        "options": {
+            "A": "Peristalsis",
+            "B": "Segmentation",
+            "C": "Tonic contraction",
+            "D": "Migrating motor complex",
+            "E": "Mass movement"
+        },
+        "answer": "B",
+        "explanation": "Segmentation contractions churn intestinal contents by alternating constriction and relaxation."
+    },
+    {
+        "id": 94,
+        "question": "Which surface landmark corresponds to the L4 vertebral level for lumbar puncture?",
+        "options": {
+            "A": "Iliac crest",
+            "B": "Costal margin",
+            "C": "Inguinal ligament",
+            "D": "Xiphoid process",
+            "E": "Sacral promontory"
+        },
+        "answer": "A",
+        "explanation": "A line between the iliac crests (Tuffier’s line) crosses the L4 spinous process."
+    },
+    {
+        "id": 95,
+        "question": "Which component of evidence-based medicine integrates patient values?",
+        "options": {
+            "A": "Best research evidence",
+            "B": "Clinical expertise",
+            "C": "Patient context and preferences",
+            "D": "Systematic review",
+            "E": "Clinical guideline"
+        },
+        "answer": "C",
+        "explanation": "EBM requires combining evidence with clinical judgment and patient preferences in decision-making."
+    },
+    {
+        "id": 96,
+        "question": "Which fibre type predominates in postural muscles for endurance?",
+        "options": {
+            "A": "Type I (slow-twitch)",
+            "B": "Type IIa",
+            "C": "Type IIb",
+            "D": "Type IIx",
+            "E": "Cardiac muscle"
+        },
+        "answer": "A",
+        "explanation": "Type I fibres are fatigue-resistant and suited for sustained, low-intensity contractions."
+    },
+    {
+        "id": 97,
+        "question": "A positive Murphy’s sign on exam suggests pathology of the:",
+        "options": {
+            "A": "Appendix",
+            "B": "Gallbladder",
+            "C": "Pancreas",
+            "D": "Spleen",
+            "E": "Kidney"
+        },
+        "answer": "B",
+        "explanation": "Pain and inspiratory arrest on RUQ palpation indicate acute cholecystitis affecting the gallbladder."
+    },
+    {
+        "id": 98,
+        "question": "Which statistical test compares more than two group means simultaneously?",
+        "options": {
+            "A": "Paired t-test",
+            "B": "Chi-square",
+            "C": "One-way ANOVA",
+            "D": "Fisher’s exact",
+            "E": "Wilcoxon rank-sum"
+        },
+        "answer": "C",
+        "explanation": "One-way ANOVA tests for differences among three or more independent group means."
+    },
+    {
+        "id": 99,
+        "question": "Which cranial fossa contains the cerebellum and brainstem?",
+        "options": {
+            "A": "Anterior cranial fossa",
+            "B": "Middle cranial fossa",
+            "C": "Posterior cranial fossa",
+            "D": "Temporal fossa",
+            "E": "Infratemporal fossa"
+        },
+        "answer": "C",
+        "explanation": "The posterior cranial fossa houses the cerebellum, pons, and medulla oblongata."
+    },
+    {
+        "id": 100,
+        "question": "In motivational interviewing, the OARS acronym includes all except:",
+        "options": {
+            "A": "Open-ended questions",
+            "B": "Affirmations",
+            "C": "Reflective listening",
+            "D": "Summarising",
+            "E": "Suggesting solutions"
+        },
+        "answer": "E",
+        "explanation": "OARS comprises Open questions, Affirmations, Reflections, and Summaries—not direct advice or solutions."
+    }
+]
