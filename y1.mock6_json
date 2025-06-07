@@ -1,0 +1,1302 @@
+[
+    {
+        "id": 1,
+        "question": "Physiologically, how do insulin and glucagon antagonize each other to maintain plasma glucose?",
+        "options": {
+            "A": "Insulin inhibits gluconeogenesis; glucagon promotes lipogenesis.",
+            "B": "Insulin stimulates glucose uptake and glycogen synthesis; glucagon stimulates glycogenolysis and gluconeogenesis.",
+            "C": "Both hormones increase ketone production.",
+            "D": "Insulin raises plasma glucose by gluconeogenesis; glucagon lowers it by glycolysis.",
+            "E": "Neither hormone affects hepatic glucose output."
+        },
+        "answer": "B",
+        "explanation": "Insulin lowers plasma glucose by enhancing peripheral uptake and hepatic glycogen synthesis, while glucagon raises it via hepatic glycogen breakdown and gluconeogenesis."
+    },
+    {
+        "id": 2,
+        "question": "Which feature distinguishes type 1 from type 2 diabetes mellitus?",
+        "options": {
+            "A": "Type 1 shows insulin resistance; type 2 shows absolute insulin deficiency.",
+            "B": "Type 1 arises from autoimmune β-cell destruction; type 2 from insulin resistance and relative β-cell failure.",
+            "C": "Type 1 patients are always obese; type 2 always lean.",
+            "D": "Type 1 presents only in adulthood; type 2 only in childhood.",
+            "E": "Type 1 is managed with diet alone; type 2 requires insulin."
+        },
+        "answer": "B",
+        "explanation": "Type 1 DM is due to autoimmune destruction of β-cells causing absolute insulin deficiency, whereas type 2 involves peripheral insulin resistance and eventual β-cell dysfunction."
+    },
+    {
+        "id": 3,
+        "question": "According to WHO criteria, a 75 g OGTT 2-hour plasma glucose of 8.5 mmol/L indicates:",
+        "options": {
+            "A": "Normal glucose tolerance",
+            "B": "Impaired glucose tolerance",
+            "C": "Diabetes mellitus",
+            "D": "Impaired fasting glucose",
+            "E": "Reactive hypoglycaemia"
+        },
+        "answer": "B",
+        "explanation": "A 2 h plasma glucose between 7.8–11.0 mmol/L defines impaired glucose tolerance; ≥ 11.1 mmol/L indicates diabetes. WHO does not define impaired fasting glucose by OGTT."
+    },
+    {
+        "id": 4,
+        "question": "Which is NOT a major modifiable risk factor for type 2 diabetes?",
+        "options": {
+            "A": "Obesity",
+            "B": "Physical inactivity",
+            "C": "High-fiber diet",
+            "D": "Hypertension",
+            "E": "Dyslipidaemia"
+        },
+        "answer": "C",
+        "explanation": "A high-fiber diet is protective rather than a risk factor. Obesity, inactivity, hypertension, and dyslipidaemia all increase type 2 DM risk."
+    },
+    {
+        "id": 5,
+        "question": "A common presenting symptom of undiagnosed type 2 diabetes mellitus is:",
+        "options": {
+            "A": "Polyuria and polydipsia",
+            "B": "Bradycardia",
+            "C": "Hypothermia",
+            "D": "Miosis",
+            "E": "Constipation"
+        },
+        "answer": "A",
+        "explanation": "Hyperglycaemia causes osmotic diuresis leading to increased urination and thirst, hallmark symptoms of diabetes."
+    },
+    {
+        "id": 6,
+        "question": "Which best describes the metabolic syndrome spectrum?",
+        "options": {
+            "A": "Underweight → anorexia → cachexia",
+            "B": "Obesity → insulin resistance → type 2 diabetes → cardiovascular complications",
+            "C": "Type 1 DM → ketoacidosis → coma",
+            "D": "Hypertension → hypotension → shock",
+            "E": "Hyperthyroidism → hypothyroidism → goitre"
+        },
+        "answer": "B",
+        "explanation": "Metabolic syndrome describes progression from central obesity and insulin resistance to type 2 diabetes and its vascular complications."
+    },
+    {
+        "id": 7,
+        "question": "Acute insulin deficiency primarily causes:",
+        "options": {
+            "A": "Respiratory alkalosis",
+            "B": "Decreased ketone production",
+            "C": "Diabetic ketoacidosis",
+            "D": "Hypoglycaemia",
+            "E": "Hypothermia"
+        },
+        "answer": "C",
+        "explanation": "Without insulin, lipolysis and ketogenesis increase, leading to accumulation of ketone bodies and metabolic acidosis."
+    },
+    {
+        "id": 8,
+        "question": "Hyperglycaemia leads to osmotic diuresis resulting in:",
+        "options": {
+            "A": "Cellular overhydration",
+            "B": "Intracellular dehydration",
+            "C": "Hypernatraemia only",
+            "D": "Hypokalaemia only",
+            "E": "Metabolic alkalosis"
+        },
+        "answer": "B",
+        "explanation": "Elevated plasma glucose draws water out of cells into the extracellular space, causing intracellular dehydration and volume loss."
+    },
+    {
+        "id": 9,
+        "question": "Which zone of the adrenal cortex produces mineralocorticoids?",
+        "options": {
+            "A": "Zona glomerulosa",
+            "B": "Zona fasciculata",
+            "C": "Zona reticularis",
+            "D": "Adrenal medulla",
+            "E": "Adrenal capsule"
+        },
+        "answer": "A",
+        "explanation": "The zona glomerulosa synthesizes aldosterone, the primary mineralocorticoid regulating sodium and potassium balance."
+    },
+    {
+        "id": 10,
+        "question": "Cortisol secretion is stimulated by:",
+        "options": {
+            "A": "Insulin",
+            "B": "TSH",
+            "C": "ACTH",
+            "D": "Aldosterone",
+            "E": "ADH"
+        },
+        "answer": "C",
+        "explanation": "ACTH from the anterior pituitary binds melanocortin 2 receptors on zona fasciculata cells, triggering cortisol synthesis."
+    },
+    {
+        "id": 11,
+        "question": "Chronic cortisol excess causes:",
+        "options": {
+            "A": "Addison disease",
+            "B": "Cushing syndrome",
+            "C": "Graves disease",
+            "D": "Pituitary adenoma",
+            "E": "Hypothyroidism"
+        },
+        "answer": "B",
+        "explanation": "Prolonged high cortisol levels produce Cushing syndrome, characterized by central obesity, hypertension, and glucose intolerance."
+    },
+    {
+        "id": 12,
+        "question": "An Addisonian crisis features:",
+        "options": {
+            "A": "Severe hyperglycaemia",
+            "B": "Acute hypotension and hypoglycaemia",
+            "C": "Polycythaemia",
+            "D": "Bradycardia only",
+            "E": "Metabolic alkalosis"
+        },
+        "answer": "B",
+        "explanation": "Acute adrenal insufficiency leads to cortisol and aldosterone deficiency, resulting in hypotension, hypoglycaemia, and electrolyte imbalances."
+    },
+    {
+        "id": 13,
+        "question": "The main physiological regulator of aldosterone is:",
+        "options": {
+            "A": "ACTH",
+            "B": "Angiotensin II",
+            "C": "Insulin",
+            "D": "Atrial natriuretic peptide",
+            "E": "ADH"
+        },
+        "answer": "B",
+        "explanation": "Renin-angiotensin-aldosterone system activation produces angiotensin II, which binds AT1 receptors on zona glomerulosa cells to stimulate aldosterone release."
+    },
+    {
+        "id": 14,
+        "question": "Glucocorticoids and mineralocorticoids share:",
+        "options": {
+            "A": "Identical receptor specificity",
+            "B": "Steroid backbone derived from cholesterol",
+            "C": "Gene transcription targets",
+            "D": "Site of production in the medulla",
+            "E": "Function in electrolyte balance only"
+        },
+        "answer": "B",
+        "explanation": "All adrenocortical hormones derive from cholesterol and share the cyclopentanoperhydrophenanthrene ring structure."
+    },
+    {
+        "id": 15,
+        "question": "Primary hyperaldosteronism causes:",
+        "options": {
+            "A": "Hyperkalaemia and hypotension",
+            "B": "Hypokalaemia and hypertension",
+            "C": "Hyponatraemia and dehydration",
+            "D": "Hypoglycaemia only",
+            "E": "Metabolic acidosis only"
+        },
+        "answer": "B",
+        "explanation": "Excess aldosterone increases sodium reabsorption and potassium secretion, leading to hypertension and hypokalaemia."
+    },
+    {
+        "id": 16,
+        "question": "'Fight or flight' involves rapid catecholamine release from:",
+        "options": {
+            "A": "Zona fasciculata",
+            "B": "Adrenal medulla",
+            "C": "Parathyroid glands",
+            "D": "Pancreas",
+            "E": "Pituitary"
+        },
+        "answer": "B",
+        "explanation": "Chromaffin cells of the adrenal medulla secrete epinephrine and norepinephrine into the bloodstream during acute stress."
+    },
+    {
+        "id": 17,
+        "question": "Stress reduces tonic inhibition of prolactin by decreasing:",
+        "options": {
+            "A": "Dopamine",
+            "B": "TRH",
+            "C": "Somatostatin",
+            "D": "GHRH",
+            "E": "ACTH"
+        },
+        "answer": "A",
+        "explanation": "Hypothalamic dopamine normally inhibits prolactin; stress lowers dopamine release, disinhibiting prolactin secretion."
+    },
+    {
+        "id": 18,
+        "question": "Adrenal cortex vs medulla in stress response:",
+        "options": {
+            "A": "Cortex releases catecholamines; medulla releases cortisol.",
+            "B": "Cortex releases cortisol for long-term stress; medulla releases catecholamines for immediate response.",
+            "C": "Both secrete insulin.",
+            "D": "Medulla secretes aldosterone; cortex secretes epinephrine.",
+            "E": "Neither is involved in stress."
+        },
+        "answer": "B",
+        "explanation": "Cortisol from cortex mediates prolonged stress adaptation, while medullary catecholamines enable rapid fight-or-flight responses."
+    },
+    {
+        "id": 19,
+        "question": "Which differentiates mood/anxiety disorders from normal stress?",
+        "options": {
+            "A": "Duration and severity beyond expected coping capacity",
+            "B": "Presence of cortisol only",
+            "C": "Sympathetic activation alone",
+            "D": "Occurs only in children",
+            "E": "Always requires medication"
+        },
+        "answer": "A",
+        "explanation": "Pathological anxiety or mood disturbance is disproportionate in intensity or duration to stressors and impairs function."
+    },
+    {
+        "id": 20,
+        "question": "Acute vs chronic stress effects:",
+        "options": {
+            "A": "Only acute raises cortisol; chronic does not.",
+            "B": "Acute enhances immunity; chronic suppresses it.",
+            "C": "Chronic stress has no physiological effects.",
+            "D": "Only chronic increases catecholamines.",
+            "E": "Neither affects cardiovascular risk."
+        },
+        "answer": "B",
+        "explanation": "Short-term stress can boost immune function, but chronic stress elevates cortisol chronically, leading to immunosuppression and cardiovascular risks."
+    },
+    {
+        "id": 21,
+        "question": "What is the primary function of glucagon in glucose homeostasis?",
+        "options": {
+            "A": "Enhances insulin secretion from β-cells.",
+            "B": "Stimulates hepatic glycogenolysis and gluconeogenesis.",
+            "C": "Promotes cellular glucose uptake.",
+            "D": "Inhibits lipolysis in adipose tissue.",
+            "E": "Increases muscle glucose uptake."
+        },
+        "answer": "B",
+        "explanation": "Glucagon raises blood glucose by activating enzymes that break down glycogen and synthesise new glucose in the liver."
+    },
+    {
+        "id": 22,
+        "question": "Which cell type produces insulin in the pancreas?",
+        "options": {
+            "A": "Alpha cells",
+            "B": "Beta cells",
+            "C": "Delta cells",
+            "D": "PP cells",
+            "E": "Acinar cells"
+        },
+        "answer": "B",
+        "explanation": "Beta cells in the islets of Langerhans synthesise and secrete insulin in response to elevated blood glucose."
+    },
+    {
+        "id": 23,
+        "question": "Impaired fasting glucose is defined as fasting plasma glucose of:",
+        "options": {
+            "A": "<5.6 mmol/L",
+            "B": "5.6–6.9 mmol/L",
+            "C": "≥7.0 mmol/L",
+            "D": "7.8–11.0 mmol/L",
+            "E": ">11.1 mmol/L"
+        },
+        "answer": "B",
+        "explanation": "Fasting plasma glucose between 5.6 and 6.9 mmol/L indicates impaired fasting glucose (prediabetes)."
+    },
+    {
+        "id": 24,
+        "question": "Which genetic factor increases the risk of type 2 diabetes?",
+        "options": {
+            "A": "HLA-DR3/4 haplotypes",
+            "B": "TCF7L2 gene variants",
+            "C": "Mutation in insulin gene",
+            "D": "Mutation in glucagon gene",
+            "E": "Alpha-globin gene deletions"
+        },
+        "answer": "B",
+        "explanation": "Variants in the TCF7L2 transcription factor gene are strongly associated with increased type 2 DM risk."
+    },
+    {
+        "id": 25,
+        "question": "Weight loss in type 2 diabetes is most commonly due to:",
+        "options": {
+            "A": "Increased insulin sensitivity",
+            "B": "Glycosuria and caloric loss",
+            "C": "Decreased appetite only",
+            "D": "Water retention",
+            "E": "Excess cortisol"
+        },
+        "answer": "B",
+        "explanation": "Excess glucose is excreted in urine, resulting in caloric loss and weight reduction."
+    },
+    {
+        "id": 26,
+        "question": "Metabolic syndrome is diagnosed when central obesity plus any two of the following are present EXCEPT:",
+        "options": {
+            "A": "Raised triglycerides",
+            "B": "Low HDL cholesterol",
+            "C": "Elevated blood pressure",
+            "D": "High LDL cholesterol",
+            "E": "Raised fasting glucose"
+        },
+        "answer": "D",
+        "explanation": "High LDL is not a criterion; instead, raised TG, low HDL, hypertension, and impaired fasting glucose are used."
+    },
+    {
+        "id": 27,
+        "question": "A patient with DKA will show which arterial blood gas?",
+        "options": {
+            "A": "pH 7.45, HCO₃⁻ 24 mmol/L",
+            "B": "pH 7.25, HCO₃⁻ 10 mmol/L",
+            "C": "pH 7.55, HCO₃⁻ 30 mmol/L",
+            "D": "pH 7.35, HCO₃⁻ 22 mmol/L",
+            "E": "pH 7.10, HCO₃⁻ 28 mmol/L"
+        },
+        "answer": "B",
+        "explanation": "DKA causes metabolic acidosis (low pH) with low bicarbonate due to ketone accumulation."
+    },
+    {
+        "id": 28,
+        "question": "Acute hyperglycaemia causes an osmotic shift that:",
+        "options": {
+            "A": "Increases intracellular volume",
+            "B": "Decreases extracellular osmolality",
+            "C": "Draws water out of cells into ECF",
+            "D": "Has no effect on fluid compartments",
+            "E": "Causes metabolic alkalosis"
+        },
+        "answer": "C",
+        "explanation": "Elevated ECF glucose increases osmolality, pulling water out of cells and causing cellular dehydration."
+    },
+    {
+        "id": 29,
+        "question": "Which structure separates the adrenal cortex from the medulla?",
+        "options": {
+            "A": "Sinusoidal capillaries",
+            "B": "Glomerulosa cells",
+            "C": "Fasciculate layer",
+            "D": "Reticular layer",
+            "E": "No distinct border"
+        },
+        "answer": "E",
+        "explanation": "There is a gradual transition without a clear histological boundary between cortex and medulla."
+    },
+    {
+        "id": 30,
+        "question": "Which enzyme converts cholesterol to pregnenolone in steroidogenesis?",
+        "options": {
+            "A": "21-hydroxylase",
+            "B": "P450scc (side-chain cleavage)",
+            "C": "11β-hydroxylase",
+            "D": "17α-hydroxylase",
+            "E": "Aromatase"
+        },
+        "answer": "B",
+        "explanation": "P450scc catalyses the rate-limiting step of steroid synthesis by cleaving the cholesterol side chain to form pregnenolone."
+    },
+    {
+        "id": 31,
+        "question": "Cortisol exerts negative feedback primarily on:",
+        "options": {
+            "A": "Anterior pituitary and hypothalamus",
+            "B": "Adrenal medulla",
+            "C": "Pancreas",
+            "D": "Bone marrow",
+            "E": "Thyroid gland"
+        },
+        "answer": "A",
+        "explanation": "Elevated cortisol inhibits CRH and ACTH release to regulate the HPA axis."
+    },
+    {
+        "id": 32,
+        "question": "Cushing disease is due to:",
+        "options": {
+            "A": "Primary adrenal adenoma",
+            "B": "ACTH-secreting pituitary adenoma",
+            "C": "Ectopic cortisol production by lung tumors",
+            "D": "Exogenous cortisol withdrawal",
+            "E": "Autoimmune destruction of adrenal cortex"
+        },
+        "answer": "B",
+        "explanation": "Cushing disease specifically refers to excess ACTH from a pituitary adenoma leading to elevated cortisol."
+    },
+    {
+        "id": 33,
+        "question": "Addison disease commonly features hyperpigmentation due to:",
+        "options": {
+            "A": "Excess aldosterone",
+            "B": "Elevated ACTH stimulating melanocytes",
+            "C": "High cortisol levels",
+            "D": "Excess renin",
+            "E": "Low MSH"
+        },
+        "answer": "B",
+        "explanation": "High ACTH (precursor shares sequence with MSH) stimulates melanocortin receptors, causing skin hyperpigmentation."
+    },
+    {
+        "id": 34,
+        "question": "Aldosterone acts on the kidney by:",
+        "options": {
+            "A": "Inhibiting Na+ reabsorption in distal tubule",
+            "B": "Increasing Na+ reabsorption and K+ secretion in collecting duct",
+            "C": "Blocking ENaC channels",
+            "D": "Stimulating aquaporin insertion",
+            "E": "Inhibiting renin release"
+        },
+        "answer": "B",
+        "explanation": "Aldosterone upregulates ENaC and Na+/K+-ATPase in principal cells, enhancing sodium reabsorption and potassium excretion."
+    },
+    {
+        "id": 35,
+        "question": "Which layer of adrenal cortex produces cortisol?",
+        "options": {
+            "A": "Zona glomerulosa",
+            "B": "Zona fasciculata",
+            "C": "Zona reticularis",
+            "D": "Medulla",
+            "E": "Capsule"
+        },
+        "answer": "B",
+        "explanation": "The zona fasciculata synthesises glucocorticoids, primarily cortisol."
+    },
+    {
+        "id": 36,
+        "question": "The fight-or-flight response includes increased:",
+        "options": {
+            "A": "GI motility",
+            "B": "Bronchoconstriction",
+            "C": "Heart rate and blood pressure",
+            "D": "Insulin release",
+            "E": "Blink reflex"
+        },
+        "answer": "C",
+        "explanation": "Catecholamine surge from medulla raises heart rate and vasoconstriction to divert blood to muscles."
+    },
+    {
+        "id": 37,
+        "question": "Stress-induced prolactin release is mediated by:",
+        "options": {
+            "A": "Increased hypothalamic dopamine",
+            "B": "Reduced hypothalamic dopamine",
+            "C": "Increased somatostatin",
+            "D": "Reduced TRH",
+            "E": "Increased GHRH"
+        },
+        "answer": "B",
+        "explanation": "Less dopamine inhibition during stress allows lactotrophs to secrete more prolactin."
+    },
+    {
+        "id": 38,
+        "question": "Which describes paracrine hormone action?",
+        "options": {
+            "A": "Hormone travels in blood to distant target",
+            "B": "Hormone acts on neighbouring cells via local diffusion",
+            "C": "Hormone acts on the secreting cell itself",
+            "D": "Hormone excreted unchanged",
+            "E": "Hormone stored in follicles"
+        },
+        "answer": "B",
+        "explanation": "Paracrine signals diffuse a short distance to affect nearby cells without entering systemic circulation."
+    },
+    {
+        "id": 39,
+        "question": "Steroid hormones typically signal via:",
+        "options": {
+            "A": "Membrane-bound G-protein receptors",
+            "B": "Intracellular nuclear receptors affecting gene transcription",
+            "C": "Ion channel modulation",
+            "D": "Receptor tyrosine kinases",
+            "E": "Cytoskeletal proteins"
+        },
+        "answer": "B",
+        "explanation": "Steroid hormones cross the membrane and bind nuclear receptors to directly regulate transcription."
+    },
+    {
+        "id": 40,
+        "question": "Second messengers generated by phospholipase C include:",
+        "options": {
+            "A": "cAMP and cGMP",
+            "B": "IP₃ and DAG",
+            "C": "ATP and ADP",
+            "D": "Ca2+ and Na+",
+            "E": "PIP₃ and PIP₂"
+        },
+        "answer": "B",
+        "explanation": "PLC cleaves PIP₂ into IP₃, which mobilises Ca2+, and DAG, which activates protein kinase C."
+    },
+    {
+        "id": 41,
+        "question": "Which of the following best describes the effects of hypercalcaemia on physiological function?",
+        "options": {
+            "A": "Increased neuronal threshold leading to muscle weakness, polyuria, polydipsia and constipation",
+            "B": "Decreased neuronal threshold causing tetany, cramps and seizures",
+            "C": "No significant impact on fluid balance or gastrointestinal motility",
+            "D": "Enhanced neurotransmitter release resulting in anxiety and insomnia",
+            "E": "Bradycardia and hypotension due to vasodilation"
+        },
+        "answer": "A",
+        "explanation": "Hypercalcaemia raises the threshold for neuronal firing, causing muscle weakness, and impairs renal concentrating ability (polyuria, polydipsia) and smooth muscle (constipation)."
+    },
+    {
+        "id": 42,
+        "question": "Which statement best describes the effects of hypocalcaemia on nerve and muscle function?",
+        "options": {
+            "A": "Raises neuronal threshold, causing fatigue and lethargy",
+            "B": "Lowers neuronal threshold, causing tingling, muscle cramps and tetany",
+            "C": "Has no effect on neuromuscular excitability",
+            "D": "Causes smooth muscle relaxation leading to ileus",
+            "E": "Leads to decreased cardiac contractility without neuromuscular symptoms"
+        },
+        "answer": "B",
+        "explanation": "Hypocalcaemia reduces the threshold for neuronal depolarisation, causing increased excitability manifested as perioral tingling, muscle cramps and tetany."
+    },
+    {
+        "id": 43,
+        "question": "Which description correctly outlines regulation and effects of growth hormone, and the consequence of its deficiency in childhood?",
+        "options": {
+            "A": "Secreted by somatotrophs under GHRH stimulation and somatostatin inhibition; childhood deficiency causes proportionate dwarfism with delayed bone age",
+            "B": "Secreted at a constant rate independent of hypothalamic control; deficiency causes organomegaly",
+            "C": "Released only in response to high blood glucose; deficiency leads to acromegaly",
+            "D": "Inhibited by IGF-1 feedback only; deficiency causes juvenile osteoporosis",
+            "E": "Produced by liver cells; deficiency is asymptomatic in childhood"
+        },
+        "answer": "A",
+        "explanation": "GH is released in pulses from pituitary somatotrophs, stimulated by GHRH and inhibited by somatostatin; deficiency before epiphyseal closure leads to proportionate short stature and delayed bone maturation."
+    },
+    {
+        "id": 44,
+        "question": "Which of the following best distinguishes GH excess in childhood versus adulthood?",
+        "options": {
+            "A": "Childhood excess causes linear overgrowth (gigantism); adulthood excess causes acral enlargement and organomegaly (acromegaly)",
+            "B": "Excess GH always produces the same features regardless of age",
+            "C": "Acromegaly occurs only in children",
+            "D": "Gigantism occurs after epiphyseal plate closure",
+            "E": "GH excess in adults reduces IGF-1 levels"
+        },
+        "answer": "A",
+        "explanation": "When GH excess occurs before epiphyseal closure it causes gigantism (increased height), whereas after closure it causes acromegaly (growth of hands, feet, jaw and soft tissues)."
+    },
+    {
+        "id": 45,
+        "question": "How are growth charts used in paediatric practice?",
+        "options": {
+            "A": "Plot height or weight against age to assess percentiles and growth velocity; crossing centiles may indicate pathology",
+            "B": "Measure bone age exclusively by X-ray",
+            "C": "Monitor only adults’ BMI changes over time",
+            "D": "Record daily variations in growth hormone levels",
+            "E": "Estimate final adult height without regard to current percentiles"
+        },
+        "answer": "A",
+        "explanation": "Growth charts compare a child's measurements with population percentiles over time; downward or upward centile crossing suggests potential growth disorders."
+    },
+    {
+        "id": 46,
+        "question": "Which statement best describes the endocrine pancreas in glucose homeostasis?",
+        "options": {
+            "A": "β-cells secrete insulin to promote peripheral glucose uptake; α-cells secrete glucagon to increase hepatic glucose output",
+            "B": "Exocrine acinar cells regulate blood glucose via enzyme secretion",
+            "C": "δ-cells are primary regulators of insulin release",
+            "D": "Insulin is secreted by pancreatic duct cells",
+            "E": "Glucagon acts only on muscle tissue"
+        },
+        "answer": "A",
+        "explanation": "Pancreatic islets contain β-cells (insulin) and α-cells (glucagon); insulin lowers blood glucose by increasing uptake/storage, glucagon raises it by stimulating hepatic glycogenolysis and gluconeogenesis."
+    },
+    {
+        "id": 47,
+        "question": "What is the clinical utility of measuring C-peptide in suspected insulin excess?",
+        "options": {
+            "A": "C-peptide is secreted equimolarly with endogenous insulin; distinguishes endogenous from exogenous insulin",
+            "B": "C-peptide indicates α-cell function",
+            "C": "C-peptide levels remain elevated after exogenous insulin injection",
+            "D": "Low C-peptide confirms insulinoma",
+            "E": "C-peptide and insulin are secreted independently"
+        },
+        "answer": "A",
+        "explanation": "Endogenous insulin is produced as proinsulin (with C-peptide) and secreted together; exogenous insulin lacks C-peptide, so measurement differentiates sources."
+    },
+    {
+        "id": 48,
+        "question": "Which option correctly compares hyaline, elastic and fibrocartilage?",
+        "options": {
+            "A": "Hyaline: type II collagen, articular surfaces; Elastic: elastin fibres, ear; Fibrocartilage: type I collagen, intervertebral discs",
+            "B": "Elastic cartilage lacks chondrocytes",
+            "C": "Fibrocartilage is found in the larynx",
+            "D": "Hyaline cartilage has abundant elastin",
+            "E": "Fibrocartilage is vascular"
+        },
+        "answer": "A",
+        "explanation": "Hyaline contains type II collagen, elastic has elastin for flexibility, and fibrocartilage has dense type I collagen for tensile strength in discs and pubic symphysis."
+    },
+    {
+        "id": 49,
+        "question": "Which statement best describes the roles of chondroblasts versus chondrocytes?",
+        "options": {
+            "A": "Chondroblasts at the periphery synthesise cartilage matrix; chondrocytes within lacunae maintain it",
+            "B": "Chondrocytes are precursor cells for bone marrow",
+            "C": "Chondroblasts reside in lacunae",
+            "D": "Chondrocytes actively degrade cartilage",
+            "E": "Chondroblasts secrete bone, not cartilage"
+        },
+        "answer": "A",
+        "explanation": "Chondroblasts produce and secrete the cartilage extracellular matrix, then become embedded as chondrocytes which maintain the matrix."
+    },
+    {
+        "id": 50,
+        "question": "Which factor is essential for normal cartilage metabolism?",
+        "options": {
+            "A": "Intermittent compressive loading to enhance nutrient diffusion and matrix synthesis",
+            "B": "Direct vascular supply to chondrocytes",
+            "C": "Reliance on lymphatic drainage instead of diffusion",
+            "D": "High oxygen tension for matrix production",
+            "E": "Independence from mechanical stress"
+        },
+        "answer": "A",
+        "explanation": "Cartilage is avascular, so mechanical loading promotes diffusion of nutrients from synovial fluid and stimulates chondrocyte activity."
+    },
+    {
+        "id": 51,
+        "question": "Which cell type produces the organic component of bone matrix?",
+        "options": {
+            "A": "Osteoblasts synthesise type I collagen–rich osteoid",
+            "B": "Osteocytes secrete osteoid",
+            "C": "Osteoclasts form osteoid",
+            "D": "Fibroblasts build mineralised bone",
+            "E": "Chondrocytes directly mineralise bone"
+        },
+        "answer": "A",
+        "explanation": "Osteoblasts secrete the collagenous osteoid which later becomes mineralised; osteocytes maintain mature bone and osteoclasts resorb it."
+    },
+    {
+        "id": 52,
+        "question": "Which option correctly contrasts compact versus spongy bone?",
+        "options": {
+            "A": "Compact bone is organised into osteons with few marrow spaces; spongy bone has trabeculae and interspersed marrow",
+            "B": "Spongy bone is denser than compact bone",
+            "C": "Osteons are found only in spongy bone",
+            "D": "Compact bone is present only in epiphyses",
+            "E": "Spongy bone lacks any marrow"
+        },
+        "answer": "A",
+        "explanation": "Compact bone’s osteons provide strength and resist bending; spongy bone’s trabeculae lighten bone and support marrow cavities."
+    },
+    {
+        "id": 53,
+        "question": "Which vessel provides the primary blood supply to the diaphyseal marrow and inner two-thirds of cortex in a long bone?",
+        "options": {
+            "A": "Nutrient artery entering through the nutrient foramen",
+            "B": "Metaphyseal arteries",
+            "C": "Periosteal vessels",
+            "D": "Epiphyseal arteries",
+            "E": "Synovial capillaries"
+        },
+        "answer": "A",
+        "explanation": "The nutrient artery enters the diaphysis via the nutrient foramen, supplying the marrow and deep cortical bone; periosteal vessels supply the outer cortex."
+    },
+    {
+        "id": 54,
+        "question": "Which hormone is most critical for stimulating longitudinal bone growth at the epiphyseal plates?",
+        "options": {
+            "A": "Growth hormone via IGF-1 promoting chondrocyte proliferation",
+            "B": "Parathyroid hormone enhancing chondrocyte hypertrophy",
+            "C": "Calcitonin increasing osteoblast number",
+            "D": "Vitamin K regulating mineralisation",
+            "E": "Glucocorticoids stimulating matrix synthesis"
+        },
+        "answer": "A",
+        "explanation": "GH stimulates liver and local IGF-1 production, which drives proliferation of growth plate chondrocytes, essential for lengthening."
+    },
+    {
+        "id": 55,
+        "question": "Which hormone decreases plasma calcium via inhibition of osteoclasts?",
+        "options": {
+            "A": "Calcitonin from thyroid C-cells",
+            "B": "Parathyroid hormone from chief cells",
+            "C": "Calcitriol (active vitamin D)",
+            "D": "Thyroxine from follicular cells",
+            "E": "Cortisol from adrenal cortex"
+        },
+        "answer": "A",
+        "explanation": "Calcitonin lowers blood calcium by inhibiting osteoclast-mediated bone resorption, opposing the actions of PTH."
+    },
+    {
+        "id": 56,
+        "question": "Which factor most strongly influences peak bone mass acquisition in adolescence?",
+        "options": {
+            "A": "Mechanical loading through weight-bearing exercise",
+            "B": "Serum calcium level alone",
+            "C": "Vitamin K supplementation",
+            "D": "Absence of sex steroids",
+            "E": "Low-protein diet"
+        },
+        "answer": "A",
+        "explanation": "Mechanical stress stimulates osteoblast activity via mechanotransduction, crucial for achieving maximal bone density."
+    },
+    {
+        "id": 57,
+        "question": "Which dietary nutrient is essential for hydroxyapatite formation and bone mineralisation?",
+        "options": {
+            "A": "Calcium, incorporated as calcium phosphate crystals",
+            "B": "Vitamin C for collagen cross-linking only",
+            "C": "Iron for osteoid synthesis",
+            "D": "Vitamin A for mineral deposition",
+            "E": "Cholesterol for matrix formation"
+        },
+        "answer": "A",
+        "explanation": "Calcium combines with phosphate to form hydroxyapatite, providing compressive strength to the bone matrix."
+    },
+    {
+        "id": 58,
+        "question": "Which effect does estrogen have on bone turnover?",
+        "options": {
+            "A": "Promotes osteoclast apoptosis and supports osteoblast activity to maintain bone density",
+            "B": "Stimulates osteoclast formation causing bone loss",
+            "C": "Has no effect on bone cells",
+            "D": "Inhibits osteoblast differentiation",
+            "E": "Increases PTH secretion"
+        },
+        "answer": "A",
+        "explanation": "Estrogen inhibits bone resorption by inducing osteoclast apoptosis and promotes osteoblast survival, important for maintaining bone mass."
+    },
+    {
+        "id": 59,
+        "question": "Which stage of fracture healing is characterised by fibrocartilaginous (soft) callus formation?",
+        "options": {
+            "A": "Reparative phase between hematoma and bony callus formation",
+            "B": "Inflammatory phase immediately after fracture",
+            "C": "Remodelling phase when lamellar bone replaces woven bone",
+            "D": "Hematoma organisation only",
+            "E": "Primary bone healing without callus"
+        },
+        "answer": "A",
+        "explanation": "During the reparative phase, fibroblasts and chondroblasts form a soft callus of collagen and cartilage bridging the fracture ends prior to mineralisation."
+    },
+    {
+        "id": 60,
+        "question": "Which option correctly matches bone cell types to their functions?",
+        "options": {
+            "A": "Osteoprogenitor cells differentiate into osteoblasts; osteoblasts secrete osteoid; osteocytes maintain matrix; osteoclasts resorb bone",
+            "B": "Osteocytes differentiate into osteoblasts; osteoclasts maintain matrix; progenitors resorb bone; osteoblasts break down bone",
+            "C": "Osteoclasts secrete osteoid; osteoblasts resorb bone; osteocytes form new bone; progenitors maintain matrix",
+            "D": "All these bone cells perform the same function interchangeably",
+            "E": "Osteoblasts and osteoclasts have no role in bone turnover"
+        },
+        "answer": "A",
+        "explanation": "Osteoprogenitors are stem cells that become osteoblasts (matrix producers); osteocytes are mature cells in lacunae maintaining bone; osteoclasts are multinucleated cells that resorb bone."
+    },
+    {
+        "id": 61,
+        "question": "Which statement best describes the composition of the medullary cavity in long bones?",
+        "options": {
+            "A": "The medullary cavity contains yellow marrow rich in adipocytes in adults and red hematopoietic marrow predominantly in children and axial bones.",
+            "B": "The medullary cavity contains only red marrow in all long bones throughout life.",
+            "C": "The medullary cavity is a fluid-filled space lined by endosteum and contains synovial fluid.",
+            "D": "The medullary cavity contains cartilage that ossifies in adulthood.",
+            "E": "The medullary cavity is filled solely with blood vessels without marrow elements."
+        },
+        "answer": "A",
+        "explanation": "In adults the diaphyseal medullary cavity is mostly yellow marrow (adipocytes), whereas red, hematopoietic marrow predominates in children and remains in axial and proximal limb bones."
+    },
+    {
+        "id": 62,
+        "question": "Which description correctly identifies the diaphysis, epiphysis and metaphysis of a long bone?",
+        "options": {
+            "A": "The diaphysis is the bone end; the epiphysis is the shaft; the metaphysis is the articular cartilage.",
+            "B": "The metaphysis is the midpoint; the diaphysis is adjacent to the growth plate; the epiphysis houses the nutrient foramen.",
+            "C": "The diaphysis is the shaft, the epiphysis is the expanded end articulating with adjacent bones, and the metaphysis is the flared region between shaft and epiphysis containing the growth plate.",
+            "D": "The epiphysis is the nutrient artery entry; the metaphysis bears articular cartilage; the diaphysis is cancellous bone at the ends.",
+            "E": "The metaphysis is the site of ligament attachment; the epiphysis contains only yellow marrow; the diaphysis is the growth plate."
+        },
+        "answer": "C",
+        "explanation": "The diaphysis is the long shaft, the epiphysis is the rounded end for articulation, and the metaphysis is the transitional zone that contains the epiphyseal (growth) plate."
+    },
+    {
+        "id": 63,
+        "question": "Which statement best compares compact and spongy bone microarchitecture?",
+        "options": {
+            "A": "Compact bone is organised into osteons with central Haversian canals; spongy bone consists of a network of trabeculae and does not form osteons.",
+            "B": "Spongy bone has larger osteons than compact bone.",
+            "C": "Compact bone lacks lamellar structure; spongy bone is arranged in concentric lamellae.",
+            "D": "Compact bone contains red marrow in adults; spongy bone contains only adipocytes.",
+            "E": "Spongy bone is non-mineralised, while compact bone is fully mineralised."
+        },
+        "answer": "A",
+        "explanation": "Compact bone’s strength comes from cylindrical osteons surrounding central canals, whereas spongy bone is a lattice of trabeculae with marrow spaces interspersed."
+    },
+    {
+        "id": 64,
+        "question": "Which description outlines normal bone remodelling in adulthood?",
+        "options": {
+            "A": "Bone formation only occurs during childhood and ceases entirely in adulthood.",
+            "B": "Bone resorption permanently exceeds formation leading to continuous bone loss.",
+            "C": "Osteoblasts resorb bone and osteoclasts form new bone.",
+            "D": "Bone remodelling in adulthood is a continuous cycle of osteoclastic resorption followed by osteoblastic formation to replace old bone.",
+            "E": "Chondrocytes in the growth plate drive adult bone turnover."
+        },
+        "answer": "D",
+        "explanation": "Even after growth plate closure, bone is constantly renewed by basic multicellular units: osteoclasts remove old bone and osteoblasts lay down new matrix."
+    },
+    {
+        "id": 65,
+        "question": "Which functions are performed by skeletal muscle?",
+        "options": {
+            "A": "Voluntary contraction for movement and maintenance of posture.",
+            "B": "Involuntary control of visceral organ motility.",
+            "C": "Secretion of endocrine hormones.",
+            "D": "Automatic pacing of cardiac rhythm.",
+            "E": "Filtration and lymph propulsion."
+        },
+        "answer": "A",
+        "explanation": "Skeletal muscle contracts under voluntary control to enable locomotion, maintain posture against gravity, and generate heat."
+    },
+    {
+        "id": 66,
+        "question": "Which statement best describes isotonic versus isometric muscle contractions?",
+        "options": {
+            "A": "Isotonic contractions change muscle length under constant load; isometric contractions generate force without changing length.",
+            "B": "Isotonic contractions generate force without length change; isometric contractions change length.",
+            "C": "Both isotonic and isometric contractions always change muscle length.",
+            "D": "Neither isotonic nor isometric contractions produce force.",
+            "E": "Isotonic contractions occur only in smooth muscle."
+        },
+        "answer": "A",
+        "explanation": "In isotonic contractions the muscle shortens or lengthens against a constant load; in isometric contractions tension increases but muscle length remains constant."
+    },
+    {
+        "id": 67,
+        "question": "Which sequence best describes excitation–contraction coupling in skeletal muscle?",
+        "options": {
+            "A": "Action potential travels along sarcolemma → T-tubule depolarisation → Ca²⁺ release from sarcoplasmic reticulum → Ca²⁺ binds troponin → cross-bridge cycling.",
+            "B": "Action potential directly triggers ATP hydrolysis → Ca²⁺ uptake into SR → relaxation.",
+            "C": "Cross-bridge cycling occurs before Ca²⁺ release.",
+            "D": "Troponin moves tropomyosin without Ca²⁺ involvement.",
+            "E": "ATP is generated after muscle relaxation only."
+        },
+        "answer": "A",
+        "explanation": "Depolarisation spreads via T-tubules to trigger Ca²⁺ release from the SR; Ca²⁺ binds troponin, shifting tropomyosin and allowing actin–myosin interactions fueled by ATP."
+    },
+    {
+        "id": 68,
+        "question": "Which structural components are found in a myofibril?",
+        "options": {
+            "A": "Sarcomeres composed of alternating A and I bands, Z discs, and M lines.",
+            "B": "Only smooth endoplasmic reticulum elements.",
+            "C": "Only mitochondria.",
+            "D": "Cartilage matrix proteins.",
+            "E": "Neurofilament proteins."
+        },
+        "answer": "A",
+        "explanation": "Myofibrils are arrays of repeating sarcomeres, with dark A bands (myosin) and light I bands (actin), delineated by Z discs and centred on M lines."
+    },
+    {
+        "id": 69,
+        "question": "Which statement best explains the roles of calcium, troponin, tropomyosin, actin, myosin, and ATP in skeletal muscle contraction?",
+        "options": {
+            "A": "Ca²⁺ binds to troponin, causing tropomyosin to uncover actin binding sites; myosin heads bind actin and perform power strokes using ATP hydrolysis.",
+            "B": "ATP binds actin enabling Ca²⁺ release from SR.",
+            "C": "Tropomyosin hydrolyses ATP to generate force.",
+            "D": "Myosin binds Ca²⁺ directly without troponin involvement.",
+            "E": "Troponin generates action potentials along the sarcolemma."
+        },
+        "answer": "A",
+        "explanation": "Ca²⁺ released from the SR binds troponin, shifting tropomyosin on actin filaments to allow myosin cross-bridge formation and power strokes powered by ATP."
+    },
+    {
+        "id": 70,
+        "question": "Which challenge is most associated with assessing pain in non-verbal patients?",
+        "options": {
+            "A": "Lack of self-report requiring observational scales like FLACC.",
+            "B": "Inconsistency of visual analogue scales.",
+            "C": "Overreliance on biochemical markers of pain.",
+            "D": "Excessive reliability of numeric rating scales.",
+            "E": "Difficulty using open-ended questions."
+        },
+        "answer": "A",
+        "explanation": "Non-verbal patients cannot self-report pain intensity, so behavioural observation tools (FLACC, PAINAD) are essential but challenging to interpret."
+    },
+    {
+        "id": 71,
+        "question": "Which example illustrates a maladaptive coping strategy for chronic pain?",
+        "options": {
+            "A": "Avoidance of activity leading to deconditioning and increased disability.",
+            "B": "Engaging in graded exercise.",
+            "C": "Use of relaxation techniques.",
+            "D": "Seeking social support.",
+            "E": "Problem-solving to modify painful tasks."
+        },
+        "answer": "A",
+        "explanation": "While rest may relieve acute pain, prolonged avoidance promotes muscle wasting, reduced function, and greater disability — a maladaptive response."
+    },
+    {
+        "id": 72,
+        "question": "Which factors influence bone growth during childhood and adolescence?",
+        "options": {
+            "A": "Growth hormone, sex steroids, adequate nutrition, and mechanical loading.",
+            "B": "Parathyroid hormone exclusively.",
+            "C": "Exogenous insulin only.",
+            "D": "Ambient oxygen saturation.",
+            "E": "Renin–angiotensin system activity."
+        },
+        "answer": "A",
+        "explanation": "GH and IGF-1 drive chondrocyte proliferation, sex steroids promote maturation and closure, while nutrition (calcium/vitamin D) and mechanical stress are critical for optimal growth."
+    },
+    {
+        "id": 73,
+        "question": "Which radiographic feature indicates an immature bone in a paediatric X-ray?",
+        "options": {
+            "A": "Radiolucent line representing the open growth plate between metaphysis and epiphysis.",
+            "B": "Complete fusion of metaphysis and epiphysis.",
+            "C": "Sclerotic bridging across the physis.",
+            "D": "Absence of any visible physis.",
+            "E": "Thickened cortical bone only."
+        },
+        "answer": "A",
+        "explanation": "The cartilaginous physis does not absorb X-rays, appearing as a dark, radiolucent line in children’s long bones."
+    },
+    {
+        "id": 74,
+        "question": "Which outcome is most likely if the growth plate (physis) is damaged before skeletal maturity?",
+        "options": {
+            "A": "Arrested longitudinal growth leading to limb length discrepancy.",
+            "B": "Selective increase in bone width only.",
+            "C": "Diffuse hypergrowth of the affected bone.",
+            "D": "No impact on final bone length.",
+            "E": "Enhanced endochondral ossification."
+        },
+        "answer": "A",
+        "explanation": "Physeal injury can permanently close part of the growth plate, stopping lengthening on that side and causing angular deformities or length discrepancies."
+    },
+    {
+        "id": 75,
+        "question": "How does childhood timing of puberty affect adult skeletal morphology?",
+        "options": {
+            "A": "Early puberty accelerates epiphyseal closure, resulting in shorter adult stature.",
+            "B": "Delayed growth plate closure leads to infinite bone lengthening.",
+            "C": "Childhood bone density solely determines adult muscle mass.",
+            "D": "Childhood growth rate has no effect on adult height.",
+            "E": "Adult bone shape is independent of childhood growth timing."
+        },
+        "answer": "A",
+        "explanation": "Premature rise in sex steroids closes growth plates early, shortening the window for longitudinal growth and reducing final height."
+    },
+    {
+        "id": 76,
+        "question": "Which factor contributes most to age-related sarcopenia and its functional consequences?",
+        "options": {
+            "A": "Declining motor neuron innervation and reduced satellite cell activity leading to loss of muscle mass and strength.",
+            "B": "Increase in muscle fibre number with age.",
+            "C": "Enhanced protein synthesis in elderly muscle.",
+            "D": "Elevated anabolic hormone levels.",
+            "E": "Excess cartilage deposition in muscle tissue."
+        },
+        "answer": "A",
+        "explanation": "Sarcopenia involves motor unit loss, decreased regenerative capacity of satellite cells, and hormonal changes, resulting in reduced strength and mobility."
+    },
+    {
+        "id": 77,
+        "question": "Which definition best describes osteopenia and its age-related effects?",
+        "options": {
+            "A": "Reduced bone mass (T-score between –1.0 and –2.5) that increases fracture risk before reaching osteoporosis levels.",
+            "B": "Normal bone density in older adults without fracture risk.",
+            "C": "Extremely low bone mass (T-score ≤ –2.5) indicating osteoporosis.",
+            "D": "Excessive bone density above normal range.",
+            "E": "Unaffected bone turnover with age."
+        },
+        "answer": "A",
+        "explanation": "Osteopenia is defined by a moderate decrease in bone density, reflecting early bone loss that precedes the more severe threshold of osteoporosis."
+    },
+    {
+        "id": 78,
+        "question": "Which change occurs in fibrous tissues and cartilage with aging?",
+        "options": {
+            "A": "Decreased collagen elasticity and chondrocyte activity leading to stiffer joints and reduced shock absorption.",
+            "B": "Increased proteoglycan content improving flexibility.",
+            "C": "Cartilage becomes hypervascular in adults.",
+            "D": "Fibres become more elastic over time.",
+            "E": "No change occurs throughout life."
+        },
+        "answer": "A",
+        "explanation": "Age-associated declines in collagen cross-linking quality and chondrocyte function reduce tissue resilience and lubrication, causing joint stiffness."
+    },
+    {
+        "id": 79,
+        "question": "Which deformity is most associated with vertebral osteoporosis?",
+        "options": {
+            "A": "Anterior wedge compression fractures causing kyphotic curvature (‘dowager’s hump’).",
+            "B": "Lateral disc herniation without vertebral collapse.",
+            "C": "Scoliosis due to bilateral vertebral wedging.",
+            "D": "Lordosis from posterior vertebral collapse.",
+            "E": "Platybasia of the skull base."
+        },
+        "answer": "A",
+        "explanation": "Osteoporotic weakening of anterior vertebral bodies leads to wedge fractures and progressive kyphosis, especially in the thoracic spine."
+    },
+    {
+        "id": 80,
+        "question": "When assessing a suspected long-bone fracture on X-ray, which view is most essential?",
+        "options": {
+            "A": "Two orthogonal views (anteroposterior and lateral) to fully characterise fracture geometry.",
+            "B": "Oblique view alone.",
+            "C": "CT scan without initial radiographs.",
+            "D": "MRI without standard radiographic views.",
+            "E": "Single anteroposterior view."
+        },
+        "answer": "A",
+        "explanation": "Orthogonal AP and lateral projections are required to visualise displacement, angulation, and fragmentation in two planes for accurate fracture assessment."
+    },
+    {
+        "id": 81,
+        "question": "In chest examination, which anatomical landmark is used to locate the second intercostal space for auscultation of the upper lung fields?",
+        "options": {
+            "A": "The sternal angle (Angle of Louis)",
+            "B": "The xiphoid process",
+            "C": "The mid-clavicular line at the fifth intercostal space",
+            "D": "The inferior border of the scapula",
+            "E": "The manubrial notch"
+        },
+        "answer": "A",
+        "explanation": "The sternal angle lies at the junction of the manubrium and body of the sternum and corresponds to the second rib, making it the key landmark for the 2nd intercostal space."
+    },
+    {
+        "id": 82,
+        "question": "On a lateral soft-tissue neck radiograph, a thumb-shaped soft tissue projection at the level of C3–C4 represents which structure?",
+        "options": {
+            "A": "Epiglottis",
+            "B": "Hyoid bone",
+            "C": "Thyroid cartilage",
+            "D": "Tracheal rings",
+            "E": "Soft palate"
+        },
+        "answer": "B",
+        "explanation": "The hyoid bone appears as a small, horseshoe-shaped radiopaque structure at C3; the epiglottis is a soft-tissue shadow but not radiopaque like bone."
+    },
+    {
+        "id": 83,
+        "question": "Which gastrointestinal motility pattern occurs during fasting to clear residual undigested material?",
+        "options": {
+            "A": "Segmentation",
+            "B": "Peristalsis",
+            "C": "Migrating motor complex",
+            "D": "Mass movements",
+            "E": "Tonic contraction"
+        },
+        "answer": "C",
+        "explanation": "The migrating motor complex is a cyclical, sweeping contraction that occurs during fasting to clear residual food and secretions from the stomach and small intestine."
+    },
+    {
+        "id": 84,
+        "question": "Which paracrine mediator in the stomach inhibits acid secretion by acting on parietal cells?",
+        "options": {
+            "A": "Somatostatin",
+            "B": "Gastrin",
+            "C": "Histamine",
+            "D": "Cholecystokinin",
+            "E": "Secretin"
+        },
+        "answer": "D",
+        "explanation": "Cholecystokinin is secreted by I cells in the duodenum to stimulate pancreatic enzyme release and gallbladder contraction, not to inhibit acid; somatostatin (A) is the correct paracrine inhibitor."
+    },
+    {
+        "id": 85,
+        "question": "In the portal triad of a liver lobule, which vessel supplies oxygenated blood to hepatocytes?",
+        "options": {
+            "A": "Branch of the hepatic artery",
+            "B": "Branch of the portal vein",
+            "C": "Bile ductule",
+            "D": "Central vein",
+            "E": "Lymphatic capillary"
+        },
+        "answer": "E",
+        "explanation": "Lymphatic capillaries are not part of the portal triad; the hepatic artery branch carries oxygenated blood, the portal vein branch carries nutrient-rich blood, and the bile ductule carries bile."
+    },
+    {
+        "id": 86,
+        "question": "Which screening tool uses BMI, unplanned weight loss, and acute disease effect to identify malnutrition risk in hospital inpatients?",
+        "options": {
+            "A": "Malnutrition Universal Screening Tool (MUST)",
+            "B": "Mini Nutritional Assessment (MNA)",
+            "C": "Subjective Global Assessment (SGA)",
+            "D": "Nutritional Risk Screening (NRS-2002)",
+            "E": "APACHE II score"
+        },
+        "answer": "A",
+        "explanation": "MUST incorporates BMI, percentage unplanned weight loss, and acute disease effect to stratify malnutrition risk; MNA and SGA use different criteria and APACHE II assesses critical illness severity."
+    },
+    {
+        "id": 87,
+        "question": "In obesity management, the fundamental principle of weight loss is achieved by:",
+        "options": {
+            "A": "Reducing caloric intake to create a negative energy balance",
+            "B": "Increasing carbohydrate consumption",
+            "C": "Maximising fat intake",
+            "D": "Eliminating physical activity",
+            "E": "Focusing solely on fluid intake"
+        },
+        "answer": "B",
+        "explanation": "Caloric restriction—reducing total energy intake—is the cornerstone of weight loss; increasing carbohydrates, fats or fluids alone is not effective."
+    },
+    {
+        "id": 88,
+        "question": "Which aspect of a comprehensive medical history is categorized under 'social history'?",
+        "options": {
+            "A": "Tobacco and alcohol use",
+            "B": "Past surgical procedures",
+            "C": "Known drug allergies",
+            "D": "Family history of disease",
+            "E": "Current medications"
+        },
+        "answer": "C",
+        "explanation": "Known drug allergies are part of the allergy history, not social history; tobacco and alcohol use reflect the patient's lifestyle and are correctly placed in social history."
+    },
+    {
+        "id": 89,
+        "question": "Which part of the whole-person clinical examination involves observing a patient’s overall appearance, nutritional status, and level of distress?",
+        "options": {
+            "A": "General inspection",
+            "B": "Auscultation",
+            "C": "Palpation",
+            "D": "Percussion",
+            "E": "Neurological testing"
+        },
+        "answer": "D",
+        "explanation": "Percussion involves tapping to assess underlying structures; general inspection is the correct step where overall appearance and distress are noted."
+    },
+    {
+        "id": 90,
+        "question": "What is the term for the cognitive step in the clinical process where potential diagnoses are formulated?",
+        "options": {
+            "A": "Hypothesis generation",
+            "B": "Physical examination",
+            "C": "Dispensing treatment",
+            "D": "History taking",
+            "E": "Patient education"
+        },
+        "answer": "B",
+        "explanation": "Physical examination gathers data; hypothesis generation is the correct term for formulating potential diagnoses from the information collected."
+    },
+    {
+        "id": 91,
+        "question": "Which handover framework helps structure concise, coherent communication of patient information?",
+        "options": {
+            "A": "SOAP (Subjective, Objective, Assessment, Plan)",
+            "B": "SBAR (Situation, Background, Assessment, Recommendation)",
+            "C": "OPQRST (Onset, Provocation, Quality, Radiation, Severity, Time)",
+            "D": "ABCDE (Airway, Breathing, Circulation, Disability, Exposure)",
+            "E": "PICO (Population, Intervention, Comparison, Outcome)"
+        },
+        "answer": "C",
+        "explanation": "OPQRST is a mnemonic for pain assessment, not handover; SBAR is the correct framework for structuring patient handover."
+    },
+    {
+        "id": 92,
+        "question": "Which practice best exemplifies effective safety-netting at the end of a consultation?",
+        "options": {
+            "A": "Explaining warning signs that should prompt the patient to seek further help",
+            "B": "Ending the visit without addressing uncertainties",
+            "C": "Prescribing medications without a follow-up plan",
+            "D": "Advising patients to avoid all healthcare contacts",
+            "E": "Relying solely on written leaflets"
+        },
+        "answer": "D",
+        "explanation": "Advising patients to avoid healthcare contacts is unsafe; safety-netting requires informing patients of red flags and when to return."
+    },
+    {
+        "id": 93,
+        "question": "In a patient consultation, what does ICE stand for?",
+        "options": {
+            "A": "Investigations, Consent, Examination",
+            "B": "Ideas, Concerns, Expectations",
+            "C": "Identity, Culture, Education",
+            "D": "Information, Communication, Empathy",
+            "E": "Illness, Cause, Experience"
+        },
+        "answer": "E",
+        "explanation": "Ideas, Concerns, Expectations is the correct meaning of ICE; 'Illness, Cause, Experience' is not the standard mnemonic."
+    },
+    {
+        "id": 94,
+        "question": "In motivational interviewing, which question type is recommended to elicit detailed patient perspectives?",
+        "options": {
+            "A": "Yes/no question",
+            "B": "Closed-ended question",
+            "C": "Leading question",
+            "D": "Open-ended question",
+            "E": "Rhetorical question"
+        },
+        "answer": "A",
+        "explanation": "Yes/no questions limit responses; open-ended questions are encouraged to allow patients to express thoughts and motivations."
+    },
+    {
+        "id": 95,
+        "question": "In first aid assessment, the AVPU scale is used to evaluate:",
+        "options": {
+            "A": "Airway patency",
+            "B": "Circulation adequacy",
+            "C": "Level of consciousness",
+            "D": "Pupil reflexes",
+            "E": "Blood glucose"
+        },
+        "answer": "C",
+        "explanation": "AVPU (Alert, Voice, Pain, Unresponsive) assesses a patient’s level of consciousness, an essential part of the primary survey."
+    },
+    {
+        "id": 96,
+        "question": "What is the correct sequence when performing a systematic respiratory examination?",
+        "options": {
+            "A": "Palpation → Inspection → Auscultation → Percussion",
+            "B": "Inspection → Palpation → Percussion → Auscultation",
+            "C": "Auscultation → Inspection → Palpation → Percussion",
+            "D": "Percussion → Auscultation → Inspection → Palpation",
+            "E": "Inspection → Auscultation → Palpation → Percussion"
+        },
+        "answer": "E",
+        "explanation": "The correct order is Inspection, Palpation, Percussion, then Auscultation; placing auscultation before palpation and percussion reverses the standard approach."
+    },
+    {
+        "id": 97,
+        "question": "Which of the following is considered a major modifiable cardiovascular risk factor?",
+        "options": {
+            "A": "Cigarette smoking",
+            "B": "Family history of premature heart disease",
+            "C": "Age over 65",
+            "D": "Male sex",
+            "E": "Ethnicity"
+        },
+        "answer": "E",
+        "explanation": "Ethnicity is non-modifiable; cigarette smoking is a well-established modifiable risk factor for cardiovascular disease."
+    },
+    {
+        "id": 98,
+        "question": "What term describes the statistical technique used to combine results from multiple studies in a systematic review?",
+        "options": {
+            "A": "Narrative synthesis",
+            "B": "Meta-analysis",
+            "C": "Case series",
+            "D": "Cross-sectional survey",
+            "E": "Expert opinion"
+        },
+        "answer": "B",
+        "explanation": "Meta-analysis quantitatively pools data from eligible studies within a systematic review to derive an overall effect estimate."
+    },
+    {
+        "id": 99,
+        "question": "In the ventricular pressure–volume loop, what parameter is indicated by the width of the loop?",
+        "options": {
+            "A": "End-systolic volume",
+            "B": "Stroke volume",
+            "C": "End-diastolic pressure",
+            "D": "Peak systolic pressure",
+            "E": "Ejection fraction"
+        },
+        "answer": "E",
+        "explanation": "The width (horizontal distance) of the loop equals end-diastolic minus end-systolic volume, which defines stroke volume, not ejection fraction."
+    },
+    {
+        "id": 100,
+        "question": "Bradycardia is defined as a resting heart rate below which threshold?",
+        "options": {
+            "A": "40 beats per minute",
+            "B": "50 beats per minute",
+            "C": "60 beats per minute",
+            "D": "70 beats per minute",
+            "E": "80 beats per minute"
+        },
+        "answer": "C",
+        "explanation": "A resting heart rate under 60 bpm is classified as bradycardia; thresholds of 70–80 bpm are within normal limits."
+    }
+]
