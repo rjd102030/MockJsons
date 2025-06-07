@@ -1,0 +1,1302 @@
+[
+    {
+        "id": 1,
+        "question": "Which type of cartilage is found in the intervertebral discs and the pubic symphysis?",
+        "options": {
+            "A": "Hyaline cartilage",
+            "B": "Elastic cartilage",
+            "C": "Fibrocartilage",
+            "D": "Reticular cartilage",
+            "E": "Articular cartilage"
+        },
+        "answer": "C",
+        "explanation": "Fibrocartilage contains dense type I collagen and resists compressive and shear forces, as seen in intervertebral discs and the pubic symphysis."
+    },
+    {
+        "id": 2,
+        "question": "In response to a painful stimulus, what changes can be expected in arterial pressure and heart rate?",
+        "options": {
+            "A": "Arterial pressure and heart rate decrease",
+            "B": "Arterial pressure decreases and heart rate increases",
+            "C": "Arterial pressure and heart rate do not change",
+            "D": "Arterial pressure increases and heart rate decreases",
+            "E": "Arterial pressure and heart rate increase"
+        },
+        "answer": "E",
+        "explanation": "A painful stimulus activates the sympathetic system, raising both arterial pressure and heart rate."
+    },
+    {
+        "id": 3,
+        "question": "Which process describes the replacement of a cartilaginous model by bone during fetal development?",
+        "options": {
+            "A": "Intramembranous ossification",
+            "B": "Endochondral ossification",
+            "C": "Appositional growth",
+            "D": "Interstitial growth",
+            "E": "Perichondral ossification"
+        },
+        "answer": "B",
+        "explanation": "Endochondral ossification uses a cartilage template that is degraded and replaced by bone, as occurs in most long bones."
+    },
+    {
+        "id": 4,
+        "question": "A 50-year-old woman complains of pain on abduction of her left arm, worst at the start and then easing. Which muscle initiates shoulder abduction?",
+        "options": {
+            "A": "Deltoid",
+            "B": "Infraspinatus",
+            "C": "Supraspinatus",
+            "D": "Teres major",
+            "E": "Teres minor"
+        },
+        "answer": "C",
+        "explanation": "Supraspinatus initiates the first 15° of abduction before the deltoid takes over."
+    },
+    {
+        "id": 5,
+        "question": "Which component of the ECG corresponds to ventricular depolarisation?",
+        "options": {
+            "A": "P wave",
+            "B": "T wave",
+            "C": "QRS complex",
+            "D": "PR interval",
+            "E": "ST segment"
+        },
+        "answer": "C",
+        "explanation": "The QRS complex represents the rapid depolarisation of the ventricles."
+    },
+    {
+        "id": 6,
+        "question": "Which respiratory structure prevents food from entering the trachea during swallowing?",
+        "options": {
+            "A": "Uvula",
+            "B": "Epiglottis",
+            "C": "Soft palate",
+            "D": "Tongue",
+            "E": "Glottis"
+        },
+        "answer": "B",
+        "explanation": "The epiglottis folds down over the laryngeal inlet to protect the airway during swallowing."
+    },
+    {
+        "id": 7,
+        "question": "Which cell type lines the alveoli and is responsible for gas exchange?",
+        "options": {
+            "A": "Type I pneumocytes",
+            "B": "Type II pneumocytes",
+            "C": "Club cells",
+            "D": "Alveolar macrophages",
+            "E": "Ciliated columnar cells"
+        },
+        "answer": "A",
+        "explanation": "Type I pneumocytes are thin and cover most of the alveolar surface, allowing efficient gas diffusion."
+    },
+    {
+        "id": 8,
+        "question": "Which muscle is primarily responsible for dorsiflexion of the foot?",
+        "options": {
+            "A": "Gastrocnemius",
+            "B": "Tibialis anterior",
+            "C": "Soleus",
+            "D": "Fibularis longus",
+            "E": "Flexor digitorum longus"
+        },
+        "answer": "B",
+        "explanation": "Tibialis anterior dorsiflexes the foot at the ankle joint."
+    },
+    {
+        "id": 9,
+        "question": "Which structure in the brain is responsible for regulating circadian rhythms?",
+        "options": {
+            "A": "Pineal gland",
+            "B": "Amygdala",
+            "C": "Cerebellum",
+            "D": "Suprachiasmatic nucleus",
+            "E": "Hippocampus"
+        },
+        "answer": "D",
+        "explanation": "The suprachiasmatic nucleus receives retinal input and coordinates the body’s circadian clock."
+    },
+    {
+        "id": 10,
+        "question": "Which ion channel opens during the repolarisation phase of a cardiac action potential?",
+        "options": {
+            "A": "Sodium",
+            "B": "Calcium",
+            "C": "Potassium",
+            "D": "Chloride",
+            "E": "Magnesium"
+        },
+        "answer": "C",
+        "explanation": "Opening of potassium channels allows K⁺ efflux, restoring the resting membrane potential."
+    },
+    {
+        "id": 11,
+        "question": "Which mechanism primarily regulates plasma osmolality during dehydration?",
+        "options": {
+            "A": "Atrial natriuretic peptide release",
+            "B": "Renin–angiotensin system activation",
+            "C": "Antidiuretic hormone (ADH) secretion",
+            "D": "Parathyroid hormone release",
+            "E": "Calcitonin release"
+        },
+        "answer": "C",
+        "explanation": "During dehydration, osmoreceptors trigger ADH release to increase water reabsorption in the collecting ducts, restoring plasma osmolality."
+    },
+    {
+        "id": 12,
+        "question": "Which cartilage is not part of the laryngeal skeleton?",
+        "options": {
+            "A": "Thyroid cartilage",
+            "B": "Cricoid cartilage",
+            "C": "Epiglottic cartilage",
+            "D": "Hyaline cartilage",
+            "E": "Corniculate cartilage"
+        },
+        "answer": "D",
+        "explanation": "Hyaline cartilage is a tissue type, not a named laryngeal structure—thyroid, cricoid, epiglottic, and corniculate cartilages form the laryngeal framework."
+    },
+    {
+        "id": 13,
+        "question": "Which growth factor most strongly stimulates cartilage matrix synthesis by chondrocytes?",
+        "options": {
+            "A": "Insulin-like growth factor 1 (IGF-1)",
+            "B": "Platelet-derived growth factor (PDGF)",
+            "C": "Epidermal growth factor (EGF)",
+            "D": "Transforming growth factor β (TGF-β)",
+            "E": "Fibroblast growth factor (FGF)"
+        },
+        "answer": "D",
+        "explanation": "TGF-β is a key driver of collagen and proteoglycan production in cartilage matrix synthesis."
+    },
+    {
+        "id": 14,
+        "question": "Which hormone decreases blood calcium by inhibiting osteoclast activity?",
+        "options": {
+            "A": "Parathyroid hormone (PTH)",
+            "B": "Calcitonin",
+            "C": "Vitamin D",
+            "D": "Cortisol",
+            "E": "Thyroxine (T4)"
+        },
+        "answer": "B",
+        "explanation": "Calcitonin lowers plasma calcium by directly inhibiting osteoclast-mediated bone resorption."
+    },
+    {
+        "id": 15,
+        "question": "Which neurotransmitter is released at the neuromuscular junction to trigger skeletal muscle contraction?",
+        "options": {
+            "A": "Norepinephrine",
+            "B": "Gamma-aminobutyric acid (GABA)",
+            "C": "Glutamate",
+            "D": "Acetylcholine",
+            "E": "Dopamine"
+        },
+        "answer": "D",
+        "explanation": "Acetylcholine released from motor axon terminals binds nicotinic receptors on muscle fibres, initiating depolarisation."
+    },
+    {
+        "id": 16,
+        "question": "In untreated type 1 diabetes, which combination of arterial pH and ketone levels is expected?",
+        "options": {
+            "A": "Normal pH, elevated ketones",
+            "B": "Alkalosis, decreased ketones",
+            "C": "Acidosis, elevated ketones",
+            "D": "Alkalosis, elevated ketones",
+            "E": "Acidosis, decreased ketones"
+        },
+        "answer": "C",
+        "explanation": "Acute insulin deficiency leads to ketoacidosis: blood pH falls and ketone concentration rises."
+    },
+    {
+        "id": 17,
+        "question": "Which catecholamine most strongly increases heart rate and blood pressure during acute stress?",
+        "options": {
+            "A": "Dopamine",
+            "B": "Serotonin",
+            "C": "Norepinephrine",
+            "D": "Epinephrine",
+            "E": "Acetylcholine"
+        },
+        "answer": "D",
+        "explanation": "Epinephrine released from the adrenal medulla drives the systemic ‘fight or flight’ response, raising both heart rate and vascular tone."
+    },
+    {
+        "id": 18,
+        "question": "Which element is essential in a medical history to assess cognitive function?",
+        "options": {
+            "A": "Social history",
+            "B": "Review of systems",
+            "C": "Mental state examination",
+            "D": "Drug history",
+            "E": "Family history"
+        },
+        "answer": "C",
+        "explanation": "A formal mental state exam evaluates orientation, memory, speech and thought—key to cognitive assessment."
+    },
+    {
+        "id": 19,
+        "question": "Which zone of the adrenal cortex produces mineralocorticoids?",
+        "options": {
+            "A": "Zona fasciculata",
+            "B": "Zona reticularis",
+            "C": "Adrenal medulla",
+            "D": "Zona glomerulosa",
+            "E": "Capsular fibroblasts"
+        },
+        "answer": "D",
+        "explanation": "The outer zona glomerulosa synthesises aldosterone, the principal mineralocorticoid."
+    },
+    {
+        "id": 20,
+        "question": "Which hypothalamic hormone stimulates ACTH release from the anterior pituitary?",
+        "options": {
+            "A": "Thyrotropin-releasing hormone (TRH)",
+            "B": "Growth hormone-releasing hormone (GHRH)",
+            "C": "Corticotropin-releasing hormone (CRH)",
+            "D": "Gonadotropin-releasing hormone (GnRH)",
+            "E": "Somatostatin"
+        },
+        "answer": "C",
+        "explanation": "CRH from the hypothalamus acts on corticotrophs in the anterior pituitary to release ACTH."
+    },
+    {
+        "id": 21,
+        "question": "Which zone of the adrenal cortex secretes cortisol?",
+        "options": {
+            "A": "Zona glomerulosa",
+            "B": "Zona fasciculata",
+            "C": "Zona reticularis",
+            "D": "Adrenal medulla",
+            "E": "Capsular fibroblasts"
+        },
+        "answer": "B",
+        "explanation": "The zona fasciculata produces glucocorticoids, chiefly cortisol."
+    },
+    {
+        "id": 22,
+        "question": "Which ligament stabilises the lateral aspect of the knee joint?",
+        "options": {
+            "A": "Medial collateral ligament",
+            "B": "Lateral collateral ligament",
+            "C": "Anterior cruciate ligament",
+            "D": "Posterior cruciate ligament",
+            "E": "Patellar ligament"
+        },
+        "answer": "B",
+        "explanation": "The lateral collateral ligament supports the outer knee against varus forces."
+    },
+    {
+        "id": 23,
+        "question": "Which vessel carries oxygenated blood from the placenta to the fetus?",
+        "options": {
+            "A": "Umbilical artery",
+            "B": "Umbilical vein",
+            "C": "Ductus arteriosus",
+            "D": "Foramen ovale",
+            "E": "Ductus venosus"
+        },
+        "answer": "B",
+        "explanation": "The umbilical vein transports oxygen-rich blood from the placenta to the fetus."
+    },
+    {
+        "id": 24,
+        "question": "Which muscle forms the floor of the anatomical snuffbox?",
+        "options": {
+            "A": "Extensor pollicis longus",
+            "B": "Extensor digitorum",
+            "C": "Extensor pollicis brevis",
+            "D": "Abductor pollicis longus",
+            "E": "Flexor pollicis longus"
+        },
+        "answer": "A",
+        "explanation": "The tendon of extensor pollicis longus forms the snuffbox floor."
+    },
+    {
+        "id": 25,
+        "question": "Which process mainly occurs in the proximal convoluted tubule?",
+        "options": {
+            "A": "Filtration",
+            "B": "Selective secretion",
+            "C": "Bulk reabsorption of solutes and water",
+            "D": "Water impermeability",
+            "E": "Countercurrent multiplication"
+        },
+        "answer": "C",
+        "explanation": "The PCT reabsorbs about 65% of filtered water and solutes."
+    },
+    {
+        "id": 26,
+        "question": "Which cranial nerve is responsible for taste to the anterior two-thirds of the tongue?",
+        "options": {
+            "A": "Facial (VII)",
+            "B": "Glossopharyngeal (IX)",
+            "C": "Trigeminal (V)",
+            "D": "Vagus (X)",
+            "E": "Hypoglossal (XII)"
+        },
+        "answer": "A",
+        "explanation": "The chorda tympani branch of the facial nerve carries taste from the anterior two-thirds."
+    },
+    {
+        "id": 27,
+        "question": "Which ECG change is characteristic of hyperkalaemia?",
+        "options": {
+            "A": "Prolonged QT interval",
+            "B": "Peaked T waves",
+            "C": "Absent P waves",
+            "D": "ST elevation",
+            "E": "Deep S waves"
+        },
+        "answer": "B",
+        "explanation": "Elevated K⁺ causes tall, peaked T waves."
+    },
+    {
+        "id": 28,
+        "question": "Which hormone stimulates gluconeogenesis during fasting?",
+        "options": {
+            "A": "Insulin",
+            "B": "Glucagon",
+            "C": "Growth hormone",
+            "D": "Aldosterone",
+            "E": "ADH"
+        },
+        "answer": "B",
+        "explanation": "Glucagon promotes hepatic gluconeogenesis to maintain blood glucose."
+    },
+    {
+        "id": 29,
+        "question": "Which fibre type predominates in fast-twitch skeletal muscle?",
+        "options": {
+            "A": "Type I",
+            "B": "Type IIa",
+            "C": "Type IIb",
+            "D": "Type III",
+            "E": "Type IV"
+        },
+        "answer": "C",
+        "explanation": "Type IIb fibres generate rapid, powerful contractions and fatigue quickly."
+    },
+    {
+        "id": 30,
+        "question": "Which structure separates the thoracic cavity from the abdominal cavity?",
+        "options": {
+            "A": "Mediastinum",
+            "B": "Diaphragm",
+            "C": "Pleura",
+            "D": "Pericardium",
+            "E": "Linea alba"
+        },
+        "answer": "B",
+        "explanation": "The diaphragm is the muscular partition between thorax and abdomen."
+    },
+    {
+        "id": 31,
+        "question": "Which receptor detects changes in muscle stretch and mediates the stretch reflex?",
+        "options": {
+            "A": "Golgi tendon organ",
+            "B": "Muscle spindle",
+            "C": "Pacinian corpuscle",
+            "D": "Free nerve ending",
+            "E": "Merkel disc"
+        },
+        "answer": "B",
+        "explanation": "Muscle spindles sense stretch and initiate the reflex contraction."
+    },
+    {
+        "id": 32,
+        "question": "Which renal structure is impermeable to water?",
+        "options": {
+            "A": "Descending loop of Henle",
+            "B": "Ascending loop of Henle",
+            "C": "Proximal convoluted tubule",
+            "D": "Collecting duct",
+            "E": "Distal convoluted tubule"
+        },
+        "answer": "B",
+        "explanation": "The thick ascending limb actively transports ions but is water-impermeable, enabling countercurrent multiplication."
+    },
+    {
+        "id": 33,
+        "question": "Which cardiac valve is affected in rheumatic mitral stenosis?",
+        "options": {
+            "A": "Aortic valve",
+            "B": "Tricuspid valve",
+            "C": "Pulmonary valve",
+            "D": "Mitral valve",
+            "E": "None of the above"
+        },
+        "answer": "D",
+        "explanation": "Rheumatic heart disease commonly scars the mitral valve, causing stenosis."
+    },
+    {
+        "id": 34,
+        "question": "Which nerve innervates the diaphragm?",
+        "options": {
+            "A": "Vagus nerve",
+            "B": "Phrenic nerve",
+            "C": "Intercostal nerves",
+            "D": "Thoracodorsal nerve",
+            "E": "Long thoracic nerve"
+        },
+        "answer": "B",
+        "explanation": "The phrenic nerve (C3–C5) provides motor supply to the diaphragm."
+    },
+    {
+        "id": 35,
+        "question": "Which cell type forms the blood–brain barrier?",
+        "options": {
+            "A": "Astrocytes",
+            "B": "Microglia",
+            "C": "Oligodendrocytes",
+            "D": "Ependymal cells",
+            "E": "Neurons"
+        },
+        "answer": "A",
+        "explanation": "Astrocytic end-feet envelop capillaries, contributing to barrier properties."
+    },
+    {
+        "id": 36,
+        "question": "Which clotting factor is vitamin K–dependent and initiates the extrinsic pathway?",
+        "options": {
+            "A": "Factor I",
+            "B": "Factor II",
+            "C": "Factor VII",
+            "D": "Factor VIII",
+            "E": "Factor IX"
+        },
+        "answer": "C",
+        "explanation": "Factor VII, synthesised in a vitamin K–dependent manner, forms the tissue factor–VIIa complex."
+    },
+    {
+        "id": 37,
+        "question": "Which part of the nephron generates the osmotic gradient necessary for urine concentration?",
+        "options": {
+            "A": "Proximal convoluted tubule",
+            "B": "Loop of Henle",
+            "C": "Distal convoluted tubule",
+            "D": "Collecting duct",
+            "E": "Glomerulus"
+        },
+        "answer": "B",
+        "explanation": "The loop of Henle’s countercurrent arrangement establishes the medullary osmotic gradient."
+    },
+    {
+        "id": 38,
+        "question": "Which ECG finding suggests an acute anterior myocardial infarction?",
+        "options": {
+            "A": "ST elevation in leads II, III, aVF",
+            "B": "ST depression in V1–V4",
+            "C": "ST elevation in V1–V4",
+            "D": "T wave inversion in V5–V6",
+            "E": "Pathologic Q waves in II, III, aVF"
+        },
+        "answer": "C",
+        "explanation": "Elevation in precordial leads V1–V4 localises to the anterior wall supplied by the LAD artery."
+    },
+    {
+        "id": 39,
+        "question": "Which lung volume cannot be measured by spirometry?",
+        "options": {
+            "A": "Tidal volume",
+            "B": "Inspiratory reserve volume",
+            "C": "Expiratory reserve volume",
+            "D": "Residual volume",
+            "E": "Vital capacity"
+        },
+        "answer": "D",
+        "explanation": "Residual volume remains after maximal expiration and requires gas dilution or plethysmography to measure."
+    },
+    {
+        "id": 40,
+        "question": "Which receptor on B cells binds antigen directly to initiate antibody production?",
+        "options": {
+            "A": "CD3",
+            "B": "CD19",
+            "C": "B cell receptor (BCR)",
+            "D": "CD28",
+            "E": "Fcγ receptor"
+        },
+        "answer": "C",
+        "explanation": "The BCR (membrane-bound antibody)recognises antigen and triggers B cell activation."
+    },
+    {
+        "id": 41,
+        "question": "Which enzyme converts fibrinogen to fibrin in the coagulation cascade?",
+        "options": {
+            "A": "Prothrombin",
+            "B": "Thrombin",
+            "C": "Plasmin",
+            "D": "Factor XIII",
+            "E": "Heparin"
+        },
+        "answer": "B",
+        "explanation": "Thrombin cleaves fibrinogen to form insoluble fibrin strands."
+    },
+    {
+        "id": 42,
+        "question": "Which condition is characterised by demyelination of peripheral nerves?",
+        "options": {
+            "A": "Multiple sclerosis",
+            "B": "Guillain–Barré syndrome",
+            "C": "Alzheimer’s disease",
+            "D": "Parkinson’s disease",
+            "E": "Myasthenia gravis"
+        },
+        "answer": "B",
+        "explanation": "Guillain–Barré is an acute demyelinating polyneuropathy of the PNS."
+    },
+    {
+        "id": 43,
+        "question": "Which spinal tract carries pain and temperature sensations?",
+        "options": {
+            "A": "Dorsal columns",
+            "B": "Corticospinal tract",
+            "C": "Spinothalamic tract",
+            "D": "Spinocerebellar tract",
+            "E": "Vestibulospinal tract"
+        },
+        "answer": "C",
+        "explanation": "The spinothalamic tract transmits pain and temperature to the thalamus."
+    },
+    {
+        "id": 44,
+        "question": "Which immunoglobulin is most abundant in serum?",
+        "options": {
+            "A": "IgA",
+            "B": "IgD",
+            "C": "IgE",
+            "D": "IgG",
+            "E": "IgM"
+        },
+        "answer": "D",
+        "explanation": "IgG is the predominant antibody in the circulation."
+    },
+    {
+        "id": 45,
+        "question": "Which muscle is innervated by the ulnar nerve?",
+        "options": {
+            "A": "Abductor pollicis brevis",
+            "B": "Adductor pollicis",
+            "C": "Flexor digitorum superficialis",
+            "D": "Extensor digiti minimi",
+            "E": "Opponens pollicis"
+        },
+        "answer": "B",
+        "explanation": "Adductor pollicis is supplied by the deep branch of the ulnar nerve."
+    },
+    {
+        "id": 46,
+        "question": "Which enzyme deficiency leads to phenylketonuria?",
+        "options": {
+            "A": "Tyrosine hydroxylase",
+            "B": "Phenylalanine hydroxylase",
+            "C": "Homogentisate oxidase",
+            "D": "Branched-chain α-ketoacid dehydrogenase",
+            "E": "Ornithine transcarbamylase"
+        },
+        "answer": "B",
+        "explanation": "Phenylketonuria arises from lack of phenylalanine hydroxylase activity."
+    },
+    {
+        "id": 47,
+        "question": "Which artery supplies the medial border of the scapula?",
+        "options": {
+            "A": "Thoracodorsal artery",
+            "B": "Dorsal scapular artery",
+            "C": "Suprascapular artery",
+            "D": "Subscapular artery",
+            "E": "Circumflex scapular artery"
+        },
+        "answer": "B",
+        "explanation": "The dorsal scapular artery runs along the medial scapular border supplying rhomboids."
+    },
+    {
+        "id": 48,
+        "question": "Which kidney stone type forms in the presence of high urinary oxalate?",
+        "options": {
+            "A": "Struvite",
+            "B": "Uric acid",
+            "C": "Calcium oxalate",
+            "D": "Cystine",
+            "E": "Calcium phosphate"
+        },
+        "answer": "C",
+        "explanation": "Calcium oxalate stones precipitate when oxalate levels are elevated."
+    },
+    {
+        "id": 49,
+        "question": "Which hormone is secreted in response to hyperglycaemia?",
+        "options": {
+            "A": "Glucagon",
+            "B": "Insulin",
+            "C": "Cortisol",
+            "D": "Growth hormone",
+            "E": "Epinephrine"
+        },
+        "answer": "B",
+        "explanation": "Beta cells release insulin to facilitate glucose uptake and lower blood sugar."
+    },
+    {
+        "id": 50,
+        "question": "Which histological layer of the GI tract contains Meissner’s plexus?",
+        "options": {
+            "A": "Mucosa",
+            "B": "Submucosa",
+            "C": "Muscularis externa",
+            "D": "Serosa",
+            "E": "Adventitia"
+        },
+        "answer": "B",
+        "explanation": "Meissner’s (submucosal) plexus resides in the submucosal layer controlling secretions."
+    },
+    {
+        "id": 51,
+        "question": "Which cranial nerve mediates corneal reflex afferent?",
+        "options": {
+            "A": "Facial (VII)",
+            "B": "Trigeminal (V)",
+            "C": "Oculomotor (III)",
+            "D": "Trochlear (IV)",
+            "E": "Abducens (VI)"
+        },
+        "answer": "B",
+        "explanation": "The ophthalmic branch of V carries sensory input from the cornea."
+    },
+    {
+        "id": 52,
+        "question": "Which region of the stomach produces intrinsic factor?",
+        "options": {
+            "A": "Fundus",
+            "B": "Body",
+            "C": "Antrum",
+            "D": "Pylorus",
+            "E": "Cardia"
+        },
+        "answer": "A",
+        "explanation": "Parietal cells in the fundus secrete intrinsic factor for B12 absorption."
+    },
+    {
+        "id": 53,
+        "question": "Which vitamin deficiency causes scurvy?",
+        "options": {
+            "A": "Vitamin A",
+            "B": "Vitamin B1",
+            "C": "Vitamin C",
+            "D": "Vitamin D",
+            "E": "Vitamin K"
+        },
+        "answer": "C",
+        "explanation": "Lack of vitamin C impairs collagen cross-linking leading to scurvy."
+    },
+    {
+        "id": 54,
+        "question": "Which receptor on neutrophils recognises opsonised bacteria?",
+        "options": {
+            "A": "CD14",
+            "B": "Fcγ receptor",
+            "C": "Toll-like receptor 4",
+            "D": "CRP receptor",
+            "E": "IL-2 receptor"
+        },
+        "answer": "B",
+        "explanation": "Fcγ receptors bind IgG-coated bacteria promoting phagocytosis."
+    },
+    {
+        "id": 55,
+        "question": "Which cord structure passes behind the medial malleolus?",
+        "options": {
+            "A": "Tibialis anterior tendon",
+            "B": "Tibialis posterior tendon",
+            "C": "Extensor digitorum longus tendon",
+            "D": "Fibularis brevis tendon",
+            "E": "Flexor hallucis longus tendon"
+        },
+        "answer": "B",
+        "explanation": "The tibialis posterior tendon runs in the tarsal tunnel posterior to the medial malleolus."
+    },
+    {
+        "id": 56,
+        "question": "Which organelle is the site of steroid hormone synthesis?",
+        "options": {
+            "A": "Rough ER",
+            "B": "Smooth ER",
+            "C": "Mitochondrion",
+            "D": "Golgi apparatus",
+            "E": "Lysosome"
+        },
+        "answer": "B",
+        "explanation": "Smooth ER contains enzymes for cholesterol conversion into steroid hormones."
+    },
+    {
+        "id": 57,
+        "question": "Which cell surface marker identifies hematopoietic stem cells?",
+        "options": {
+            "A": "CD3",
+            "B": "CD14",
+            "C": "CD34",
+            "D": "CD45",
+            "E": "CD56"
+        },
+        "answer": "C",
+        "explanation": "CD34 is the marker for early hematopoietic progenitor cells."
+    },
+    {
+        "id": 58,
+        "question": "Which mechanism underlies autoregulation of renal blood flow?",
+        "options": {
+            "A": "Renin release",
+            "B": "Tubuloglomerular feedback",
+            "C": "Sympathetic activation",
+            "D": "Atrial natriuretic peptide",
+            "E": "angiotensin II"
+        },
+        "answer": "B",
+        "explanation": "Macula densa–mediated feedback adjusts afferent arteriole tone to stabilise GFR."
+    },
+    {
+        "id": 59,
+        "question": "Which neurotransmitter is primarily inhibitory in the adult mammalian brain?",
+        "options": {
+            "A": "Glutamate",
+            "B": "GABA",
+            "C": "Dopamine",
+            "D": "Serotonin",
+            "E": "Acetylcholine"
+        },
+        "answer": "B",
+        "explanation": "GABA is the main inhibitory neurotransmitter in the CNS."
+    },
+    {
+        "id": 60,
+        "question": "Which blood vessel is cannulated for central venous pressure measurement?",
+        "options": {
+            "A": "Radial vein",
+            "B": "Brachial vein",
+            "C": "Internal jugular vein",
+            "D": "Saphenous vein",
+            "E": "Subclavian vein"
+        },
+        "answer": "C",
+        "explanation": "The internal jugular vein provides a direct route to the right atrium for CVP monitoring."
+    },
+    {
+        "id": 61,
+        "question": "Which cell mediates the primary immune response and later becomes memory B cell?",
+        "options": {
+            "A": "Plasma cell",
+            "B": "Naïve B lymphocyte",
+            "C": "Memory T lymphocyte",
+            "D": "Monocyte",
+            "E": "Macrophage"
+        },
+        "answer": "B",
+        "explanation": "Naïve B cells differentiate into plasma cells and memory B cells during the primary response."
+    },
+    {
+        "id": 62,
+        "question": "Which pathogen is a Gram-positive cocci in clusters catalase-positive?",
+        "options": {
+            "A": "Streptococcus pneumoniae",
+            "B": "Staphylococcus aureus",
+            "C": "Enterococcus faecalis",
+            "D": "Neisseria meningitidis",
+            "E": "Escherichia coli"
+        },
+        "answer": "B",
+        "explanation": "Staph aureus is catalase-positive, coagulase-variable Gram-positive cocci in clusters."
+    },
+    {
+        "id": 63,
+        "question": "Which part of the neuron conducts action potentials away from the cell body?",
+        "options": {
+            "A": "Dendrite",
+            "B": "Axon",
+            "C": "Soma",
+            "D": "Nucleus",
+            "E": "Axon hillock"
+        },
+        "answer": "B",
+        "explanation": "The axon propagates the nerve impulse away from the soma."
+    },
+    {
+        "id": 64,
+        "question": "Which ion primarily drives the resting membrane potential in neurons?",
+        "options": {
+            "A": "Sodium",
+            "B": "Potassium",
+            "C": "Calcium",
+            "D": "Chloride",
+            "E": "Magnesium"
+        },
+        "answer": "B",
+        "explanation": "High permeability to K⁺ sets the resting potential near the K⁺ equilibrium potential."
+    },
+    {
+        "id": 65,
+        "question": "Which coagulation pathway is assessed by the activated partial thromboplastin time (aPTT)?",
+        "options": {
+            "A": "Extrinsic pathway",
+            "B": "Intrinsic pathway",
+            "C": "Common pathway",
+            "D": "Fibrinolytic pathway",
+            "E": "Vitamin K–dependent pathway"
+        },
+        "answer": "B",
+        "explanation": "aPTT measures the intrinsic and common coagulation pathways."
+    },
+    {
+        "id": 66,
+        "question": "Which muscle elevates the scapula and tilts the glenoid inferiorly?",
+        "options": {
+            "A": "Trapezius upper fibres",
+            "B": "Levator scapulae",
+            "C": "Rhomboid major",
+            "D": "Serratus anterior",
+            "E": "Latissimus dorsi"
+        },
+        "answer": "B",
+        "explanation": "Levator scapulae elevates the scapula and rotates the glenoid downward."
+    },
+    {
+        "id": 67,
+        "question": "Which bone cell originates from hematopoietic precursors and resorbs bone?",
+        "options": {
+            "A": "Osteoblast",
+            "B": "Osteocyte",
+            "C": "Chondroblast",
+            "D": "Osteoclast",
+            "E": "Fibroblast"
+        },
+        "answer": "D",
+        "explanation": "Osteoclasts derive from monocyte/macrophage lineage and degrade bone matrix."
+    },
+    {
+        "id": 68,
+        "question": "Which receptor mediates acetylcholine effects in cardiac nodal tissue?",
+        "options": {
+            "A": "Nicotinic ACh receptor",
+            "B": "Muscarinic M2 receptor",
+            "C": "Beta-1 adrenergic receptor",
+            "D": "Alpha-1 adrenergic receptor",
+            "E": "Dopamine D2 receptor"
+        },
+        "answer": "B",
+        "explanation": "M2 receptors decrease heart rate by increasing K⁺ conductance in SA node cells."
+    },
+    {
+        "id": 69,
+        "question": "Which hormone promotes sodium retention in the distal nephron?",
+        "options": {
+            "A": "Atrial natriuretic peptide",
+            "B": "Aldosterone",
+            "C": "ADH",
+            "D": "ANP",
+            "E": "Renin"
+        },
+        "answer": "B",
+        "explanation": "Aldosterone increases Na⁺ reabsorption in the distal tubule and collecting duct."
+    },
+    {
+        "id": 70,
+        "question": "Which artery is palpated lateral to the tendon of flexor carpi radialis?",
+        "options": {
+            "A": "Radial artery",
+            "B": "Ulnar artery",
+            "C": "Brachial artery",
+            "D": "Median artery",
+            "E": "Interosseous artery"
+        },
+        "answer": "A",
+        "explanation": "The radial pulse is felt lateral to the FCR tendon at the wrist."
+    },
+    {
+        "id": 71,
+        "question": "Which leukocyte is the first responder to bacterial infection?",
+        "options": {
+            "A": "Neutrophil",
+            "B": "Eosinophil",
+            "C": "Basophil",
+            "D": "Lymphocyte",
+            "E": "Monocyte"
+        },
+        "answer": "A",
+        "explanation": "Neutrophils are the predominant early phagocytic cells in acute bacterial infection."
+    },
+    {
+        "id": 72,
+        "question": "Which cartilage on the scapula articulates with the humerus?",
+        "options": {
+            "A": "Acromion",
+            "B": "Coracoid process",
+            "C": "Glenoid labrum",
+            "D": "Spine of scapula",
+            "E": "Infraspinous fossa"
+        },
+        "answer": "C",
+        "explanation": "The glenoid labrum deepens the glenoid cavity for humeral articulation."
+    },
+    {
+        "id": 73,
+        "question": "Which brain region controls water balance via ADH secretion?",
+        "options": {
+            "A": "Pineal gland",
+            "B": "Suprachiasmatic nucleus",
+            "C": "Paraventricular nucleus",
+            "D": "Arcuate nucleus",
+            "E": "Substantia nigra"
+        },
+        "answer": "C",
+        "explanation": "PVN synthesises ADH which is released by the posterior pituitary to conserve water."
+    },
+    {
+        "id": 74,
+        "question": "Which enzyme deficiency causes albinism?",
+        "options": {
+            "A": "Tyrosinase",
+            "B": "Phenylalanine hydroxylase",
+            "C": "Homogentisate oxidase",
+            "D": "Galactose-1-phosphate uridyltransferase",
+            "E": "Glucose-6-phosphatase"
+        },
+        "answer": "A",
+        "explanation": "Tyrosinase deficiency prevents melanin synthesis leading to albinism."
+    },
+    {
+        "id": 75,
+        "question": "Which segment of the small intestine has Brunner’s glands?",
+        "options": {
+            "A": "Duodenum",
+            "B": "Jejunum",
+            "C": "Ileum",
+            "D": "Colon",
+            "E": "Rectum"
+        },
+        "answer": "A",
+        "explanation": "Brunner’s glands in the duodenum secrete alkaline mucus to neutralise chyme."
+    },
+    {
+        "id": 76,
+        "question": "Which arterial branch supplies the lateral aspect of the leg?",
+        "options": {
+            "A": "Anterior tibial artery",
+            "B": "Posterior tibial artery",
+            "C": "Fibular (peroneal) artery",
+            "D": "Popliteal artery",
+            "E": "Femoral artery"
+        },
+        "answer": "C",
+        "explanation": "The fibular artery runs in the posterior compartment supplying lateral leg structures."
+    },
+    {
+        "id": 77,
+        "question": "Which structure prevents backflow between the right atrium and right ventricle?",
+        "options": {
+            "A": "Tricuspid valve",
+            "B": "Mitral valve",
+            "C": "Pyloric sphincter",
+            "D": "Aortic valve",
+            "E": "Pulmonary valve"
+        },
+        "answer": "A",
+        "explanation": "The tricuspid valve guards the right AV orifice preventing regurgitation."
+    },
+    {
+        "id": 78,
+        "question": "Which cells in the gastric mucosa secrete pepsinogen?",
+        "options": {
+            "A": "Parietal cells",
+            "B": "Chief cells",
+            "C": "Mucous neck cells",
+            "D": "G cells",
+            "E": "D cells"
+        },
+        "answer": "B",
+        "explanation": "Chief cells in the gastric glands release pepsinogen, the inactive precursor of pepsin."
+    },
+    {
+        "id": 79,
+        "question": "Which nerve carries taste from the posterior third of the tongue?",
+        "options": {
+            "A": "Facial (VII)",
+            "B": "Glossopharyngeal (IX)",
+            "C": "Vagus (X)",
+            "D": "Trigeminal (V)",
+            "E": "Hypoglossal (XII)"
+        },
+        "answer": "B",
+        "explanation": "Glossopharyngeal nerve transmits taste from posterior tongue and general sensation."
+    },
+    {
+        "id": 80,
+        "question": "Which hormone decreases glomerular filtration rate by constricting the afferent arteriole?",
+        "options": {
+            "A": "Atrial natriuretic peptide",
+            "B": "Angiotensin II",
+            "C": "Prostaglandin E2",
+            "D": "Nitric oxide",
+            "E": "Bradykinin"
+        },
+        "answer": "B",
+        "explanation": "Angiotensin II preferentially constricts the efferent arteriole but also afferent at high levels, reducing GFR."
+    },
+    {
+        "id": 81,
+        "question": "Which tissue synthesises surfactant in the lungs?",
+        "options": {
+            "A": "Type I pneumocytes",
+            "B": "Type II pneumocytes",
+            "C": "Macrophages",
+            "D": "Fibroblasts",
+            "E": "Endothelial cells"
+        },
+        "answer": "B",
+        "explanation": "Type II pneumocytes produce surfactant to reduce alveolar surface tension."
+    },
+    {
+        "id": 82,
+        "question": "Which structure connects the third and fourth ventricles in the brain?",
+        "options": {
+            "A": "Cerebral aqueduct",
+            "B": "Foramen of Monro",
+            "C": "Central canal",
+            "D": "Foramen of Luschka",
+            "E": "Tentorium cerebelli"
+        },
+        "answer": "A",
+        "explanation": "The cerebral aqueduct (aqueduct of Sylvius) links the third to the fourth ventricle."
+    },
+    {
+        "id": 83,
+        "question": "Which molecule is the primary energy currency of the cell?",
+        "options": {
+            "A": "ADP",
+            "B": "ATP",
+            "C": "GTP",
+            "D": "NADH",
+            "E": "FADH2"
+        },
+        "answer": "B",
+        "explanation": "ATP stores and transfers energy for cellular processes."
+    },
+    {
+        "id": 84,
+        "question": "Which receptor-mediated mechanism removes LDL from blood?",
+        "options": {
+            "A": "Scavenger receptors",
+            "B": "LDL receptors",
+            "C": "SR-B1 receptors",
+            "D": "Fc receptors",
+            "E": "Toll-like receptors"
+        },
+        "answer": "B",
+        "explanation": "Hepatic LDL receptors endocytose LDL particles from circulation."
+    },
+    {
+        "id": 85,
+        "question": "Which enzyme initiates glycolysis by phosphorylating glucose?",
+        "options": {
+            "A": "Hexokinase",
+            "B": "Phosphofructokinase-1",
+            "C": "Pyruvate kinase",
+            "D": "Glucose-6-phosphatase",
+            "E": "Enolase"
+        },
+        "answer": "A",
+        "explanation": "Hexokinase catalyses the first irreversible step of glycolysis converting glucose to G6P."
+    },
+    {
+        "id": 86,
+        "question": "Which part of the heart’s conduction system delays impulses to allow ventricular filling?",
+        "options": {
+            "A": "SA node",
+            "B": "AV node",
+            "C": "Bundle of His",
+            "D": "Purkinje fibres",
+            "E": "AV bundle branches"
+        },
+        "answer": "B",
+        "explanation": "The AV node slows conduction to coordinate atrial and ventricular contraction."
+    },
+    {
+        "id": 87,
+        "question": "Which histological feature is specific to the large intestine?",
+        "options": {
+            "A": "Villi",
+            "B": "Goblet cells",
+            "C": "Brunner’s glands",
+            "D": "Plicae circulares",
+            "E": "Crypto’s of Lieberkühn"
+        },
+        "answer": "B",
+        "explanation": "Goblet cells are abundant in the large intestine secreting mucus; villi are absent."
+    },
+    {
+        "id": 88,
+        "question": "Which muscle plantarflexes and everts the foot?",
+        "options": {
+            "A": "Tibialis posterior",
+            "B": "Fibularis longus",
+            "C": "Tibialis anterior",
+            "D": "Gastrocnemius",
+            "E": "Soleus"
+        },
+        "answer": "B",
+        "explanation": "Fibularis longus everts and plantarflexes the foot at the ankle."
+    },
+    {
+        "id": 89,
+        "question": "Which vessel returns nutrient-rich blood from the GI tract to the liver?",
+        "options": {
+            "A": "Hepatic artery",
+            "B": "Portal vein",
+            "C": "Hepatic vein",
+            "D": "Inferior vena cava",
+            "E": "Splenic vein"
+        },
+        "answer": "B",
+        "explanation": "The portal vein carries venous blood from the gut to the liver for processing."
+    },
+    {
+        "id": 90,
+        "question": "Which structure in the inner ear senses linear acceleration?",
+        "options": {
+            "A": "Cochlea",
+            "B": "Semicircular canals",
+            "C": "Utricle and saccule",
+            "D": "Oval window",
+            "E": "Round window"
+        },
+        "answer": "C",
+        "explanation": "The utricle and saccule contain otoliths that detect linear movement."
+    },
+    {
+        "id": 91,
+        "question": "Which metabolic fuel is used exclusively by red blood cells?",
+        "options": {
+            "A": "Fatty acids",
+            "B": "Glucose",
+            "C": "Ketone bodies",
+            "D": "Amino acids",
+            "E": "Glycerol"
+        },
+        "answer": "B",
+        "explanation": "RBCs lack mitochondria and rely on glycolysis of glucose for ATP."
+    },
+    {
+        "id": 92,
+        "question": "Which nerve root supplies sensation to the lateral aspect of the forearm?",
+        "options": {
+            "A": "C5",
+            "B": "C6",
+            "C": "C7",
+            "D": "C8",
+            "E": "T1"
+        },
+        "answer": "B",
+        "explanation": "The lateral forearm dermatome is supplied by the C6 spinal nerve."
+    },
+    {
+        "id": 93,
+        "question": "Which glial cell produces myelin in the central nervous system?",
+        "options": {
+            "A": "Schwann cell",
+            "B": "Oligodendrocyte",
+            "C": "Astrocyte",
+            "D": "Microglia",
+            "E": "Satellite cell"
+        },
+        "answer": "B",
+        "explanation": "Oligodendrocytes myelinate multiple CNS axons, unlike Schwann cells in PNS."
+    },
+    {
+        "id": 94,
+        "question": "Which acid–base disturbance accompanies prolonged vomiting?",
+        "options": {
+            "A": "Metabolic acidosis",
+            "B": "Metabolic alkalosis",
+            "C": "Respiratory acidosis",
+            "D": "Respiratory alkalosis",
+            "E": "Mixed respiratory and metabolic acidosis"
+        },
+        "answer": "B",
+        "explanation": "Loss of gastric HCl leads to metabolic alkalosis in prolonged vomiting."
+    },
+    {
+        "id": 95,
+        "question": "Which structure conducts impulses from the lateral geniculate nucleus to the visual cortex?",
+        "options": {
+            "A": "Optic tract",
+            "B": "Optic radiation",
+            "C": "Optic nerve",
+            "D": "Optic chiasm",
+            "E": "Superior colliculus"
+        },
+        "answer": "B",
+        "explanation": "Optic radiations project from the LGN to the primary visual cortex in the occipital lobe."
+    },
+    {
+        "id": 96,
+        "question": "Which blood cells contain histamine and heparin and mediate allergic responses?",
+        "options": {
+            "A": "Neutrophils",
+            "B": "Eosinophils",
+            "C": "Basophils",
+            "D": "Macrophages",
+            "E": "Mast cells"
+        },
+        "answer": "C",
+        "explanation": "Basophils release histamine and participate in type I hypersensitivity reactions."
+    },
+    {
+        "id": 97,
+        "question": "Which mechanism produces concentrated urine?",
+        "options": {
+            "A": "Filtration at higher pressure",
+            "B": "Countercurrent multiplication",
+            "C": "Increased ADH release only",
+            "D": "Active secretion",
+            "E": "Osmotic diuresis"
+        },
+        "answer": "B",
+        "explanation": "Countercurrent multiplication in the loop of Henle establishes the osmotic gradient for water reabsorption."
+    },
+    {
+        "id": 98,
+        "question": "Which immunoglobulin is secreted in breast milk?",
+        "options": {
+            "A": "IgA",
+            "B": "IgD",
+            "C": "IgE",
+            "D": "IgG",
+            "E": "IgM"
+        },
+        "answer": "A",
+        "explanation": "Secretory IgA provides mucosal immunity to the neonate via breast milk."
+    },
+    {
+        "id": 99,
+        "question": "Which acid forms when CO2 dissolves in blood?",
+        "options": {
+            "A": "Carbonic acid",
+            "B": "Hydrochloric acid",
+            "C": "Lactic acid",
+            "D": "Sulfuric acid",
+            "E": "Acetic acid"
+        },
+        "answer": "A",
+        "explanation": "CO2 reacts with water to form carbonic acid, catalysed by carbonic anhydrase."
+    },
+    {
+        "id": 100,
+        "question": "Which structure in the nephron prevents backflow of urine into the collecting ducts?",
+        "options": {
+            "A": "Glomerular basement membrane",
+            "B": "Ureteric sphincter",
+            "C": "Epithelium of collecting duct",
+            "D": "Renal papillae",
+            "E": "Pelvic floor muscles"
+        },
+        "answer": "B",
+        "explanation": "The ureterovesical junction functions as a sphincter to prevent reflux into the ducts."
+    }
+]
