@@ -1,0 +1,1302 @@
+[
+    {
+        "id": 1,
+        "question": "Which statement best describes the physiological antagonism between insulin and glucagon?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The physiological antagonism between insulin and glucagon is accurately described by option A."
+    },
+    {
+        "id": 2,
+        "question": "Which statement best describes the differences between type 1 and type 2 diabetes mellitus in insulin production and effects?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The differences between type 1 and type 2 diabetes mellitus in insulin production and effects is accurately described by option A."
+    },
+    {
+        "id": 3,
+        "question": "Which statement best describes the WHO diagnostic criteria for diabetes mellitus including OGTT thresholds?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The WHO diagnostic criteria for diabetes mellitus including OGTT thresholds is accurately described by option A."
+    },
+    {
+        "id": 4,
+        "question": "Which statement best describes the risk factors for developing type 2 diabetes?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The risk factors for developing type 2 diabetes is accurately described by option A."
+    },
+    {
+        "id": 5,
+        "question": "Which statement best describes the presenting features of type 2 diabetes mellitus?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The presenting features of type 2 diabetes mellitus is accurately described by option A."
+    },
+    {
+        "id": 6,
+        "question": "Which statement best describes the spectrum from obesity to type 2 diabetes and metabolic syndrome?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The spectrum from obesity to type 2 diabetes and metabolic syndrome is accurately described by option A."
+    },
+    {
+        "id": 7,
+        "question": "Which statement best describes the effect of acute insulin deficiency on blood pH and ketone concentration?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The effect of acute insulin deficiency on blood pH and ketone concentration is accurately described by option A."
+    },
+    {
+        "id": 8,
+        "question": "Which statement best describes the effect of acute hyperglycaemia on body fluid balance?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The effect of acute hyperglycaemia on body fluid balance is accurately described by option A."
+    },
+    {
+        "id": 9,
+        "question": "Which statement best describes the functional anatomy of the adrenal glands?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The functional anatomy of the adrenal glands is accurately described by option A."
+    },
+    {
+        "id": 10,
+        "question": "Which statement best describes the regulation and actions of cortisol?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The regulation and actions of cortisol is accurately described by option A."
+    },
+    {
+        "id": 11,
+        "question": "Which statement best describes the major features of Cushing syndrome?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The major features of Cushing syndrome is accurately described by option A."
+    },
+    {
+        "id": 12,
+        "question": "Which statement best describes the Addisonian crisis and cortisol deficiency impact?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The Addisonian crisis and cortisol deficiency impact is accurately described by option A."
+    },
+    {
+        "id": 13,
+        "question": "Which statement best describes the regulation of aldosterone secretion?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The regulation of aldosterone secretion is accurately described by option A."
+    },
+    {
+        "id": 14,
+        "question": "Which statement best describes the structural similarity between glucocorticoids and mineralocorticoids?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The structural similarity between glucocorticoids and mineralocorticoids is accurately described by option A."
+    },
+    {
+        "id": 15,
+        "question": "Which statement best describes the effects of chronic excess aldosterone on volume, pressure, and potassium?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The effects of chronic excess aldosterone on volume, pressure, and potassium is accurately described by option A."
+    },
+    {
+        "id": 16,
+        "question": "Which statement best describes the systemic effects of stress and catecholamine role?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The systemic effects of stress and catecholamine role is accurately described by option A."
+    },
+    {
+        "id": 17,
+        "question": "Which statement best describes the fight or flight response roles of adrenal cortex and medulla?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The fight or flight response roles of adrenal cortex and medulla is accurately described by option A."
+    },
+    {
+        "id": 18,
+        "question": "Which statement best describes the tonic inhibitory regulation of prolactin and stress effects?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The tonic inhibitory regulation of prolactin and stress effects is accurately described by option A."
+    },
+    {
+        "id": 19,
+        "question": "Which statement best describes the compare roles of adrenal medulla vs cortex in stress?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The compare roles of adrenal medulla vs cortex in stress is accurately described by option A."
+    },
+    {
+        "id": 20,
+        "question": "Which statement best describes the differences between mood and anxiety disorders and normal stress responses?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The differences between mood and anxiety disorders and normal stress responses is accurately described by option A."
+    },
+    {
+        "id": 21,
+        "question": "Which statement best describes the acute vs chronic stress effects in health and disease?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The acute vs chronic stress effects in health and disease is accurately described by option A."
+    },
+    {
+        "id": 22,
+        "question": "Which statement best describes the structure and function of endocrine system in homeostasis?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The structure and function of endocrine system in homeostasis is accurately described by option A."
+    },
+    {
+        "id": 23,
+        "question": "Which statement best describes the define endocrine, paracrine, and autocrine regulation?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The define endocrine, paracrine, and autocrine regulation is accurately described by option A."
+    },
+    {
+        "id": 24,
+        "question": "Which statement best describes the compare synthesis and actions of peptide vs steroid hormones?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The compare synthesis and actions of peptide vs steroid hormones is accurately described by option A."
+    },
+    {
+        "id": 25,
+        "question": "Which statement best describes the describe the hypothalamo-pituitary-adrenal axis and feedback loops?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The describe the hypothalamo-pituitary-adrenal axis and feedback loops is accurately described by option A."
+    },
+    {
+        "id": 26,
+        "question": "Which statement best describes the structure and vascular supply of anterior pituitary?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The structure and vascular supply of anterior pituitary is accurately described by option A."
+    },
+    {
+        "id": 27,
+        "question": "Which statement best describes the anatomical relations of pituitary gland including optic chiasm?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The anatomical relations of pituitary gland including optic chiasm is accurately described by option A."
+    },
+    {
+        "id": 28,
+        "question": "Which statement best describes the roles of anterior pituitary hormones in growth, adrenal, and thyroid regulation?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The roles of anterior pituitary hormones in growth, adrenal, and thyroid regulation is accurately described by option A."
+    },
+    {
+        "id": 29,
+        "question": "Which statement best describes the role of negative feedback and suprachiasmatic nucleus in hormone secretion?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The role of negative feedback and suprachiasmatic nucleus in hormone secretion is accurately described by option A."
+    },
+    {
+        "id": 30,
+        "question": "Which statement best describes the hypothalamic-pituitary-gonadal axis regulation?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The hypothalamic-pituitary-gonadal axis regulation is accurately described by option A."
+    },
+    {
+        "id": 31,
+        "question": "Which statement best describes the hormonal changes during menstrual cycle, puberty, and menopause?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The hormonal changes during menstrual cycle, puberty, and menopause is accurately described by option A."
+    },
+    {
+        "id": 32,
+        "question": "Which statement best describes the hypergonadotrophic vs hypogonadotrophic hypogonadism differences?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The hypergonadotrophic vs hypogonadotrophic hypogonadism differences is accurately described by option A."
+    },
+    {
+        "id": 33,
+        "question": "Which statement best describes the disorders of sexual differentiation?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The disorders of sexual differentiation is accurately described by option A."
+    },
+    {
+        "id": 34,
+        "question": "Which statement best describes the compare hormone receptor interactions in membrane vs cytosolic receptors?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The compare hormone receptor interactions in membrane vs cytosolic receptors is accurately described by option A."
+    },
+    {
+        "id": 35,
+        "question": "Which statement best describes the outline second messengers in intracellular hormone signaling?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The outline second messengers in intracellular hormone signaling is accurately described by option A."
+    },
+    {
+        "id": 36,
+        "question": "Which statement best describes the how protein kinases affect enzyme activity with examples?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The how protein kinases affect enzyme activity with examples is accurately described by option A."
+    },
+    {
+        "id": 37,
+        "question": "Which statement best describes the anatomical relationships of thyroid and parathyroid glands?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The anatomical relationships of thyroid and parathyroid glands is accurately described by option A."
+    },
+    {
+        "id": 38,
+        "question": "Which statement best describes the synthesis, regulation, and actions of thyroid hormones?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The synthesis, regulation, and actions of thyroid hormones is accurately described by option A."
+    },
+    {
+        "id": 39,
+        "question": "Which statement best describes the effects of thyroid hormone excess and deficiency?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The effects of thyroid hormone excess and deficiency is accurately described by option A."
+    },
+    {
+        "id": 40,
+        "question": "Which statement best describes the importance of dietary iodine and goitre formation?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The importance of dietary iodine and goitre formation is accurately described by option A."
+    },
+    {
+        "id": 41,
+        "question": "Which statement best describes the effects of hypercalcaemia on mood, cognition, fluid balance, and bowel function?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The effects of hypercalcaemia on mood, cognition, fluid balance, and bowel function is accurately described by option A."
+    },
+    {
+        "id": 42,
+        "question": "Which statement best describes the effects of hypocalcaemia on nerve and muscle function?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The effects of hypocalcaemia on nerve and muscle function is accurately described by option A."
+    },
+    {
+        "id": 43,
+        "question": "Which statement best describes the regulation and actions of growth hormone; effects of deficiency in childhood?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The regulation and actions of growth hormone; effects of deficiency in childhood is accurately described by option A."
+    },
+    {
+        "id": 44,
+        "question": "Which statement best describes the effects of excess growth hormone in childhood (gigantism) and adulthood (acromegaly)?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The effects of excess growth hormone in childhood (gigantism) and adulthood (acromegaly) is accurately described by option A."
+    },
+    {
+        "id": 45,
+        "question": "Which statement best describes the use of growth charts in clinical practice?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The use of growth charts in clinical practice is accurately described by option A."
+    },
+    {
+        "id": 46,
+        "question": "Which statement best describes the role of endocrine pancreas in glucose homeostasis?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The role of endocrine pancreas in glucose homeostasis is accurately described by option A."
+    },
+    {
+        "id": 47,
+        "question": "Which statement best describes the structure and function of endocrine pancreas and clinical application of C-peptide measurement?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The structure and function of endocrine pancreas and clinical application of C-peptide measurement is accurately described by option A."
+    },
+    {
+        "id": 48,
+        "question": "Which statement best describes the compare types of cartilage: hyaline, elastic, fibrocartilage?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The compare types of cartilage: hyaline, elastic, fibrocartilage is accurately described by option A."
+    },
+    {
+        "id": 49,
+        "question": "Which statement best describes the functions of chondroblasts vs chondrocytes?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The functions of chondroblasts vs chondrocytes is accurately described by option A."
+    },
+    {
+        "id": 50,
+        "question": "Which statement best describes the factors influencing cartilage metabolism?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The factors influencing cartilage metabolism is accurately described by option A."
+    },
+    {
+        "id": 51,
+        "question": "Which statement best describes the functions of bone cells and composition of bone matrix?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The functions of bone cells and composition of bone matrix is accurately described by option A."
+    },
+    {
+        "id": 52,
+        "question": "Which statement best describes the compare types of bone: compact vs spongy?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The compare types of bone: compact vs spongy is accurately described by option A."
+    },
+    {
+        "id": 53,
+        "question": "Which statement best describes the blood supply and innervation of a typical long bone?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The blood supply and innervation of a typical long bone is accurately described by option A."
+    },
+    {
+        "id": 54,
+        "question": "Which statement best describes the factors influencing bone growth?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The factors influencing bone growth is accurately described by option A."
+    },
+    {
+        "id": 55,
+        "question": "Which statement best describes the role of PTH, vitamin D, and calcitonin in calcium homeostasis?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The role of PTH, vitamin D, and calcitonin in calcium homeostasis is accurately described by option A."
+    },
+    {
+        "id": 56,
+        "question": "Which statement best describes the factors influencing bone density?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The factors influencing bone density is accurately described by option A."
+    },
+    {
+        "id": 57,
+        "question": "Which statement best describes the dietary factors essential for bone growth?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The dietary factors essential for bone growth is accurately described by option A."
+    },
+    {
+        "id": 58,
+        "question": "Which statement best describes the effect of estrogen on osteoblast and osteoclast activity?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The effect of estrogen on osteoblast and osteoclast activity is accurately described by option A."
+    },
+    {
+        "id": 59,
+        "question": "Which statement best describes the process of fracture healing?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The process of fracture healing is accurately described by option A."
+    },
+    {
+        "id": 60,
+        "question": "Which statement best describes the functions of osteogenic progenitor cells, osteoblasts, osteoclasts, and osteocytes?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The functions of osteogenic progenitor cells, osteoblasts, osteoclasts, and osteocytes is accurately described by option A."
+    },
+    {
+        "id": 61,
+        "question": "Which statement best describes the composition of medullary cavity including red and yellow marrow?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The composition of medullary cavity including red and yellow marrow is accurately described by option A."
+    },
+    {
+        "id": 62,
+        "question": "Which statement best describes the identify diaphysis, epiphysis, and metaphysis of a long bone?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The identify diaphysis, epiphysis, and metaphysis of a long bone is accurately described by option A."
+    },
+    {
+        "id": 63,
+        "question": "Which statement best describes the compare compact and spongy bone microarchitecture?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The compare compact and spongy bone microarchitecture is accurately described by option A."
+    },
+    {
+        "id": 64,
+        "question": "Which statement best describes the outline bone remodeling during adulthood?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The outline bone remodeling during adulthood is accurately described by option A."
+    },
+    {
+        "id": 65,
+        "question": "Which statement best describes the functions of skeletal muscle in movement and posture?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The functions of skeletal muscle in movement and posture is accurately described by option A."
+    },
+    {
+        "id": 66,
+        "question": "Which statement best describes the difference between isotonic and isometric contractions?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The difference between isotonic and isometric contractions is accurately described by option A."
+    },
+    {
+        "id": 67,
+        "question": "Which statement best describes the excitation-contraction coupling mechanism details?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The excitation-contraction coupling mechanism details is accurately described by option A."
+    },
+    {
+        "id": 68,
+        "question": "Which statement best describes the structure of a myofibril?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The structure of a myofibril is accurately described by option A."
+    },
+    {
+        "id": 69,
+        "question": "Which statement best describes the role of calcium, troponin, tropomyosin, actin, myosin, and ATP in muscle contraction?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The role of calcium, troponin, tropomyosin, actin, myosin, and ATP in muscle contraction is accurately described by option A."
+    },
+    {
+        "id": 70,
+        "question": "Which statement best describes the methods and challenges of pain assessment?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The methods and challenges of pain assessment is accurately described by option A."
+    },
+    {
+        "id": 71,
+        "question": "Which statement best describes the adaptive vs maladaptive coping responses to pain?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The adaptive vs maladaptive coping responses to pain is accurately described by option A."
+    },
+    {
+        "id": 72,
+        "question": "Which statement best describes the bone growth during childhood and adolescence?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The bone growth during childhood and adolescence is accurately described by option A."
+    },
+    {
+        "id": 73,
+        "question": "Which statement best describes the radiological appearance of immature bones?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The radiological appearance of immature bones is accurately described by option A."
+    },
+    {
+        "id": 74,
+        "question": "Which statement best describes the impact of growth plate injury on bone growth?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The impact of growth plate injury on bone growth is accurately described by option A."
+    },
+    {
+        "id": 75,
+        "question": "Which statement best describes the developmental effects of childhood bone growth on adult skeleton?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The developmental effects of childhood bone growth on adult skeleton is accurately described by option A."
+    },
+    {
+        "id": 76,
+        "question": "Which statement best describes the causes and consequences of sarcopenia?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The causes and consequences of sarcopenia is accurately described by option A."
+    },
+    {
+        "id": 77,
+        "question": "Which statement best describes the define osteopaenia and its age-related effects?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The define osteopaenia and its age-related effects is accurately described by option A."
+    },
+    {
+        "id": 78,
+        "question": "Which statement best describes the effect of aging on fibrous tissues and cartilage?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The effect of aging on fibrous tissues and cartilage is accurately described by option A."
+    },
+    {
+        "id": 79,
+        "question": "Which statement best describes the effects of vertebral osteoporosis on spine structure?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The effects of vertebral osteoporosis on spine structure is accurately described by option A."
+    },
+    {
+        "id": 80,
+        "question": "Which statement best describes the indications and interpretation of limb radiographs?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The indications and interpretation of limb radiographs is accurately described by option A."
+    },
+    {
+        "id": 81,
+        "question": "Which statement best describes the identify fractures and growth plates on X-ray?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The identify fractures and growth plates on X-ray is accurately described by option A."
+    },
+    {
+        "id": 82,
+        "question": "Which statement best describes the surface anatomy and auscultation of chest for respiratory exam?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The surface anatomy and auscultation of chest for respiratory exam is accurately described by option A."
+    },
+    {
+        "id": 83,
+        "question": "Which statement best describes the identify upper respiratory tract structures on radiographs?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The identify upper respiratory tract structures on radiographs is accurately described by option A."
+    },
+    {
+        "id": 84,
+        "question": "Which statement best describes the mechanisms of GI tract motility and regulation?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The mechanisms of GI tract motility and regulation is accurately described by option A."
+    },
+    {
+        "id": 85,
+        "question": "Which statement best describes the roles of GI hormones and paracrine factors in digestion?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The roles of GI hormones and paracrine factors in digestion is accurately described by option A."
+    },
+    {
+        "id": 86,
+        "question": "Which statement best describes the structure and function of liver in metabolism and bile production?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The structure and function of liver in metabolism and bile production is accurately described by option A."
+    },
+    {
+        "id": 87,
+        "question": "Which statement best describes the assessment of nutritional status and malnutrition in hospital settings?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The assessment of nutritional status and malnutrition in hospital settings is accurately described by option A."
+    },
+    {
+        "id": 88,
+        "question": "Which statement best describes the principles of energy balance and obesity treatment?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The principles of energy balance and obesity treatment is accurately described by option A."
+    },
+    {
+        "id": 89,
+        "question": "Which statement best describes the structure and components of a whole person medical history?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The structure and components of a whole person medical history is accurately described by option A."
+    },
+    {
+        "id": 90,
+        "question": "Which statement best describes the components of whole person clinical examination?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The components of whole person clinical examination is accurately described by option A."
+    },
+    {
+        "id": 91,
+        "question": "Which statement best describes the hypothesis generation from clinical assessment?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The hypothesis generation from clinical assessment is accurately described by option A."
+    },
+    {
+        "id": 92,
+        "question": "Which statement best describes the present clinical information coherently?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The present clinical information coherently is accurately described by option A."
+    },
+    {
+        "id": 93,
+        "question": "Which statement best describes the effective consultation closing techniques and safety-netting?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The effective consultation closing techniques and safety-netting is accurately described by option A."
+    },
+    {
+        "id": 94,
+        "question": "Which statement best describes the ICE framework: patient ideas, concerns, and expectations?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The ICE framework: patient ideas, concerns, and expectations is accurately described by option A."
+    },
+    {
+        "id": 95,
+        "question": "Which statement best describes the use of open-ended questions in motivational interviewing?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The use of open-ended questions in motivational interviewing is accurately described by option A."
+    },
+    {
+        "id": 96,
+        "question": "Which statement best describes the first aid: structure and components of medical history including cognitive function?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The first aid: structure and components of medical history including cognitive function is accurately described by option A."
+    },
+    {
+        "id": 97,
+        "question": "Which statement best describes the structure and function assessment of cardio-respiratory system clinically?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The structure and function assessment of cardio-respiratory system clinically is accurately described by option A."
+    },
+    {
+        "id": 98,
+        "question": "Which statement best describes the risk factors for cardiovascular disease and prevention roles?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The risk factors for cardiovascular disease and prevention roles is accurately described by option A."
+    },
+    {
+        "id": 99,
+        "question": "Which statement best describes the systematic review features and meta-analysis introduction?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The systematic review features and meta-analysis introduction is accurately described by option A."
+    },
+    {
+        "id": 100,
+        "question": "Which statement best describes the interpretation of pressure-volume loops and Starling curves?",
+        "options": {
+            "A": "Correct description",
+            "B": "Distractor 1",
+            "C": "Distractor 2",
+            "D": "Distractor 3",
+            "E": "Distractor 4"
+        },
+        "answer": "A",
+        "explanation": "The interpretation of pressure-volume loops and Starling curves is accurately described by option A."
+    }
+]
