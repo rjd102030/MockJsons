@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "question": "Which ion primarily determines the resting membrane potential in most cells?",
+    "options": {
+      "B": "Chloride",
+      "D": "Magnesium",
+      "C": "Calcium",
+      "A": "Sodium",
+      "E": "Potassium"
+    },
+    "answer": "E",
+    "explanation": "Potassium has the greatest influence on resting membrane potential due to its high membrane permeability at rest."
+  },
+  {
+    "id": 2,
+    "question": "Which condition is characterized by destruction of alveolar walls and air trapping?",
+    "options": {
+      "E": "Bronchiectasis",
+      "A": "Asthma",
+      "D": "Pulmonary fibrosis",
+      "C": "Bronchitis",
+      "B": "Emphysema"
+    },
+    "answer": "B",
+    "explanation": "Emphysema involves destruction of alveolar walls leading to decreased elastic recoil and air trapping."
+  },
+  {
+    "id": 3,
+    "question": "What is the best method to reduce recall bias in retrospective studies?",
+    "options": {
+      "E": "Use of objective data sources",
+      "D": "Cross-sectional design",
+      "A": "Increase sample size",
+      "B": "Blinding",
+      "C": "Randomization"
+    },
+    "answer": "E",
+    "explanation": "Objective data sources (like medical records) reduce bias from inaccurate patient recall."
+  },
+  {
+    "id": 4,
+    "question": "Which type of inheritance shows variable expression but always affects offspring of affected parents?",
+    "options": {
+      "E": "Mitochondrial",
+      "C": "X-linked recessive",
+      "D": "Autosomal dominant",
+      "B": "X-linked dominant",
+      "A": "Autosomal recessive"
+    },
+    "answer": "D",
+    "explanation": "Autosomal dominant traits affect every generation, showing variable expression but no skipping."
+  },
+  {
+    "id": 5,
+    "question": "Which genetic disorder is caused by a mutation in the CFTR gene?",
+    "options": {
+      "A": "Cystic fibrosis",
+      "B": "Tay-Sachs disease",
+      "C": "Huntington's disease",
+      "D": "Down syndrome",
+      "E": "Sickle cell anemia"
+    },
+    "answer": "A",
+    "explanation": "Cystic fibrosis is due to mutations in the CFTR gene, affecting chloride transport and mucus viscosity."
+  },
+  {
+    "id": 6,
+    "question": "Which embryological structure gives rise to the vertebral column?",
+    "options": {
+      "B": "Myotome",
+      "E": "Neural crest",
+      "D": "Sclerotome",
+      "A": "Dermatome",
+      "C": "Notochord"
+    },
+    "answer": "D",
+    "explanation": "The sclerotome differentiates from somites and gives rise to vertebrae and ribs."
+  },
+  {
+    "id": 7,
+    "question": "Which structure in the brain is responsible for regulating circadian rhythms?",
+    "options": {
+      "D": "Suprachiasmatic nucleus",
+      "A": "Pineal gland",
+      "E": "Hippocampus",
+      "C": "Cerebellum",
+      "B": "Amygdala"
+    },
+    "answer": "D",
+    "explanation": "The suprachiasmatic nucleus regulates circadian rhythms through input from the retina."
+  },
+  {
+    "id": 8,
+    "question": "Which lung pathology is characterised by permanent dilation of bronchi?",
+    "options": {
+      "C": "Asthma",
+      "D": "Fibrosis",
+      "B": "Bronchiectasis",
+      "A": "Emphysema",
+      "E": "Pneumonia"
+    },
+    "answer": "B",
+    "explanation": "Bronchiectasis causes irreversible dilation of bronchi due to chronic inflammation and infection."
+  },
+  {
+    "id": 9,
+    "question": "Which hormone promotes sodium reabsorption in the kidneys?",
+    "options": {
+      "D": "Aldosterone",
+      "E": "Renin",
+      "B": "Cortisol",
+      "C": "PTH",
+      "A": "ADH"
+    },
+    "answer": "D",
+    "explanation": "Aldosterone increases sodium reabsorption in the distal nephron, conserving sodium and water."
+  },
+  {
+    "id": 10,
+    "question": "Which embryonic germ layer gives rise to the central nervous system?",
+    "options": {
+      "A": "Endoderm",
+      "C": "Ectoderm",
+      "E": "Neural crest",
+      "B": "Trophoblast",
+      "D": "Mesoderm"
+    },
+    "answer": "C",
+    "explanation": "The central nervous system originates from the ectoderm, specifically the neural tube."
+  },
+  {
+    "id": 11,
+    "question": "The cloacal membrane is composed of which embryonic layers?",
+    "options": {
+      "B": "Mesoderm and endoderm",
+      "C": "Trophoblast and mesoderm",
+      "E": "Ectoderm and mesoderm",
+      "A": "Mesoderm and ectoderm",
+      "D": "Ectoderm and endoderm"
+    },
+    "answer": "D",
+    "explanation": "The cloacal membrane consists of ectoderm and endoderm without interposing mesoderm."
+  },
+  {
+    "id": 12,
+    "question": "Which condition is caused by a defect in DNA mismatch repair genes?",
+    "options": {
+      "B": "Li-Fraumeni syndrome",
+      "C": "BRCA mutation",
+      "E": "Down syndrome",
+      "A": "Cystic fibrosis",
+      "D": "Lynch syndrome"
+    },
+    "answer": "D",
+    "explanation": "Lynch syndrome involves defective DNA mismatch repair, increasing risk for colorectal and other cancers."
+  },
+  {
+    "id": 13,
+    "question": "Which chromosomal abnormality results in Down syndrome?",
+    "options": {
+      "E": "Translocation 9;22",
+      "C": "Trisomy 13",
+      "A": "Monosomy X",
+      "D": "Trisomy 21",
+      "B": "Trisomy 18"
+    },
+    "answer": "D",
+    "explanation": "Down syndrome is caused by trisomy 21, the presence of an extra chromosome 21."
+  },
+  {
+    "id": 14,
+    "question": "Which physiological parameter is directly regulated by osmoreceptors in the hypothalamus?",
+    "options": {
+      "C": "Plasma osmolality",
+      "E": "Temperature",
+      "B": "Blood glucose",
+      "D": "Heart rate",
+      "A": "Blood pressure"
+    },
+    "answer": "C",
+    "explanation": "Osmoreceptors in the hypothalamus detect plasma osmolality and regulate ADH release accordingly."
+  },
+  {
+    "id": 15,
+    "question": "Which type of transport requires energy to move molecules against a concentration gradient?",
+    "options": {
+      "B": "Simple diffusion",
+      "C": "Active transport",
+      "E": "Filtration",
+      "D": "Osmosis",
+      "A": "Facilitated diffusion"
+    },
+    "answer": "C",
+    "explanation": "Active transport uses ATP to move substances against their concentration gradient."
+  },
+  {
+    "id": 16,
+    "question": "Which part of the brainstem contains the respiratory centres?",
+    "options": {
+      "B": "Midbrain",
+      "D": "Medulla oblongata",
+      "C": "Thalamus",
+      "E": "Cerebellum",
+      "A": "Pons"
+    },
+    "answer": "D",
+    "explanation": "The medulla oblongata contains respiratory centers that control the rate and depth of breathing."
+  },
+  {
+    "id": 17,
+    "question": "Which organism causes tuberculosis?",
+    "options": {
+      "E": "Mycobacterium tuberculosis",
+      "D": "Corynebacterium diphtheriae",
+      "A": "Staphylococcus aureus",
+      "B": "Streptococcus pneumoniae",
+      "C": "Haemophilus influenzae"
+    },
+    "answer": "E",
+    "explanation": "Tuberculosis is caused by Mycobacterium tuberculosis, an acid-fast bacillus."
+  },
+  {
+    "id": 18,
+    "question": "What is the main ethical principle involved in obtaining informed consent?",
+    "options": {
+      "B": "Beneficence",
+      "D": "Fidelity",
+      "E": "Autonomy",
+      "A": "Justice",
+      "C": "Non-maleficence"
+    },
+    "answer": "E",
+    "explanation": "Autonomy is the ethical principle that supports a patient\u2019s right to make their own decisions."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is a core principle of medical professionalism?",
+    "options": {
+      "A": "Maintaining patient confidentiality",
+      "E": "Limiting patient autonomy",
+      "B": "Pursuing personal gain",
+      "C": "Advertising services",
+      "D": "Avoiding all responsibility"
+    },
+    "answer": "A",
+    "explanation": "Maintaining patient confidentiality is a core component of medical professionalism."
+  },
+  {
+    "id": 20,
+    "question": "Which hormone is released by the posterior pituitary?",
+    "options": {
+      "A": "ACTH",
+      "E": "GH",
+      "B": "Prolactin",
+      "D": "ADH (vasopressin)",
+      "C": "TSH"
+    },
+    "answer": "D",
+    "explanation": "ADH is released from the posterior pituitary and acts to conserve water in the kidneys."
+  },
+  {
+    "id": 21,
+    "question": "Which hormone inhibits both insulin and glucagon release?",
+    "options": {
+      "C": "Growth hormone",
+      "A": "Cortisol",
+      "E": "Somatostatin",
+      "D": "Thyroxine",
+      "B": "Epinephrine"
+    },
+    "answer": "E",
+    "explanation": "Somatostatin inhibits secretion of both insulin and glucagon."
+  },
+  {
+    "id": 22,
+    "question": "What is the primary function of pulmonary surfactant?",
+    "options": {
+      "B": "Reduces surface tension in alveoli",
+      "E": "Protects against infection",
+      "D": "Clears mucus",
+      "A": "Facilitates gas exchange",
+      "C": "Maintains blood pH"
+    },
+    "answer": "B",
+    "explanation": "Pulmonary surfactant reduces alveolar surface tension, preventing collapse during expiration."
+  },
+  {
+    "id": 23,
+    "question": "Which bone forms the anterior portion of the hard palate?",
+    "options": {
+      "B": "Vomer",
+      "A": "Maxilla",
+      "C": "Palatine",
+      "D": "Zygomatic",
+      "E": "Mandible"
+    },
+    "answer": "A",
+    "explanation": "The maxilla forms the anterior portion of the hard palate."
+  },
+  {
+    "id": 24,
+    "question": "What is the best response if a patient declines treatment that you believe is necessary?",
+    "options": {
+      "D": "Refer to ethics board",
+      "A": "Call security",
+      "C": "Ask a colleague to try",
+      "E": "Respect the patient\u2019s autonomy",
+      "B": "Insist on treatment"
+    },
+    "answer": "E",
+    "explanation": "Patients have the right to refuse treatment; respecting autonomy is key."
+  },
+  {
+    "id": 25,
+    "question": "Which anatomical landmark marks the start of the descending colon?",
+    "options": {
+      "B": "Left colic flexure",
+      "D": "Cecum",
+      "A": "Right colic flexure",
+      "E": "Splenic hilum",
+      "C": "Sigmoid colon"
+    },
+    "answer": "B",
+    "explanation": "The left colic flexure marks the transition from transverse to descending colon."
+  },
+  {
+    "id": 26,
+    "question": "Which ion channel opens during the repolarisation phase of a cardiac action potential?",
+    "options": {
+      "E": "Magnesium",
+      "A": "Sodium",
+      "C": "Potassium",
+      "D": "Chloride",
+      "B": "Calcium"
+    },
+    "answer": "C",
+    "explanation": "Potassium channels open during repolarisation to restore the resting membrane potential."
+  },
+  {
+    "id": 27,
+    "question": "Which structure prevents backflow of blood from the aorta into the left ventricle?",
+    "options": {
+      "B": "Pulmonary valve",
+      "C": "Aortic valve",
+      "D": "Tricuspid valve",
+      "A": "Mitral valve",
+      "E": "Chordae tendineae"
+    },
+    "answer": "C",
+    "explanation": "The aortic valve prevents backflow of blood from the aorta into the left ventricle."
+  },
+  {
+    "id": 28,
+    "question": "Which hormone is secreted in response to low blood glucose levels?",
+    "options": {
+      "A": "Aldosterone",
+      "D": "Insulin",
+      "E": "Cortisol",
+      "C": "Thyroxine",
+      "B": "Glucagon"
+    },
+    "answer": "B",
+    "explanation": "Glucagon is secreted by pancreatic alpha cells in response to low blood glucose."
+  },
+  {
+    "id": 29,
+    "question": "Which microorganism is a common cause of infective endocarditis in IV drug users?",
+    "options": {
+      "B": "Enterococcus faecalis",
+      "C": "Candida albicans",
+      "A": "Streptococcus viridans",
+      "D": "E. coli",
+      "E": "Staphylococcus aureus"
+    },
+    "answer": "E",
+    "explanation": "Staphylococcus aureus is the most common cause of endocarditis in IV drug users."
+  },
+  {
+    "id": 30,
+    "question": "Which lobe of the brain is primarily responsible for decision-making and planning?",
+    "options": {
+      "D": "Temporal lobe",
+      "E": "Parietal lobe",
+      "A": "Insular cortex",
+      "C": "Occipital lobe",
+      "B": "Frontal lobe"
+    },
+    "answer": "B",
+    "explanation": "The frontal lobe is involved in decision-making, planning, and executive functions."
+  },
+  {
+    "id": 31,
+    "question": "Which hormone increases water reabsorption in the kidney collecting ducts?",
+    "options": {
+      "B": "Renin",
+      "D": "PTH",
+      "C": "Cortisol",
+      "E": "ADH (vasopressin)",
+      "A": "Aldosterone"
+    },
+    "answer": "E",
+    "explanation": "ADH increases water reabsorption in the collecting ducts via aquaporins."
+  },
+  {
+    "id": 32,
+    "question": "What is the key ethical concern in conducting medical research involving human participants?",
+    "options": {
+      "D": "Investigator credentials",
+      "C": "Data collection method",
+      "E": "Informed consent",
+      "B": "Cost of research",
+      "A": "Treatment efficacy"
+    },
+    "answer": "E",
+    "explanation": "Informed consent ensures ethical participation in human research."
+  },
+  {
+    "id": 33,
+    "question": "Which embryonic structure gives rise to the gonads?",
+    "options": {
+      "B": "Neural crest",
+      "A": "Mesonephros",
+      "E": "Yolk sac",
+      "D": "Genital ridge",
+      "C": "Somite"
+    },
+    "answer": "D",
+    "explanation": "The genital ridge develops into gonads under the influence of SRY gene (in males)."
+  },
+  {
+    "id": 34,
+    "question": "Which gram-negative rod is commonly associated with urinary tract infections?",
+    "options": {
+      "D": "Enterococcus faecalis",
+      "E": "Escherichia coli",
+      "A": "Staphylococcus saprophyticus",
+      "C": "Proteus mirabilis",
+      "B": "Klebsiella pneumoniae"
+    },
+    "answer": "E",
+    "explanation": "E. coli is a common cause of UTIs due to its ability to colonize the urethra."
+  },
+  {
+    "id": 35,
+    "question": "Which muscle is primarily responsible for dorsiflexion of the foot?",
+    "options": {
+      "C": "Soleus",
+      "E": "Flexor digitorum longus",
+      "A": "Gastrocnemius",
+      "D": "Fibularis longus",
+      "B": "Tibialis anterior"
+    },
+    "answer": "B",
+    "explanation": "Tibialis anterior is the main dorsiflexor of the foot."
+  },
+  {
+    "id": 36,
+    "question": "Which enzyme catalyzes the conversion of angiotensin I to angiotensin II?",
+    "options": {
+      "A": "Renin",
+      "D": "Angiotensinogen",
+      "B": "Aldosterone synthase",
+      "E": "Phospholipase C",
+      "C": "ACE"
+    },
+    "answer": "C",
+    "explanation": "ACE converts angiotensin I to angiotensin II, a vasoconstrictor."
+  },
+  {
+    "id": 37,
+    "question": "Which hormone increases basal metabolic rate?",
+    "options": {
+      "B": "Insulin",
+      "C": "Glucagon",
+      "A": "Cortisol",
+      "E": "Aldosterone",
+      "D": "Thyroxine (T4)"
+    },
+    "answer": "D",
+    "explanation": "Thyroxine (T4) increases metabolic rate by acting on nuclear receptors in cells."
+  },
+  {
+    "id": 38,
+    "question": "Which part of the ECG represents atrial depolarisation?",
+    "options": {
+      "B": "T wave",
+      "A": "QRS complex",
+      "E": "PR interval",
+      "C": "P wave",
+      "D": "ST segment"
+    },
+    "answer": "C",
+    "explanation": "The P wave on an ECG represents atrial depolarisation."
+  },
+  {
+    "id": 39,
+    "question": "Which hormone is secreted by adipose tissue and regulates appetite?",
+    "options": {
+      "B": "Insulin",
+      "D": "Thyroxine",
+      "C": "Cortisol",
+      "A": "Ghrelin",
+      "E": "Leptin"
+    },
+    "answer": "E",
+    "explanation": "Leptin, secreted by adipose tissue, suppresses appetite via the hypothalamus."
+  },
+  {
+    "id": 40,
+    "question": "What is the principle of beneficence in medical ethics?",
+    "options": {
+      "A": "Respecting patient autonomy",
+      "D": "Maintaining confidentiality",
+      "E": "Acting in the best interest of the patient",
+      "C": "Ensuring justice",
+      "B": "Avoiding harm"
+    },
+    "answer": "E",
+    "explanation": "Beneficence is the obligation to act in the patient\u2019s best interest."
+  },
+  {
+    "id": 41,
+    "question": "Which brain region is primarily responsible for language comprehension?",
+    "options": {
+      "B": "Primary motor cortex",
+      "A": "Broca's area",
+      "C": "Cerebellum",
+      "D": "Wernicke's area",
+      "E": "Occipital lobe"
+    },
+    "answer": "D",
+    "explanation": "Wernicke\u2019s area is critical for language comprehension."
+  },
+  {
+    "id": 42,
+    "question": "Which hormone increases blood calcium levels by stimulating osteoclast activity?",
+    "options": {
+      "B": "Calcitonin",
+      "D": "Insulin",
+      "A": "Parathyroid hormone",
+      "C": "Cortisol",
+      "E": "Aldosterone"
+    },
+    "answer": "A",
+    "explanation": "Parathyroid hormone increases blood calcium by stimulating osteoclast activity."
+  },
+  {
+    "id": 43,
+    "question": "Which cell type in the alveoli produces surfactant?",
+    "options": {
+      "D": "Club cells",
+      "A": "Type I pneumocytes",
+      "B": "Type II pneumocytes",
+      "C": "Alveolar macrophages",
+      "E": "Ciliated columnar cells"
+    },
+    "answer": "B",
+    "explanation": "Type II pneumocytes produce surfactant, reducing surface tension in alveoli."
+  },
+  {
+    "id": 44,
+    "question": "What is the genetic inheritance pattern of Duchenne muscular dystrophy?",
+    "options": {
+      "D": "X-linked recessive",
+      "B": "Autosomal recessive",
+      "E": "Codominant",
+      "A": "Autosomal dominant",
+      "C": "Mitochondrial"
+    },
+    "answer": "D",
+    "explanation": "Duchenne muscular dystrophy follows an X-linked recessive inheritance pattern."
+  },
+  {
+    "id": 45,
+    "question": "Which area of the brain is associated with speech production?",
+    "options": {
+      "A": "Wernicke\u2019s area",
+      "C": "Prefrontal cortex",
+      "B": "Occipital lobe",
+      "E": "Broca\u2019s area",
+      "D": "Insular cortex"
+    },
+    "answer": "E",
+    "explanation": "Broca\u2019s area controls speech production and is located in the frontal lobe."
+  },
+  {
+    "id": 46,
+    "question": "The femoral nerve arises from which spinal nerve roots?",
+    "options": {
+      "A": "L4-S1",
+      "E": "C5-C7",
+      "C": "T12-L2",
+      "B": "L2-L4",
+      "D": "S1-S3"
+    },
+    "answer": "B",
+    "explanation": "The femoral nerve arises from spinal roots L2\u2013L4."
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is an autosomal dominant condition?",
+    "options": {
+      "E": "Sickle cell anemia",
+      "D": "Phenylketonuria",
+      "C": "Tay-Sachs disease",
+      "A": "Cystic fibrosis",
+      "B": "Marfan syndrome"
+    },
+    "answer": "B",
+    "explanation": "Marfan syndrome is an autosomal dominant connective tissue disorder."
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is an example of active listening in a clinical setting?",
+    "options": {
+      "D": "Focusing on computer screen",
+      "E": "Typing while the patient speaks",
+      "A": "Maintaining eye contact and summarising what the patient said",
+      "B": "Looking away during the consultation",
+      "C": "Interrupting to ask questions"
+    },
+    "answer": "A",
+    "explanation": "Active listening includes eye contact, nodding, and summarizing the patient\u2019s words."
+  },
+  {
+    "id": 49,
+    "question": "During which week of embryonic development does the neural tube close?",
+    "options": {
+      "C": "Week 5",
+      "B": "Week 6",
+      "E": "Week 2",
+      "A": "Week 4",
+      "D": "Week 3"
+    },
+    "answer": "A",
+    "explanation": "The neural tube closes by the end of week 4 of embryonic development."
+  },
+  {
+    "id": 50,
+    "question": "What mechanism allows glucose to enter cells in an insulin-dependent manner?",
+    "options": {
+      "A": "Facilitated diffusion via GLUT4",
+      "B": "Simple diffusion",
+      "D": "Pinocytosis",
+      "E": "Osmosis",
+      "C": "Active transport"
+    },
+    "answer": "A",
+    "explanation": "GLUT4 facilitates insulin-dependent glucose entry into cells."
+  },
+  {
+    "id": 51,
+    "question": "Which nerve innervates the diaphragm?",
+    "options": {
+      "D": "Hypoglossal nerve",
+      "A": "Intercostal nerve",
+      "C": "Phrenic nerve",
+      "E": "Accessory nerve",
+      "B": "Vagus nerve"
+    },
+    "answer": "C",
+    "explanation": "The phrenic nerve (C3\u2013C5) innervates the diaphragm for respiration."
+  },
+  {
+    "id": 52,
+    "question": "Which bacterial structure is targeted by beta-lactam antibiotics?",
+    "options": {
+      "D": "Flagellum",
+      "E": "Peptidoglycan cell wall",
+      "A": "Capsule",
+      "C": "Plasma membrane",
+      "B": "Ribosome"
+    },
+    "answer": "E",
+    "explanation": "Beta-lactam antibiotics inhibit synthesis of peptidoglycan cell walls in bacteria."
+  },
+  {
+    "id": 53,
+    "question": "Which part of the heart's conduction system is located in the interventricular septum?",
+    "options": {
+      "D": "Purkinje fibres",
+      "B": "AV node",
+      "E": "Moderator band",
+      "C": "Bundle of His",
+      "A": "SA node"
+    },
+    "answer": "C",
+    "explanation": "The bundle of His runs through the interventricular septum and conducts impulses."
+  },
+  {
+    "id": 54,
+    "question": "Which part of the brain integrates visual information and controls visual perception?",
+    "options": {
+      "C": "Cerebellum",
+      "B": "Temporal lobe",
+      "D": "Insula",
+      "E": "Occipital lobe",
+      "A": "Frontal lobe"
+    },
+    "answer": "E",
+    "explanation": "The occipital lobe processes visual input from the eyes."
+  },
+  {
+    "id": 55,
+    "question": "Which part of the brain is primarily responsible for motor coordination and balance?",
+    "options": {
+      "B": "Medulla oblongata",
+      "D": "Corpus callosum",
+      "A": "Cerebellum",
+      "C": "Hypothalamus",
+      "E": "Thalamus"
+    },
+    "answer": "A",
+    "explanation": "The cerebellum is responsible for coordinating voluntary movements and balance."
+  },
+  {
+    "id": 56,
+    "question": "Which hormone is secreted by the anterior pituitary and stimulates the adrenal cortex?",
+    "options": {
+      "D": "TSH",
+      "C": "LH",
+      "A": "ACTH",
+      "E": "Prolactin",
+      "B": "FSH"
+    },
+    "answer": "A",
+    "explanation": "ACTH from the anterior pituitary stimulates cortisol release from the adrenal cortex."
+  },
+  {
+    "id": 57,
+    "question": "Which respiratory structure prevents food from entering the trachea during swallowing?",
+    "options": {
+      "C": "Soft palate",
+      "B": "Epiglottis",
+      "E": "Glottis",
+      "A": "Uvula",
+      "D": "Tongue"
+    },
+    "answer": "B",
+    "explanation": "The epiglottis prevents food from entering the trachea during swallowing."
+  },
+  {
+    "id": 58,
+    "question": "Which bone forms the posterior part of the hard palate?",
+    "options": {
+      "E": "Vomer",
+      "D": "Zygomatic bone",
+      "B": "Palatine bone",
+      "A": "Maxilla",
+      "C": "Mandible"
+    },
+    "answer": "B",
+    "explanation": "The palatine bone forms the posterior portion of the hard palate."
+  },
+  {
+    "id": 59,
+    "question": "Which of the following best represents distributive justice in healthcare?",
+    "options": {
+      "B": "Spending equally on all treatments",
+      "A": "Treating first come, first served",
+      "E": "Allocating resources based on patient need",
+      "D": "Rewarding healthy behavior",
+      "C": "Providing private care"
+    },
+    "answer": "E",
+    "explanation": "Distributive justice allocates healthcare based on need to ensure fairness."
+  },
+  {
+    "id": 60,
+    "question": "Which hormone is responsible for stimulating milk ejection during breastfeeding?",
+    "options": {
+      "B": "Estrogen",
+      "A": "Prolactin",
+      "E": "FSH",
+      "D": "Progesterone",
+      "C": "Oxytocin"
+    },
+    "answer": "C",
+    "explanation": "Oxytocin causes milk ejection from the mammary glands during breastfeeding."
+  },
+  {
+    "id": 61,
+    "question": "Which respiratory structure contains cartilage rings to keep it open?",
+    "options": {
+      "B": "Trachea",
+      "A": "Bronchioles",
+      "E": "Pharynx",
+      "D": "Larynx",
+      "C": "Alveoli"
+    },
+    "answer": "B",
+    "explanation": "The trachea has C-shaped cartilage rings to maintain patency."
+  },
+  {
+    "id": 62,
+    "question": "Which part of the limbic system is involved in the formation of new memories?",
+    "options": {
+      "E": "Basal ganglia",
+      "C": "Hippocampus",
+      "D": "Hypothalamus",
+      "B": "Thalamus",
+      "A": "Amygdala"
+    },
+    "answer": "C",
+    "explanation": "The hippocampus is essential for forming new long-term memories."
+  },
+  {
+    "id": 63,
+    "question": "What is the primary function of the sodium-potassium ATPase pump in cells?",
+    "options": {
+      "D": "Replicates DNA",
+      "A": "Maintains membrane potential",
+      "C": "Synthesizes ATP",
+      "B": "Facilitates protein folding",
+      "E": "Produces neurotransmitters"
+    },
+    "answer": "A",
+    "explanation": "The sodium-potassium ATPase pump maintains resting membrane potential and ionic gradients."
+  },
+  {
+    "id": 64,
+    "question": "Which principle requires that healthcare resources be distributed fairly?",
+    "options": {
+      "D": "Non-maleficence",
+      "E": "Justice",
+      "C": "Fidelity",
+      "B": "Autonomy",
+      "A": "Beneficence"
+    },
+    "answer": "E",
+    "explanation": "Justice in healthcare refers to fair and equitable distribution of resources."
+  },
+  {
+    "id": 65,
+    "question": "Which chromosomal condition results from nondisjunction during meiosis?",
+    "options": {
+      "C": "Translocation",
+      "E": "Duplication",
+      "B": "Inversion",
+      "D": "Trisomy",
+      "A": "Deletion"
+    },
+    "answer": "D",
+    "explanation": "Trisomy is a chromosomal disorder caused by nondisjunction during meiosis."
+  },
+  {
+    "id": 66,
+    "question": "Which of the following pathogens is a Gram-negative diplococcus causing meningitis?",
+    "options": {
+      "D": "Listeria monocytogenes",
+      "A": "Neisseria meningitidis",
+      "B": "Escherichia coli",
+      "C": "Streptococcus pneumoniae",
+      "E": "Haemophilus influenzae"
+    },
+    "answer": "A",
+    "explanation": "Neisseria meningitidis is a Gram-negative diplococcus causing meningitis."
+  },
+  {
+    "id": 67,
+    "question": "Which respiratory condition is characterised by reversible airway obstruction?",
+    "options": {
+      "A": "COPD",
+      "D": "Pneumonia",
+      "B": "Asthma",
+      "C": "Pulmonary fibrosis",
+      "E": "Bronchiectasis"
+    },
+    "answer": "B",
+    "explanation": "Asthma is characterised by reversible bronchoconstriction and airway inflammation."
+  },
+  {
+    "id": 68,
+    "question": "Which ion is primarily responsible for the depolarisation phase of an action potential in neurons?",
+    "options": {
+      "D": "Chloride",
+      "B": "Potassium",
+      "A": "Calcium",
+      "C": "Sodium",
+      "E": "Magnesium"
+    },
+    "answer": "C",
+    "explanation": "Sodium influx depolarises neurons during the action potential upstroke."
+  },
+  {
+    "id": 69,
+    "question": "The deltoid muscle is innervated by which nerve?",
+    "options": {
+      "D": "Musculocutaneous nerve",
+      "B": "Axillary nerve",
+      "E": "Ulnar nerve",
+      "A": "Radial nerve",
+      "C": "Median nerve"
+    },
+    "answer": "B",
+    "explanation": "The axillary nerve innervates the deltoid muscle."
+  },
+  {
+    "id": 70,
+    "question": "Which organ has the highest resting oxygen consumption per gram of tissue?",
+    "options": {
+      "A": "Kidney",
+      "B": "Skeletal muscle",
+      "C": "Liver",
+      "E": "Heart",
+      "D": "Brain"
+    },
+    "answer": "A",
+    "explanation": "The kidney has the highest oxygen consumption per gram of tissue due to active transport processes."
+  },
+  {
+    "id": 71,
+    "question": "Which structure is responsible for initiating the heartbeat?",
+    "options": {
+      "A": "Atrioventricular node",
+      "B": "Bundle of His",
+      "D": "Sinoatrial node",
+      "E": "Left atrium",
+      "C": "Purkinje fibres"
+    },
+    "answer": "D",
+    "explanation": "The sinoatrial node initiates electrical impulses that regulate heart rhythm."
+  },
+  {
+    "id": 72,
+    "question": "Which fetal structure becomes the ligamentum arteriosum after birth?",
+    "options": {
+      "B": "Ductus venosus",
+      "E": "Umbilical vein",
+      "A": "Foramen ovale",
+      "C": "Umbilical artery",
+      "D": "Ductus arteriosus"
+    },
+    "answer": "D",
+    "explanation": "The ductus arteriosus closes after birth and becomes the ligamentum arteriosum."
+  },
+  {
+    "id": 73,
+    "question": "Which base pair mutation causes sickle cell anaemia?",
+    "options": {
+      "A": "G to C in alpha-globin",
+      "D": "A to T substitution in the beta-globin gene",
+      "E": "G to T in dystrophin",
+      "B": "T to A in CFTR",
+      "C": "C to G in hemoglobin alpha"
+    },
+    "answer": "D",
+    "explanation": "Sickle cell anaemia is caused by a point mutation (A to T) in the beta-globin gene."
+  },
+  {
+    "id": 74,
+    "question": "Which carpal bone articulates with the radius?",
+    "options": {
+      "C": "Hamate",
+      "B": "Scaphoid",
+      "D": "Capitate",
+      "A": "Lunate",
+      "E": "Pisiform"
+    },
+    "answer": "B",
+    "explanation": "The scaphoid bone articulates with the distal radius at the wrist."
+  },
+  {
+    "id": 75,
+    "question": "Which structure gives rise to the notochord?",
+    "options": {
+      "D": "Primitive node",
+      "C": "Chorion",
+      "E": "Amnion",
+      "A": "Epiblast",
+      "B": "Hypoblast"
+    },
+    "answer": "D",
+    "explanation": "The notochord is derived from cells of the primitive node during gastrulation."
+  },
+  {
+    "id": 76,
+    "question": "What heart sound is associated with the closure of the aortic and pulmonary valves?",
+    "options": {
+      "A": "S2",
+      "D": "Murmur",
+      "E": "S3",
+      "B": "S1",
+      "C": "S4"
+    },
+    "answer": "A",
+    "explanation": "S2 is the heart sound caused by closure of the aortic and pulmonary valves."
+  },
+  {
+    "id": 77,
+    "question": "Which extraembryonic membrane contributes to the formation of the umbilical cord?",
+    "options": {
+      "B": "Chorion",
+      "A": "Allantois",
+      "C": "Yolk sac",
+      "E": "Amnion",
+      "D": "Decidua basalis"
+    },
+    "answer": "A",
+    "explanation": "The allantois contributes to the formation of the umbilical cord."
+  },
+  {
+    "id": 78,
+    "question": "Which artery primarily supplies the interventricular septum?",
+    "options": {
+      "E": "Marginal artery",
+      "A": "Right coronary artery",
+      "B": "Circumflex artery",
+      "C": "Left anterior descending artery",
+      "D": "Posterior descending artery"
+    },
+    "answer": "C",
+    "explanation": "The left anterior descending (LAD) artery supplies most of the interventricular septum."
+  },
+  {
+    "id": 79,
+    "question": "What is the most appropriate initial step in managing a patient who does not speak English?",
+    "options": {
+      "B": "Use family members to interpret",
+      "D": "Speak slowly and loudly",
+      "C": "Use a professional medical interpreter",
+      "E": "Postpone the consultation",
+      "A": "Use hand gestures"
+    },
+    "answer": "C",
+    "explanation": "A professional interpreter ensures accurate communication and patient safety."
+  },
+  {
+    "id": 80,
+    "question": "Which component of the ECG corresponds to ventricular depolarisation?",
+    "options": {
+      "D": "PR interval",
+      "C": "QRS complex",
+      "E": "ST segment",
+      "B": "T wave",
+      "A": "P wave"
+    },
+    "answer": "C",
+    "explanation": "The QRS complex represents ventricular depolarisation on an ECG."
+  },
+  {
+    "id": 81,
+    "question": "Which of the following is an example of an epigenetic modification?",
+    "options": {
+      "A": "Base pair substitution",
+      "B": "Gene deletion",
+      "E": "Nonsense mutation",
+      "C": "Frameshift mutation",
+      "D": "DNA methylation"
+    },
+    "answer": "D",
+    "explanation": "DNA methylation is an epigenetic mechanism that regulates gene expression."
+  },
+  {
+    "id": 82,
+    "question": "Which vessel carries oxygenated blood from the lungs to the heart?",
+    "options": {
+      "D": "Superior vena cava",
+      "C": "Inferior vena cava",
+      "E": "Pulmonary artery",
+      "A": "Aorta",
+      "B": "Pulmonary vein"
+    },
+    "answer": "B",
+    "explanation": "The pulmonary vein carries oxygenated blood from the lungs to the left atrium."
+  },
+  {
+    "id": 83,
+    "question": "Which lung volume cannot be measured by spirometry?",
+    "options": {
+      "E": "Tidal volume",
+      "D": "Expiratory reserve volume",
+      "B": "Residual volume",
+      "A": "Vital capacity",
+      "C": "Inspiratory reserve volume"
+    },
+    "answer": "B",
+    "explanation": "Residual volume cannot be measured by spirometry because it remains after maximal expiration."
+  },
+  {
+    "id": 84,
+    "question": "Which muscle is the primary flexor of the forearm at the elbow?",
+    "options": {
+      "C": "Flexor carpi ulnaris",
+      "D": "Brachioradialis",
+      "E": "Deltoid",
+      "B": "Triceps brachii",
+      "A": "Biceps brachii"
+    },
+    "answer": "A",
+    "explanation": "Biceps brachii is the main muscle responsible for forearm flexion at the elbow."
+  },
+  {
+    "id": 85,
+    "question": "Which structure forms the floor of the amniotic cavity during early development?",
+    "options": {
+      "D": "Epiblast",
+      "A": "Hypoblast",
+      "B": "Cytotrophoblast",
+      "C": "Yolk sac",
+      "E": "Amnion"
+    },
+    "answer": "D",
+    "explanation": "The epiblast forms the floor of the amniotic cavity during early development."
+  },
+  {
+    "id": 86,
+    "question": "Which enzyme is responsible for unzipping DNA during replication?",
+    "options": {
+      "A": "Helicase",
+      "C": "Topoisomerase",
+      "E": "DNA polymerase",
+      "B": "Primase",
+      "D": "Ligase"
+    },
+    "answer": "A",
+    "explanation": "Helicase unwinds the DNA double helix during replication."
+  },
+  {
+    "id": 87,
+    "question": "Which of the following substances has the highest renal clearance?",
+    "options": {
+      "B": "Urea",
+      "A": "Glucose",
+      "C": "PAH (para-aminohippuric acid)",
+      "E": "Inulin",
+      "D": "Creatinine"
+    },
+    "answer": "C",
+    "explanation": "PAH is used to estimate renal plasma flow due to its high clearance."
+  },
+  {
+    "id": 88,
+    "question": "Which of the following structures is the primary site for gas exchange in the lungs?",
+    "options": {
+      "A": "Alveoli",
+      "C": "Pleura",
+      "B": "Trachea",
+      "E": "Terminal bronchioles",
+      "D": "Bronchi"
+    },
+    "answer": "A",
+    "explanation": "Gas exchange occurs in the alveoli due to their thin walls and large surface area."
+  },
+  {
+    "id": 89,
+    "question": "The plateau phase of the cardiac action potential is primarily maintained by influx of which ion?",
+    "options": {
+      "B": "Sodium",
+      "D": "Chloride",
+      "C": "Magnesium",
+      "A": "Calcium",
+      "E": "Potassium"
+    },
+    "answer": "A",
+    "explanation": "Calcium influx maintains the plateau phase of cardiac action potentials."
+  },
+  {
+    "id": 90,
+    "question": "Which vessel supplies blood to the myocardium?",
+    "options": {
+      "D": "Superior vena cava",
+      "C": "Coronary arteries",
+      "A": "Pulmonary arteries",
+      "B": "Aorta",
+      "E": "Subclavian artery"
+    },
+    "answer": "C",
+    "explanation": "The coronary arteries branch off the aorta to supply the myocardium."
+  },
+  {
+    "id": 91,
+    "question": "Which parameter is sensed by baroreceptors?",
+    "options": {
+      "C": "Blood pH",
+      "D": "Osmolality",
+      "E": "Temperature",
+      "B": "Blood pressure",
+      "A": "Blood glucose"
+    },
+    "answer": "B",
+    "explanation": "Baroreceptors detect changes in blood pressure and relay signals to the brainstem."
+  },
+  {
+    "id": 92,
+    "question": "Which structure forms the primitive streak during gastrulation?",
+    "options": {
+      "E": "Yolk sac",
+      "B": "Amnion",
+      "D": "Epiblast",
+      "A": "Hypoblast",
+      "C": "Chorion"
+    },
+    "answer": "D",
+    "explanation": "The primitive streak forms from epiblast cells during gastrulation."
+  },
+  {
+    "id": 93,
+    "question": "Which area of the brain is primarily responsible for processing auditory information?",
+    "options": {
+      "E": "Temporal lobe",
+      "D": "Insular cortex",
+      "C": "Frontal lobe",
+      "B": "Parietal lobe",
+      "A": "Occipital lobe"
+    },
+    "answer": "E",
+    "explanation": "The temporal lobe contains the auditory cortex responsible for sound processing."
+  },
+  {
+    "id": 94,
+    "question": "Which process generates the majority of ATP in aerobic respiration?",
+    "options": {
+      "C": "Beta-oxidation",
+      "A": "Glycolysis",
+      "E": "Gluconeogenesis",
+      "B": "Krebs cycle",
+      "D": "Oxidative phosphorylation"
+    },
+    "answer": "D",
+    "explanation": "Oxidative phosphorylation in mitochondria produces the majority of ATP during aerobic respiration."
+  },
+  {
+    "id": 95,
+    "question": "Which structure passes through the foramen magnum?",
+    "options": {
+      "D": "Internal carotid artery",
+      "C": "Jugular vein",
+      "E": "Optic nerve",
+      "A": "Spinal accessory nerve",
+      "B": "Medulla oblongata"
+    },
+    "answer": "B",
+    "explanation": "The medulla oblongata passes through the foramen magnum to connect to the spinal cord."
+  },
+  {
+    "id": 96,
+    "question": "Which neurotransmitter is primarily involved in the parasympathetic nervous system?",
+    "options": {
+      "A": "Acetylcholine",
+      "E": "Norepinephrine",
+      "B": "Glutamate",
+      "C": "Dopamine",
+      "D": "GABA"
+    },
+    "answer": "A",
+    "explanation": "Acetylcholine is the primary neurotransmitter in the parasympathetic nervous system."
+  },
+  {
+    "id": 97,
+    "question": "What is the main buffer system in human blood?",
+    "options": {
+      "E": "Lactate buffer system",
+      "D": "Ammonia buffer system",
+      "A": "Phosphate buffer system",
+      "B": "Protein buffer system",
+      "C": "Bicarbonate buffer system"
+    },
+    "answer": "C",
+    "explanation": "The bicarbonate buffer system maintains blood pH by neutralising excess acids or bases."
+  },
+  {
+    "id": 98,
+    "question": "Which parameter is most closely regulated by aldosterone?",
+    "options": {
+      "D": "Glucose reabsorption",
+      "A": "Water excretion",
+      "B": "Potassium retention",
+      "E": "Bicarbonate secretion",
+      "C": "Sodium reabsorption"
+    },
+    "answer": "C",
+    "explanation": "Aldosterone promotes sodium reabsorption and potassium excretion in the kidneys."
+  },
+  {
+    "id": 99,
+    "question": "Which cell type lines the alveoli and is responsible for gas exchange?",
+    "options": {
+      "D": "Type II pneumocytes",
+      "C": "Club cells",
+      "A": "Type I pneumocytes",
+      "B": "Goblet cells",
+      "E": "Ciliated columnar cells"
+    },
+    "answer": "A",
+    "explanation": "Type I pneumocytes line alveoli and facilitate gas exchange due to their thin structure."
+  },
+  {
+    "id": 100,
+    "question": "Which heart valve lies between the left atrium and left ventricle?",
+    "options": {
+      "C": "Mitral valve",
+      "D": "Pulmonary valve",
+      "E": "Eustachian valve",
+      "A": "Tricuspid valve",
+      "B": "Aortic valve"
+    },
+    "answer": "C",
+    "explanation": "The mitral valve lies between the left atrium and left ventricle, preventing backflow."
+  }
+]
