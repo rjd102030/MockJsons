@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "question": "Which type of cartilage is most flexible and contains abundant elastin fibres, as found in the external ear?",
+    "options": {
+      "A": "Hyaline cartilage",
+      "B": "Elastic cartilage",
+      "C": "Fibrocartilage",
+      "D": "Reticular cartilage",
+      "E": "Articular cartilage"
+    },
+    "answer": "B",
+    "explanation": "Elastic cartilage contains abundant elastin fibres, providing flexibility for structures like the external ear."
+  },
+  {
+    "id": 2,
+    "question": "Which bone cell is primarily responsible for secreting the organic components of the bone matrix (osteoid)?",
+    "options": {
+      "A": "Osteocyte",
+      "B": "Osteoclast",
+      "C": "Osteoblast",
+      "D": "Chondrocyte",
+      "E": "Fibroblast"
+    },
+    "answer": "C",
+    "explanation": "Osteoblasts synthesise and secrete the collagen-rich osteoid that constitutes the organic bone matrix."
+  },
+  {
+    "id": 3,
+    "question": "The cambium layer of the periosteum contains which type of cells that contribute to appositional bone growth?",
+    "options": {
+      "A": "Chondroblasts",
+      "B": "Osteoprogenitor cells",
+      "C": "Osteoclasts",
+      "D": "Fibroblasts",
+      "E": "Adipocytes"
+    },
+    "answer": "B",
+    "explanation": "The cambium (inner) layer of the periosteum houses osteoprogenitor cells that differentiate into osteoblasts for appositional growth."
+  },
+  {
+    "id": 4,
+    "question": "In endochondral ossification of long bones, the primary ossification centre appears in the:",
+    "options": {
+      "A": "Epiphysis",
+      "B": "Metaphysis",
+      "C": "Diaphysis",
+      "D": "Periosteum",
+      "E": "Articular cartilage"
+    },
+    "answer": "C",
+    "explanation": "The primary ossification centre develops in the diaphysis of long bones before birth."
+  },
+  {
+    "id": 5,
+    "question": "What inorganic component gives bone its compressive strength?",
+    "options": {
+      "A": "Type I collagen",
+      "B": "Proteoglycans",
+      "C": "Hydroxyapatite crystals",
+      "D": "Elastin fibres",
+      "E": "Glycosaminoglycans"
+    },
+    "answer": "C",
+    "explanation": "Hydroxyapatite (calcium phosphate) crystals in bone matrix provide resistance to compressive forces."
+  },
+  {
+    "id": 6,
+    "question": "Which hormone increases osteoclast activity to elevate plasma calcium levels?",
+    "options": {
+      "A": "Calcitonin",
+      "B": "Parathyroid hormone (PTH)",
+      "C": "Calcitriol (active vitamin D)",
+      "D": "Estrogen",
+      "E": "Growth hormone"
+    },
+    "answer": "B",
+    "explanation": "Parathyroid hormone stimulates osteoclast-mediated bone resorption, increasing plasma calcium."
+  },
+  {
+    "id": 7,
+    "question": "Rickets in children results from a deficiency of which vitamin critical for bone mineralisation?",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Vitamin C",
+      "C": "Vitamin D",
+      "D": "Vitamin K",
+      "E": "Vitamin B12"
+    },
+    "answer": "C",
+    "explanation": "Vitamin D deficiency impairs calcium absorption, leading to defective mineralisation of growing bone (rickets)."
+  },
+  {
+    "id": 8,
+    "question": "Peak bone mass during adolescence is most strongly influenced by:",
+    "options": {
+      "A": "Parathyroid hormone levels",
+      "B": "Mechanical loading and physical activity",
+      "C": "Calcitonin secretion",
+      "D": "High-protein diet",
+      "E": "Vitamin K intake"
+    },
+    "answer": "B",
+    "explanation": "Mechanical loading through weight-bearing activity stimulates bone formation and peak bone mass acquisition."
+  },
+  {
+    "id": 9,
+    "question": "Which cell type resorbs old or damaged bone during remodelling?",
+    "options": {
+      "A": "Osteoblast",
+      "B": "Osteocyte",
+      "C": "Osteoclast",
+      "D": "Chondroblast",
+      "E": "Fibroblast"
+    },
+    "answer": "C",
+    "explanation": "Osteoclasts break down bone matrix, resorbing old or damaged bone during remodelling."
+  },
+  {
+    "id": 10,
+    "question": "In fracture healing, the soft callus is primarily formed of:",
+    "options": {
+      "A": "Woven bone",
+      "B": "Fibrocartilage",
+      "C": "Hyaline cartilage",
+      "D": "Lamellar bone",
+      "E": "Granulation tissue"
+    },
+    "answer": "B",
+    "explanation": "Fibrocartilage forms the soft callus bridging the fracture gap before mineralisation."
+  },
+  {
+    "id": 11,
+    "question": "Which stage of bone healing involves replacement of cartilage callus with woven bone?",
+    "options": {
+      "A": "Inflammatory phase",
+      "B": "Soft callus phase",
+      "C": "Hard callus phase",
+      "D": "Remodelling phase",
+      "E": "Hematoma formation"
+    },
+    "answer": "C",
+    "explanation": "The hard callus phase sees woven bone replace the earlier fibrocartilaginous callus."
+  },
+  {
+    "id": 12,
+    "question": "Which type of muscle contraction occurs when the muscle changes length under constant tension?",
+    "options": {
+      "A": "Isometric",
+      "B": "Isotonic",
+      "C": "Tonic",
+      "D": "Twitch",
+      "E": "Tetanic"
+    },
+    "answer": "B",
+    "explanation": "Isotonic contractions involve muscle shortening or lengthening while generating constant tension."
+  },
+  {
+    "id": 13,
+    "question": "Troponin in skeletal muscle plays what key role?",
+    "options": {
+      "A": "Hydrolyses ATP",
+      "B": "Binds calcium to expose actin binding sites",
+      "C": "Transports calcium into the sarcoplasmic reticulum",
+      "D": "Cross-links thick filaments",
+      "E": "Anchors myosin to the Z-disc"
+    },
+    "answer": "B",
+    "explanation": "Troponin binds calcium, causing tropomyosin to shift and reveal myosin-binding sites on actin."
+  },
+  {
+    "id": 14,
+    "question": "Which muscle fibre organelle stores calcium necessary for contraction?",
+    "options": {
+      "A": "Mitochondrion",
+      "B": "T-tubule",
+      "C": "Sarcoplasmic reticulum",
+      "D": "Sarcolemma",
+      "E": "Myofibril"
+    },
+    "answer": "C",
+    "explanation": "The sarcoplasmic reticulum sequesters and releases calcium ions to regulate muscle contraction."
+  },
+  {
+    "id": 15,
+    "question": "Isometric contractions are most important for:",
+    "options": {
+      "A": "Lifting heavy objects",
+      "B": "Maintaining posture",
+      "C": "Running",
+      "D": "Jumping",
+      "E": "Cycling"
+    },
+    "answer": "B",
+    "explanation": "Isometric contractions generate force without changing muscle length, stabilising posture."
+  },
+  {
+    "id": 16,
+    "question": "Which pain assessment tool uses faces to help non-verbal patients rate their pain?",
+    "options": {
+      "A": "Visual analogue scale",
+      "B": "Numeric rating scale",
+      "C": "Wong-Baker FACES scale",
+      "D": "McGill Pain Questionnaire",
+      "E": "FLACC scale"
+    },
+    "answer": "C",
+    "explanation": "The Wong-Baker FACES scale uses facial expressions for patients to indicate pain intensity."
+  },
+  {
+    "id": 17,
+    "question": "Poorly localised, deep aching pain is most characteristic of:",
+    "options": {
+      "A": "Somatic pain",
+      "B": "Neuropathic pain",
+      "C": "Visceral pain",
+      "D": "Phantom pain",
+      "E": "Psychogenic pain"
+    },
+    "answer": "C",
+    "explanation": "Visceral pain is often diffuse and poorly localised due to the sparse innervation of internal organs."
+  },
+  {
+    "id": 18,
+    "question": "Reinterpreting a stressful event to reduce its emotional impact is called:",
+    "options": {
+      "A": "Problem-focused coping",
+      "B": "Emotion-focused coping",
+      "C": "Cognitive reappraisal",
+      "D": "Avoidance coping",
+      "E": "Confrontation"
+    },
+    "answer": "C",
+    "explanation": "Cognitive reappraisal involves changing one’s interpretation of an event to lessen its emotional impact."
+  },
+  {
+    "id": 19,
+    "question": "In the growth plate, which zone contains proliferating chondrocytes aligned in columns?",
+    "options": {
+      "A": "Resting zone",
+      "B": "Proliferative zone",
+      "C": "Hypertrophic zone",
+      "D": "Calcification zone",
+      "E": "Ossification zone"
+    },
+    "answer": "B",
+    "explanation": "The proliferative zone features chondrocytes dividing and aligning in columns to elongate the bone."
+  },
+  {
+    "id": 20,
+    "question": "Injury to the epiphyseal plate primarily impairs which type of bone growth?",
+    "options": {
+      "A": "Appositional growth",
+      "B": "Interstitial growth",
+      "C": "Circumferential growth",
+      "D": "Perichondral growth",
+      "E": "Bone remodelling"
+    },
+    "answer": "B",
+    "explanation": "Epiphyseal (growth) plate injury disrupts interstitial growth responsible for bone lengthening."
+  },
+  {
+    "id": 21,
+    "question": "On paediatric X-ray, an open growth plate appears as a:",
+    "options": {
+      "A": "Radiopaque line",
+      "B": "Radiolucent line",
+      "C": "Thickened cortex",
+      "D": "Sclerotic band",
+      "E": "Jagged margin"
+    },
+    "answer": "B",
+    "explanation": "The cartilaginous growth plate does not absorb X-rays, appearing as a dark (radiolucent) line."
+  },
+  {
+    "id": 22,
+    "question": "Age-related sarcopenia primarily affects which muscle fibre type?",
+    "options": {
+      "A": "Type I (slow-twitch)",
+      "B": "Type II (fast-twitch)",
+      "C": "Cardiac muscle fibres",
+      "D": "Smooth muscle fibres",
+      "E": "All fibre types equally"
+    },
+    "answer": "B",
+    "explanation": "Type II fast-twitch fibres are preferentially lost in age-related sarcopenia, reducing power."
+  },
+  {
+    "id": 23,
+    "question": "A bone density T-score between –1.0 and –2.5 indicates:",
+    "options": {
+      "A": "Normal bone density",
+      "B": "Osteopenia",
+      "C": "Osteoporosis",
+      "D": "Severe osteoporosis",
+      "E": "Hyperostosis"
+    },
+    "answer": "B",
+    "explanation": "A T-score between –1.0 and –2.5 defines osteopenia (low bone mass but not osteoporosis)."
+  },
+  {
+    "id": 24,
+    "question": "Vertebral compression fractures in osteoporosis occur most often in the:",
+    "options": {
+      "A": "Anterior vertebral body",
+      "B": "Pedicles",
+      "C": "Spinous processes",
+      "D": "Transverse processes",
+      "E": "Lamina"
+    },
+    "answer": "A",
+    "explanation": "The anterior vertebral body collapses under load, causing wedge-shaped compression fractures."
+  },
+  {
+    "id": 25,
+    "question": "Which imaging modality is first-line for suspected long-bone fracture?",
+    "options": {
+      "A": "MRI",
+      "B": "CT",
+      "C": "Plain radiograph (X-ray)",
+      "D": "Ultrasound",
+      "E": "Bone scan"
+    },
+    "answer": "C",
+    "explanation": "Plain radiographs are routinely used to identify and characterise fractures in bones."
+  },
+  {
+    "id": 26,
+    "question": "Under light microscopy, muscle cross-striations are produced by alternating:",
+    "options": {
+      "A": "A and I bands",
+      "B": "Z discs",
+      "C": "H zones",
+      "D": "M lines",
+      "E": "T-tubules"
+    },
+    "answer": "A",
+    "explanation": "The dark A bands and light I bands create the characteristic cross-striated appearance."
+  },
+  {
+    "id": 27,
+    "question": "Which bone cell resides in lacunae and maintains the bone matrix?",
+    "options": {
+      "A": "Osteoblast",
+      "B": "Osteocyte",
+      "C": "Osteoclast",
+      "D": "Chondrocyte",
+      "E": "Fibroblast"
+    },
+    "answer": "B",
+    "explanation": "Osteocytes are mature bone cells located within lacunae that monitor and maintain the matrix."
+  },
+  {
+    "id": 28,
+    "question": "Chondrocytes in the artificial cartilage superficial zone primarily:",
+    "options": {
+      "A": "Divide rapidly",
+      "B": "Resist compressive forces",
+      "C": "Produce synovial fluid",
+      "D": "Maintain smooth articular surface",
+      "E": "Differentiate into osteoblasts"
+    },
+    "answer": "D",
+    "explanation": "Superficial zone chondrocytes maintain the smooth, low-friction articular cartilage surface."
+  },
+  {
+    "id": 29,
+    "question": "Apoptosis of chondrocytes is most prominent in which growth plate zone?",
+    "options": {
+      "A": "Resting zone",
+      "B": "Proliferative zone",
+      "C": "Hypertrophic zone",
+      "D": "Calcification zone",
+      "E": "Ossification zone"
+    },
+    "answer": "C",
+    "explanation": "Chondrocytes in the hypertrophic zone enlarge and undergo apoptosis before ossification."
+  },
+  {
+    "id": 30,
+    "question": "Which type of vessel has the highest elastin content to accommodate pulsatile arterial flow?",
+    "options": {
+      "A": "Elastic arteries",
+      "B": "Muscular arteries",
+      "C": "Arterioles",
+      "D": "Capillaries",
+      "E": "Veins"
+    },
+    "answer": "A",
+    "explanation": "Elastic arteries (e.g., aorta) contain abundant elastin to absorb and dampen pulse waves."
+  },
+  {
+    "id": 31,
+    "question": "Compared to skeletal muscle, vascular smooth muscle is characterised by:",
+    "options": {
+      "A": "Striations and voluntary control",
+      "B": "Multinucleation",
+      "C": "Spindle-shaped cells under involuntary control",
+      "D": "Intercalated discs",
+      "E": "Fast contraction speed"
+    },
+    "answer": "C",
+    "explanation": "Vascular smooth muscle cells are spindle-shaped and contract involuntarily to regulate vessel tone."
+  },
+  {
+    "id": 32,
+    "question": "In fetal circulation, blood bypasses the liver via the:",
+    "options": {
+      "A": "Ductus arteriosus",
+      "B": "Foramen ovale",
+      "C": "Ductus venosus",
+      "D": "Umbilical artery",
+      "E": "Ligamentum teres"
+    },
+    "answer": "C",
+    "explanation": "The ductus venosus shunts oxygenated blood from the umbilical vein directly into the inferior vena cava."
+  },
+  {
+    "id": 33,
+    "question": "Bradycardia is defined as a resting heart rate below:",
+    "options": {
+      "A": "50 bpm",
+      "B": "60 bpm",
+      "C": "70 bpm",
+      "D": "80 bpm",
+      "E": "90 bpm"
+    },
+    "answer": "B",
+    "explanation": "A resting heart rate under 60 beats per minute constitutes bradycardia."
+  },
+  {
+    "id": 34,
+    "question": "On a Lead II ECG, sinus tachycardia is indicated by:",
+    "options": {
+      "A": "Rate <60, P wave absent",
+      "B": "P wave preceding each QRS with rate >100 bpm",
+      "C": "Wide QRS complexes",
+      "D": "Variable P-R intervals",
+      "E": "Absent T waves"
+    },
+    "answer": "B",
+    "explanation": "Sinus tachycardia shows normal P waves before each QRS complex at a rate exceeding 100 bpm."
+  },
+  {
+    "id": 35,
+    "question": "Isovolumetric contraction occurs in which phase of the cardiac cycle?",
+    "options": {
+      "A": "Atrial systole",
+      "B": "Early ventricular systole before ejection",
+      "C": "Late systole during ejection",
+      "D": "Early diastole",
+      "E": "Late diastole"
+    },
+    "answer": "B",
+    "explanation": "Immediately after the QRS, ventricles contract with all valves closed, raising pressure without volume change."
+  },
+  {
+    "id": 36,
+    "question": "According to the Frank–Starling mechanism, stroke volume increases with:",
+    "options": {
+      "A": "Increased afterload",
+      "B": "Decreased contractility",
+      "C": "Increased preload",
+      "D": "Decreased preload",
+      "E": "Increased heart rate only"
+    },
+    "answer": "C",
+    "explanation": "Greater end-diastolic volume (preload) stretches myocardial fibres, increasing contractile force and stroke volume."
+  },
+  {
+    "id": 37,
+    "question": "Orthostatic hypotension on standing results primarily from a drop in:",
+    "options": {
+      "A": "Mean arterial pressure",
+      "B": "Central venous pressure",
+      "C": "Total peripheral resistance",
+      "D": "Heart rate",
+      "E": "Cardiac contractility"
+    },
+    "answer": "A",
+    "explanation": "Sudden pooling in lower limbs lowers venous return and mean arterial pressure, causing symptoms of orthostasis."
+  },
+  {
+    "id": 38,
+    "question": "Tissue fluid formation at capillaries is driven mainly by:",
+    "options": {
+      "A": "Capillary oncotic pressure",
+      "B": "Hydrostatic pressure",
+      "C": "Active transport",
+      "D": "Diffusion",
+      "E": "Filtration using pumps"
+    },
+    "answer": "B",
+    "explanation": "Capillary hydrostatic pressure forces plasma out into the interstitium, forming tissue fluid."
+  },
+  {
+    "id": 39,
+    "question": "Which psychosocial factor is linked to increased cardiovascular risk?",
+    "options": {
+      "A": "High social support",
+      "B": "Job strain",
+      "C": "Regular exercise",
+      "D": "Balanced diet",
+      "E": "Adequate sleep"
+    },
+    "answer": "B",
+    "explanation": "High job strain (high demand, low control) has been associated with elevated cardiovascular risk."
+  },
+  {
+    "id": 40,
+    "question": "Which hormone stimulates erythropoiesis in the bone marrow?",
+    "options": {
+      "A": "Renin",
+      "B": "Thrombopoietin",
+      "C": "Erythropoietin",
+      "D": "Calcitonin",
+      "E": "Antidiuretic hormone"
+    },
+    "answer": "C",
+    "explanation": "Erythropoietin, produced by the kidney, promotes red blood cell production in response to hypoxia."
+  },
+  {
+    "id": 41,
+    "question": "During moderate aerobic exercise, cardiac output increases due to:",
+    "options": {
+      "A": "Increase in stroke volume only",
+      "B": "Increase in heart rate only",
+      "C": "Increase in both heart rate and stroke volume",
+      "D": "Increase in afterload",
+      "E": "Decrease in preload"
+    },
+    "answer": "C",
+    "explanation": "Exercise increases both heart rate and stroke volume, raising overall cardiac output."
+  },
+  {
+    "id": 42,
+    "question": "The first heart sound (S1) corresponds to closure of the:",
+    "options": {
+      "A": "Semilunar valves",
+      "B": "Atrioventricular valves",
+      "C": "Pulmonary valve only",
+      "D": "Aortic valve only",
+      "E": "Coronary ostia"
+    },
+    "answer": "B",
+    "explanation": "S1 marks closure of the mitral and tricuspid valves at the start of ventricular systole."
+  },
+  {
+    "id": 43,
+    "question": "Which vessel type has the greatest total cross-sectional area in the systemic circulation?",
+    "options": {
+      "A": "Aorta",
+      "B": "Arteries",
+      "C": "Arterioles",
+      "D": "Capillaries",
+      "E": "Veins"
+    },
+    "answer": "D",
+    "explanation": "Capillaries collectively have the largest total cross-sectional area, facilitating exchange."
+  },
+  {
+    "id": 44,
+    "question": "Erythroblastic islands in bone marrow are formed around:",
+    "options": {
+      "A": "Osteoblasts",
+      "B": "Adipocytes",
+      "C": "Macrophages",
+      "D": "Endothelial cells",
+      "E": "Megakaryocytes"
+    },
+    "answer": "C",
+    "explanation": "Macrophages act as central 'nurse' cells supporting developing erythroblasts."
+  },
+  {
+    "id": 45,
+    "question": "Which cell type covers over 90% of the alveolar surface area for gas exchange?",
+    "options": {
+      "A": "Type I pneumocyte",
+      "B": "Type II pneumocyte",
+      "C": "Alveolar macrophage",
+      "D": "Club cell",
+      "E": "Goblet cell"
+    },
+    "answer": "A",
+    "explanation": "Type I pneumocytes are thin and extensive, covering most of the alveolar surface for diffusion."
+  },
+  {
+    "id": 46,
+    "question": "Which cells produce pulmonary surfactant in the alveoli?",
+    "options": {
+      "A": "Type I pneumocyte",
+      "B": "Type II pneumocyte",
+      "C": "Clara (club) cell",
+      "D": "Goblet cell",
+      "E": "Alveolar macrophage"
+    },
+    "answer": "B",
+    "explanation": "Type II pneumocytes synthesise and secrete surfactant to reduce alveolar surface tension."
+  },
+  {
+    "id": 47,
+    "question": "Tidal volume refers to the volume of air:",
+    "options": {
+      "A": "Exhaled during a forced breath",
+      "B": "Remaining after maximal exhalation",
+      "C": "Moved in or out during normal quiet breathing",
+      "D": "Inhaled beyond a normal breath",
+      "E": "Total vital capacity"
+    },
+    "answer": "C",
+    "explanation": "Tidal volume is the amount of air inhaled or exhaled in a single normal breath."
+  },
+  {
+    "id": 48,
+    "question": "During forced expiration, which muscles are most active?",
+    "options": {
+      "A": "Diaphragm and scalenes",
+      "B": "External intercostals",
+      "C": "Internal intercostals and abdominal muscles",
+      "D": "Sternocleidomastoid",
+      "E": "Pectoralis major"
+    },
+    "answer": "C",
+    "explanation": "Internal intercostals and abdominal muscles contract to increase intra-abdominal and intrathoracic pressure."
+  },
+  {
+    "id": 49,
+    "question": "Which structure prevents aspiration of food into the trachea during swallowing?",
+    "options": {
+      "A": "Uvula",
+      "B": "Epiglottis",
+      "C": "Soft palate",
+      "D": "False vocal cords",
+      "E": "Glottis"
+    },
+    "answer": "B",
+    "explanation": "The epiglottis folds over the laryngeal inlet, directing food away from the airway."
+  },
+  {
+    "id": 50,
+    "question": "A patient with severe COPD is most likely to show which arterial blood gas pattern?",
+    "options": {
+      "A": "Alkalaemia, hypocapnia, hypoxaemia",
+      "B": "Acidaemia, hypercapnia, hypoxaemia",
+      "C": "Acidaemia, hypocapnia, hyperoxaemia",
+      "D": "Normal pH, normal CO₂, normal O₂",
+      "E": "Alkalaemia, hypercapnia, hyperoxaemia"
+    },
+    "answer": "B",
+    "explanation": "CO₂ retention in COPD leads to respiratory acidosis (acidaemia) and often hypoxaemia."
+  },
+  {
+    "id": 51,
+    "question": "Spirometry differentiates obstructive from restrictive lung disease by measuring the:",
+    "options": {
+      "A": "FEV₁/FVC ratio",
+      "B": "Residual volume",
+      "C": "Total lung capacity",
+      "D": "Diffusing capacity (DLCO)",
+      "E": "Peak expiratory flow"
+    },
+    "answer": "A",
+    "explanation": "A reduced FEV₁/FVC ratio is characteristic of obstructive patterns on spirometry."
+  },
+  {
+    "id": 52,
+    "question": "Hyperventilation causes arterial pCO₂ to:",
+    "options": {
+      "A": "Increase",
+      "B": "Decrease",
+      "C": "Remain unchanged",
+      "D": "Fluctuate rapidly",
+      "E": "Convert to HCO₃⁻"
+    },
+    "answer": "B",
+    "explanation": "Excess ventilation removes CO₂ faster than it is produced, lowering arterial pCO₂."
+  },
+  {
+    "id": 53,
+    "question": "The trachea is reinforced by which cartilage shape to maintain airway patency?",
+    "options": {
+      "A": "C-shaped hyaline rings",
+      "B": "Plate-shaped fibrocartilage",
+      "C": "Elastic cartilage plates",
+      "D": "False vocal cord rings",
+      "E": "Mixed cartilage rings"
+    },
+    "answer": "A",
+    "explanation": "C-shaped hyaline cartilage rings prevent airway collapse while allowing the oesophagus to expand posteriorly."
+  },
+  {
+    "id": 54,
+    "question": "Which chemoreceptors in the medulla primarily regulate ventilation in response to CO₂ changes?",
+    "options": {
+      "A": "Peripheral chemoreceptors",
+      "B": "Central chemoreceptors",
+      "C": "Baroreceptors",
+      "D": "Muscle spindles",
+      "E": "Stretch receptors"
+    },
+    "answer": "B",
+    "explanation": "Central chemoreceptors in the medulla respond to pH changes from CO₂ diffusion into cerebrospinal fluid."
+  },
+  {
+    "id": 55,
+    "question": "Meissner’s plexus is located in the:",
+    "options": {
+      "A": "Mucosa",
+      "B": "Submucosa",
+      "C": "Muscularis externa",
+      "D": "Serosa",
+      "E": "Adventitia"
+    },
+    "answer": "B",
+    "explanation": "Meissner’s (submucosal) plexus regulates secretion and blood flow in the GI tract."
+  },
+  {
+    "id": 56,
+    "question": "Which gastric cell type secretes hydrochloric acid?",
+    "options": {
+      "A": "Chief cell",
+      "B": "Parietal cell",
+      "C": "Mucous cell",
+      "D": "G cell",
+      "E": "D cell"
+    },
+    "answer": "B",
+    "explanation": "Parietal (oxyntic) cells secrete HCl and intrinsic factor in the stomach."
+  },
+  {
+    "id": 57,
+    "question": "Trypsin, secreted by the pancreas, acts on:",
+    "options": {
+      "A": "Carbohydrates",
+      "B": "Proteins",
+      "C": "Fats",
+      "D": "Nucleic acids",
+      "E": "Mucins"
+    },
+    "answer": "B",
+    "explanation": "Trypsin cleaves peptide bonds, breaking proteins into smaller peptides in the small intestine."
+  },
+  {
+    "id": 58,
+    "question": "Bile salts facilitate fat digestion by:",
+    "options": {
+      "A": "Hydrolysing triglycerides",
+      "B": "Emulsification of lipids",
+      "C": "Inhibiting lipase",
+      "D": "Activating pepsin",
+      "E": "Neutralising acid"
+    },
+    "answer": "B",
+    "explanation": "Bile salts emulsify large lipid droplets into micelles, increasing surface area for lipase action."
+  },
+  {
+    "id": 59,
+    "question": "Glucose is co-transported across the enterocyte brush border by:",
+    "options": {
+      "A": "GLUT2",
+      "B": "SGLT1",
+      "C": "CFTR",
+      "D": "Na⁺/K⁺ ATPase",
+      "E": "GLUT5"
+    },
+    "answer": "B",
+    "explanation": "SGLT1 uses the sodium gradient to transport glucose and galactose into enterocytes."
+  },
+  {
+    "id": 60,
+    "question": "The falciform ligament connects the liver to the:",
+    "options": {
+      "A": "Stomach",
+      "B": "Anterior abdominal wall",
+      "C": "Diaphragm",
+      "D": "Spleen",
+      "E": "Pancreas"
+    },
+    "answer": "B",
+    "explanation": "The falciform ligament is a peritoneal fold anchoring the liver to the anterior abdominal wall."
+  },
+  {
+    "id": 61,
+    "question": "Mixing waves in the stomach serve to:",
+    "options": {
+      "A": "Propel chyme distally",
+      "B": "Mix chyme with gastric secretions",
+      "C": "Regulate bile release",
+      "D": "Initiate the swallowing reflex",
+      "E": "Absorb nutrients"
+    },
+    "answer": "B",
+    "explanation": "Gastric mixing waves churn food to blend it with acid and enzymes for digestion."
+  },
+  {
+    "id": 62,
+    "question": "Relaxation of the lower oesophageal sphincter on swallowing is mediated by the:",
+    "options": {
+      "A": "Gastrocolic reflex",
+      "B": "Enterogastric reflex",
+      "C": "Vagovagal reflex",
+      "D": "Gastroileal reflex",
+      "E": "Defecation reflex"
+    },
+    "answer": "C",
+    "explanation": "The vagovagal reflex coordinates swallowing by vagal input to relax the sphincter."
+  },
+  {
+    "id": 63,
+    "question": "Which histological feature of the small intestine significantly increases surface area?",
+    "options": {
+      "A": "Rugae",
+      "B": "Villi and microvilli",
+      "C": "Haustra",
+      "D": "Taeniae coli",
+      "E": "Appendices epiploicae"
+    },
+    "answer": "B",
+    "explanation": "Villi and microvilli greatly expand the mucosal surface for nutrient absorption."
+  },
+  {
+    "id": 64,
+    "question": "Paneth cells in the intestinal crypts secrete:",
+    "options": {
+      "A": "Mucus",
+      "B": "Digestive enzymes",
+      "C": "Antimicrobial peptides (defensins)",
+      "D": "Hormones",
+      "E": "Bile salts"
+    },
+    "answer": "C",
+    "explanation": "Paneth cells release defensins and lysozyme to regulate gut microbiota."
+  },
+  {
+    "id": 65,
+    "question": "Urine flows from the renal pelvis into the bladder via the:",
+    "options": {
+      "A": "Urethra",
+      "B": "Ureter",
+      "C": "Collecting duct",
+      "D": "Minor calyx",
+      "E": "Major calyx"
+    },
+    "answer": "B",
+    "explanation": "The ureter transports urine from the kidney’s pelvis to the urinary bladder."
+  },
+  {
+    "id": 66,
+    "question": "Approximately 65% of filtered sodium is reabsorbed in the:",
+    "options": {
+      "A": "Proximal convoluted tubule",
+      "B": "Loop of Henle",
+      "C": "Distal convoluted tubule",
+      "D": "Collecting duct",
+      "E": "Glomerulus"
+    },
+    "answer": "A",
+    "explanation": "The proximal convoluted tubule reabsorbs the majority of filtered sodium and water."
+  },
+  {
+    "id": 67,
+    "question": "Which nephron segment is impermeable to water but actively reabsorbs solutes?",
+    "options": {
+      "A": "Proximal convoluted tubule",
+      "B": "Descending limb of loop of Henle",
+      "C": "Ascending limb of loop of Henle",
+      "D": "Distal convoluted tubule",
+      "E": "Collecting duct"
+    },
+    "answer": "C",
+    "explanation": "The thick ascending limb actively transports ions but is impermeable to water, diluting tubular fluid."
+  },
+  {
+    "id": 68,
+    "question": "Antidiuretic hormone (ADH) increases water reabsorption by inserting:",
+    "options": {
+      "A": "Sodium channels",
+      "B": "Aquaporin-2 channels",
+      "C": "Potassium channels",
+      "D": "Glucose transporters",
+      "E": "Cl⁻ channels"
+    },
+    "answer": "B",
+    "explanation": "ADH causes insertion of aquaporin-2 water channels in the collecting duct epithelium."
+  },
+  {
+    "id": 69,
+    "question": "Proteinuria on dipstick testing indicates:",
+    "options": {
+      "A": "Tubular necrosis",
+      "B": "Glomerular basement membrane damage",
+      "C": "Ureteric obstruction",
+      "D": "Normal urine",
+      "E": "Urinary tract infection"
+    },
+    "answer": "B",
+    "explanation": "Protein in the urine suggests increased glomerular permeability from basement membrane injury."
+  },
+  {
+    "id": 70,
+    "question": "Collecting ducts drain urine into the:",
+    "options": {
+      "A": "Proximal convoluted tubule",
+      "B": "Minor calyx",
+      "C": "Major calyx",
+      "D": "Renal pelvis",
+      "E": "Ureter"
+    },
+    "answer": "B",
+    "explanation": "Papillary ducts empty into the minor calyces before urine passes to the major calyx and pelvis."
+  },
+  {
+    "id": 71,
+    "question": "Which nerves mediate parasympathetic excitation of the detrusor muscle?",
+    "options": {
+      "A": "Pudendal nerves",
+      "B": "Hypogastric nerves",
+      "C": "Pelvic splanchnic nerves",
+      "D": "Phrenic nerves",
+      "E": "Vagus nerve"
+    },
+    "answer": "C",
+    "explanation": "Pelvic splanchnic (S2–S4) parasympathetics stimulate detrusor contraction for micturition."
+  },
+  {
+    "id": 72,
+    "question": "Stress incontinence is characterised by leakage during:",
+    "options": {
+      "A": "Strong urge to void",
+      "B": "Increased intra-abdominal pressure",
+      "C": "Overflow from distended bladder",
+      "D": "Neuropathic loss of sensation",
+      "E": "Voluntary retention"
+    },
+    "answer": "B",
+    "explanation": "Stress incontinence occurs when intra-abdominal pressure (e.g., coughing) exceeds urethral closure pressure."
+  },
+  {
+    "id": 73,
+    "question": "The gold standard for measuring glomerular filtration rate is:",
+    "options": {
+      "A": "Serum creatinine",
+      "B": "Urea clearance",
+      "C": "Inulin clearance",
+      "D": "eGFR formula",
+      "E": "BUN/creatinine ratio"
+    },
+    "answer": "C",
+    "explanation": "Inulin clearance accurately measures GFR because inulin is freely filtered and neither secreted nor reabsorbed."
+  },
+  {
+    "id": 74,
+    "question": "Nitrituria on dipstick suggests infection by:",
+    "options": {
+      "A": "Staphylococci",
+      "B": "Streptococci",
+      "C": "Escherichia coli",
+      "D": "Pseudomonas aeruginosa",
+      "E": "Proteus mirabilis"
+    },
+    "answer": "C",
+    "explanation": "Many gram-negative bacteria (e.g., E. coli) convert nitrate to nitrite, producing a positive nitrite test."
+  },
+  {
+    "id": 75,
+    "question": "Which hypothalamic hormone stimulates ACTH release from the anterior pituitary?",
+    "options": {
+      "A": "CRH (Corticotropin-releasing hormone)",
+      "B": "TRH (Thyrotropin-releasing hormone)",
+      "C": "GnRH (Gonadotropin-releasing hormone)",
+      "D": "GHRH (Growth hormone-releasing hormone)",
+      "E": "Somatostatin"
+    },
+    "answer": "A",
+    "explanation": "CRH from the hypothalamus promotes ACTH secretion, which in turn stimulates cortisol release."
+  },
+  {
+    "id": 76,
+    "question": "ACTH is secreted by which anterior pituitary cell type?",
+    "options": {
+      "A": "Somatotroph",
+      "B": "Lactotroph",
+      "C": "Corticotroph",
+      "D": "Thyrotroph",
+      "E": "Gonadotroph"
+    },
+    "answer": "C",
+    "explanation": "Corticotrophs in the anterior pituitary synthesize and release ACTH."
+  },
+  {
+    "id": 77,
+    "question": "Negative feedback by cortisol primarily acts on the:",
+    "options": {
+      "A": "Hypothalamus",
+      "B": "Adrenal cortex",
+      "C": "Posterior pituitary",
+      "D": "Thyroid gland",
+      "E": "Pancreas"
+    },
+    "answer": "A",
+    "explanation": "Elevated cortisol inhibits CRH release from the hypothalamus, reducing ACTH secretion."
+  },
+  {
+    "id": 78,
+    "question": "Which zone of the adrenal cortex produces cortisol?",
+    "options": {
+      "A": "Zona glomerulosa",
+      "B": "Zona fasciculata",
+      "C": "Zona reticularis",
+      "D": "Medulla",
+      "E": "Capsule"
+    },
+    "answer": "B",
+    "explanation": "The zona fasciculata synthesises glucocorticoids, primarily cortisol."
+  },
+  {
+    "id": 79,
+    "question": "The rate-limiting step in steroid hormone synthesis is catalysed by:",
+    "options": {
+      "A": "21-hydroxylase",
+      "B": "P450scc (side-chain cleavage enzyme)",
+      "C": "11β-hydroxylase",
+      "D": "17α-hydroxylase",
+      "E": "Aromatase"
+    },
+    "answer": "B",
+    "explanation": "P450scc (cholesterol desmolase) converts cholesterol to pregnenolone, initiating steroidogenesis."
+  },
+  {
+    "id": 80,
+    "question": "Peptide hormones typically exert effects by binding to:",
+    "options": {
+      "A": "Intracellular receptors",
+      "B": "Nuclear receptors",
+      "C": "Membrane-bound receptors",
+      "D": "Mitochondrial receptors",
+      "E": "Cytosolic receptors"
+    },
+    "answer": "C",
+    "explanation": "Peptide hormones bind cell surface receptors, activating second messenger pathways."
+  },
+  {
+    "id": 81,
+    "question": "Activation of phospholipase C generates which second messengers?",
+    "options": {
+      "A": "cAMP",
+      "B": "IP₃ and DAG",
+      "C": "cGMP",
+      "D": "Calcium only",
+      "E": "ATP"
+    },
+    "answer": "B",
+    "explanation": "Phospholipase C cleaves PIP₂ into inositol trisphosphate (IP₃) and diacylglycerol (DAG)."
+  },
+  {
+    "id": 82,
+    "question": "Thyroid follicular cells uptake iodide via the:",
+    "options": {
+      "A": "Na⁺/K⁺ ATPase",
+      "B": "Na⁺/I⁻ symporter",
+      "C": "Pendrin transporter",
+      "D": "Thyroid peroxidase",
+      "E": "Deiodinase"
+    },
+    "answer": "B",
+    "explanation": "The Na⁺/I⁻ symporter transports iodide into the follicular cell against its concentration gradient."
+  },
+  {
+    "id": 83,
+    "question": "Hyperthyroidism commonly causes:",
+    "options": {
+      "A": "Bradycardia and weight gain",
+      "B": "Tachycardia and weight loss",
+      "C": "Bradycardia and weight loss",
+      "D": "Tachycardia and weight gain",
+      "E": "No change in heart rate or weight"
+    },
+    "answer": "B",
+    "explanation": "Excess thyroid hormone increases metabolic rate and sympathetic activity, causing weight loss and tachycardia."
+  },
+  {
+    "id": 84,
+    "question": "Calcitonin is secreted by which thyroid cell type?",
+    "options": {
+      "A": "Follicular cell",
+      "B": "Parafollicular (C) cell",
+      "C": "Endothelial cell",
+      "D": "Chief cell",
+      "E": "Follicular dendritic cell"
+    },
+    "answer": "B",
+    "explanation": "Parafollicular (C) cells produce calcitonin, which lowers blood calcium by inhibiting osteoclasts."
+  },
+  {
+    "id": 85,
+    "question": "Growth hormone deficiency in childhood leads to:",
+    "options": {
+      "A": "Gigantism",
+      "B": "Dwarfism",
+      "C": "Acromegaly",
+      "D": "Cushing’s syndrome",
+      "E": "Turner syndrome"
+    },
+    "answer": "B",
+    "explanation": "Insufficient GH during growth years causes pituitary dwarfism, characterised by short stature."
+  },
+  {
+    "id": 86,
+    "question": "Which parameter is plotted on a growth chart to monitor childhood development?",
+    "options": {
+      "A": "Blood pressure",
+      "B": "Serum glucose",
+      "C": "Height (or length)",
+      "D": "Bone density",
+      "E": "Muscle mass"
+    },
+    "answer": "C",
+    "explanation": "Height (or length in infants) is plotted against age to assess growth percentiles."
+  },
+  {
+    "id": 87,
+    "question": "Which hormone lowers blood glucose by promoting cellular uptake?",
+    "options": {
+      "A": "Glucagon",
+      "B": "Insulin",
+      "C": "Cortisol",
+      "D": "Epinephrine",
+      "E": "Growth hormone"
+    },
+    "answer": "B",
+    "explanation": "Insulin increases GLUT4 translocation in muscle and adipose, facilitating glucose uptake."
+  },
+  {
+    "id": 88,
+    "question": "Type 1 diabetes mellitus results from autoimmune destruction of:",
+    "options": {
+      "A": "Alpha cells",
+      "B": "Beta cells",
+      "C": "Delta cells",
+      "D": "PP cells",
+      "E": "Acinar cells"
+    },
+    "answer": "B",
+    "explanation": "Autoimmune attack on pancreatic beta cells leads to absolute insulin deficiency in type 1 DM."
+  },
+  {
+    "id": 89,
+    "question": "The WHO diagnostic 2-hour plasma glucose threshold on OGTT for diabetes is ≥:",
+    "options": {
+      "A": "7.0 mmol/L",
+      "B": "11.1 mmol/L",
+      "C": "5.6 mmol/L",
+      "D": "10.0 mmol/L",
+      "E": "12.2 mmol/L"
+    },
+    "answer": "B",
+    "explanation": "A 2-hour plasma glucose ≥11.1 mmol/L after a 75 g glucose load confirms diabetes."
+  },
+  {
+    "id": 90,
+    "question": "Chronic excess aldosterone secretion typically causes:",
+    "options": {
+      "A": "Hyperkalaemia",
+      "B": "Hypokalaemia",
+      "C": "Hypotension",
+      "D": "Hyponatraemia",
+      "E": "Hypovolaemia"
+    },
+    "answer": "B",
+    "explanation": "Aldosterone increases renal K⁺ excretion, often leading to hypokalaemia and hypertension."
+  },
+  {
+    "id": 91,
+    "question": "Which influence shapes varying ideals of body image across cultures?",
+    "options": {
+      "A": "Genetic predisposition",
+      "B": "Media representation",
+      "C": "Vitamin intake",
+      "D": "Ambient temperature",
+      "E": "Muscle fibre type"
+    },
+    "answer": "B",
+    "explanation": "Cultural norms and media strongly influence perceptions of ideal and normal body shapes."
+  },
+  {
+    "id": 92,
+    "question": "In clinical consultations, ICE stands for patient’s:",
+    "options": {
+      "A": "Instructions, concerns, empathy",
+      "B": "Ideas, concerns, expectations",
+      "C": "Information, consent, examination",
+      "D": "Intentions, challenges, evaluation",
+      "E": "Identity, culture, environment"
+    },
+    "answer": "B",
+    "explanation": "ICE helps explore a patient’s ideas, concerns and expectations to guide a patient-centred consultation."
+  },
+  {
+    "id": 93,
+    "question": "Valid consent requires that the patient has:",
+    "options": {
+      "A": "Capacity to decide",
+      "B": "A written contract",
+      "C": "No alternatives",
+      "D": "Clinician’s recommendation",
+      "E": "Insurance coverage"
+    },
+    "answer": "A",
+    "explanation": "Capacity (the ability to understand, weigh, and communicate decisions) is essential for consent."
+  },
+  {
+    "id": 94,
+    "question": "Which study design compares exposure between cases with a condition and controls without?",
+    "options": {
+      "A": "Randomised controlled trial",
+      "B": "Cohort study",
+      "C": "Case–control study",
+      "D": "Cross-sectional study",
+      "E": "Ecological study"
+    },
+    "answer": "C",
+    "explanation": "Case–control studies start with outcomes and look back to compare exposures between cases and controls."
+  },
+  {
+    "id": 95,
+    "question": "In observational studies, the measure of association most often used is the:",
+    "options": {
+      "A": "Risk ratio",
+      "B": "Odds ratio",
+      "C": "Incidence rate",
+      "D": "Prevalence",
+      "E": "Hazard ratio"
+    },
+    "answer": "B",
+    "explanation": "Case–control studies commonly use odds ratios to estimate the strength of association between exposure and outcome."
+  },
+  {
+    "id": 96,
+    "question": "Which Sustainable Development Goal focuses on ensuring healthy lives and promoting well-being?",
+    "options": {
+      "A": "SDG 1",
+      "B": "SDG 2",
+      "C": "SDG 3",
+      "D": "SDG 4",
+      "E": "SDG 5"
+    },
+    "answer": "C",
+    "explanation": "SDG 3 is dedicated to good health and well-being for all ages."
+  },
+  {
+    "id": 97,
+    "question": "The absolute risk difference between two groups is:",
+    "options": {
+      "A": "Relative risk",
+      "B": "Odds ratio",
+      "C": "Risk in exposed minus risk in unexposed",
+      "D": "Attributable risk in population",
+      "E": "Hazard ratio"
+    },
+    "answer": "C",
+    "explanation": "Absolute risk difference = incidence in the exposed group minus incidence in the unexposed group."
+  },
+  {
+    "id": 98,
+    "question": "When recommending a mobile health app, which criterion is most essential?",
+    "options": {
+      "A": "Number of downloads",
+      "B": "User interface design",
+      "C": "Data security and privacy",
+      "D": "Cost to patient",
+      "E": "Developer location"
+    },
+    "answer": "C",
+    "explanation": "Protecting patient data and ensuring privacy are critical when selecting health-related apps."
+  },
+  {
+    "id": 99,
+    "question": "The document 'Good Medical Practice' is published by the:",
+    "options": {
+      "A": "British Medical Association",
+      "B": "General Medical Council",
+      "C": "Nursing and Midwifery Council",
+      "D": "World Health Organization",
+      "E": "National Institute for Health and Care Excellence"
+    },
+    "answer": "B",
+    "explanation": "The General Medical Council publishes 'Good Medical Practice' outlining professional standards for doctors."
+  },
+  {
+    "id": 100,
+    "question": "In motivational interviewing, which question type best elicits detailed patient motivations?",
+    "options": {
+      "A": "Closed-ended question",
+      "B": "Leading question",
+      "C": "Open-ended question",
+      "D": "Yes/no question",
+      "E": "Rhetorical question"
+    },
+    "answer": "C",
+    "explanation": "Open-ended questions encourage patients to elaborate on their thoughts and motivations."
+  }
+]
