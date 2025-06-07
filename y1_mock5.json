@@ -1,1302 +1,1315 @@
 [
-  {
-    "id": 1,
-    "question": "Which statement best describes the physiological antagonism between insulin and glucagon?",
-    "options": {
-      "A": "An accurate description of physiological antagonism between insulin and glucagon.",
-      "B": "A statement partially related to physiological antagonism between insulin and glucagon.",
-      "C": "An incorrect assertion about physiological antagonism between insulin and glucagon.",
-      "D": "A distractor not describing physiological antagonism between insulin and glucagon.",
-      "E": "Irrelevant content not pertaining to physiological antagonism between insulin and glucagon."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the physiological antagonism between insulin and glucagon, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 2,
-    "question": "Which statement best describes the differences between type 1 and type 2 diabetes mellitus in insulin production and effects?",
-    "options": {
-      "A": "An accurate description of differences between type 1 and type 2 diabetes mellitus in insulin production and effects.",
-      "B": "A statement partially related to differences between type 1 and type 2 diabetes mellitus in insulin production and effects.",
-      "C": "An incorrect assertion about differences between type 1 and type 2 diabetes mellitus in insulin production and effects.",
-      "D": "A distractor not describing differences between type 1 and type 2 diabetes mellitus in insulin production and effects.",
-      "E": "Irrelevant content not pertaining to differences between type 1 and type 2 diabetes mellitus in insulin production and effects."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the differences between type 1 and type 2 diabetes mellitus in insulin production and effects, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 3,
-    "question": "Which statement best describes the WHO diagnostic criteria for diabetes mellitus including OGTT thresholds?",
-    "options": {
-      "A": "An accurate description of WHO diagnostic criteria for diabetes mellitus including OGTT thresholds.",
-      "B": "A statement partially related to WHO diagnostic criteria for diabetes mellitus including OGTT thresholds.",
-      "C": "An incorrect assertion about WHO diagnostic criteria for diabetes mellitus including OGTT thresholds.",
-      "D": "A distractor not describing WHO diagnostic criteria for diabetes mellitus including OGTT thresholds.",
-      "E": "Irrelevant content not pertaining to WHO diagnostic criteria for diabetes mellitus including OGTT thresholds."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the WHO diagnostic criteria for diabetes mellitus including OGTT thresholds, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 4,
-    "question": "Which statement best describes the risk factors for developing type 2 diabetes?",
-    "options": {
-      "A": "An accurate description of risk factors for developing type 2 diabetes.",
-      "B": "A statement partially related to risk factors for developing type 2 diabetes.",
-      "C": "An incorrect assertion about risk factors for developing type 2 diabetes.",
-      "D": "A distractor not describing risk factors for developing type 2 diabetes.",
-      "E": "Irrelevant content not pertaining to risk factors for developing type 2 diabetes."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the risk factors for developing type 2 diabetes, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 5,
-    "question": "Which statement best describes the presenting features of type 2 diabetes mellitus?",
-    "options": {
-      "A": "An accurate description of presenting features of type 2 diabetes mellitus.",
-      "B": "A statement partially related to presenting features of type 2 diabetes mellitus.",
-      "C": "An incorrect assertion about presenting features of type 2 diabetes mellitus.",
-      "D": "A distractor not describing presenting features of type 2 diabetes mellitus.",
-      "E": "Irrelevant content not pertaining to presenting features of type 2 diabetes mellitus."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the presenting features of type 2 diabetes mellitus, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 6,
-    "question": "Which statement best describes the spectrum from obesity to type 2 diabetes and metabolic syndrome?",
-    "options": {
-      "A": "An accurate description of spectrum from obesity to type 2 diabetes and metabolic syndrome.",
-      "B": "A statement partially related to spectrum from obesity to type 2 diabetes and metabolic syndrome.",
-      "C": "An incorrect assertion about spectrum from obesity to type 2 diabetes and metabolic syndrome.",
-      "D": "A distractor not describing spectrum from obesity to type 2 diabetes and metabolic syndrome.",
-      "E": "Irrelevant content not pertaining to spectrum from obesity to type 2 diabetes and metabolic syndrome."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the spectrum from obesity to type 2 diabetes and metabolic syndrome, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 7,
-    "question": "Which statement best describes the effect of acute insulin deficiency on blood pH and ketone concentration?",
-    "options": {
-      "A": "An accurate description of effect of acute insulin deficiency on blood pH and ketone concentration.",
-      "B": "A statement partially related to effect of acute insulin deficiency on blood pH and ketone concentration.",
-      "C": "An incorrect assertion about effect of acute insulin deficiency on blood pH and ketone concentration.",
-      "D": "A distractor not describing effect of acute insulin deficiency on blood pH and ketone concentration.",
-      "E": "Irrelevant content not pertaining to effect of acute insulin deficiency on blood pH and ketone concentration."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the effect of acute insulin deficiency on blood pH and ketone concentration, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 8,
-    "question": "Which statement best describes the effect of acute hyperglycaemia on body fluid balance?",
-    "options": {
-      "A": "An accurate description of effect of acute hyperglycaemia on body fluid balance.",
-      "B": "A statement partially related to effect of acute hyperglycaemia on body fluid balance.",
-      "C": "An incorrect assertion about effect of acute hyperglycaemia on body fluid balance.",
-      "D": "A distractor not describing effect of acute hyperglycaemia on body fluid balance.",
-      "E": "Irrelevant content not pertaining to effect of acute hyperglycaemia on body fluid balance."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the effect of acute hyperglycaemia on body fluid balance, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 9,
-    "question": "Which statement best describes the functional anatomy of the adrenal glands?",
-    "options": {
-      "A": "An accurate description of functional anatomy of the adrenal glands.",
-      "B": "A statement partially related to functional anatomy of the adrenal glands.",
-      "C": "An incorrect assertion about functional anatomy of the adrenal glands.",
-      "D": "A distractor not describing functional anatomy of the adrenal glands.",
-      "E": "Irrelevant content not pertaining to functional anatomy of the adrenal glands."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the functional anatomy of the adrenal glands, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 10,
-    "question": "Which statement best describes the regulation and actions of cortisol?",
-    "options": {
-      "A": "An accurate description of regulation and actions of cortisol.",
-      "B": "A statement partially related to regulation and actions of cortisol.",
-      "C": "An incorrect assertion about regulation and actions of cortisol.",
-      "D": "A distractor not describing regulation and actions of cortisol.",
-      "E": "Irrelevant content not pertaining to regulation and actions of cortisol."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the regulation and actions of cortisol, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 11,
-    "question": "Which statement best describes the additional ILO objective 11?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 11.",
-      "B": "A statement partially related to additional ILO objective 11.",
-      "C": "An incorrect assertion about additional ILO objective 11.",
-      "D": "A distractor not describing additional ILO objective 11.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 11."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 11, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 12,
-    "question": "Which statement best describes the additional ILO objective 12?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 12.",
-      "B": "A statement partially related to additional ILO objective 12.",
-      "C": "An incorrect assertion about additional ILO objective 12.",
-      "D": "A distractor not describing additional ILO objective 12.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 12."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 12, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 13,
-    "question": "Which statement best describes the additional ILO objective 13?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 13.",
-      "B": "A statement partially related to additional ILO objective 13.",
-      "C": "An incorrect assertion about additional ILO objective 13.",
-      "D": "A distractor not describing additional ILO objective 13.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 13."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 13, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 14,
-    "question": "Which statement best describes the additional ILO objective 14?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 14.",
-      "B": "A statement partially related to additional ILO objective 14.",
-      "C": "An incorrect assertion about additional ILO objective 14.",
-      "D": "A distractor not describing additional ILO objective 14.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 14."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 14, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 15,
-    "question": "Which statement best describes the additional ILO objective 15?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 15.",
-      "B": "A statement partially related to additional ILO objective 15.",
-      "C": "An incorrect assertion about additional ILO objective 15.",
-      "D": "A distractor not describing additional ILO objective 15.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 15."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 15, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 16,
-    "question": "Which statement best describes the additional ILO objective 16?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 16.",
-      "B": "A statement partially related to additional ILO objective 16.",
-      "C": "An incorrect assertion about additional ILO objective 16.",
-      "D": "A distractor not describing additional ILO objective 16.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 16."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 16, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 17,
-    "question": "Which statement best describes the additional ILO objective 17?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 17.",
-      "B": "A statement partially related to additional ILO objective 17.",
-      "C": "An incorrect assertion about additional ILO objective 17.",
-      "D": "A distractor not describing additional ILO objective 17.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 17."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 17, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 18,
-    "question": "Which statement best describes the additional ILO objective 18?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 18.",
-      "B": "A statement partially related to additional ILO objective 18.",
-      "C": "An incorrect assertion about additional ILO objective 18.",
-      "D": "A distractor not describing additional ILO objective 18.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 18."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 18, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 19,
-    "question": "Which statement best describes the additional ILO objective 19?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 19.",
-      "B": "A statement partially related to additional ILO objective 19.",
-      "C": "An incorrect assertion about additional ILO objective 19.",
-      "D": "A distractor not describing additional ILO objective 19.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 19."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 19, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 20,
-    "question": "Which statement best describes the additional ILO objective 20?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 20.",
-      "B": "A statement partially related to additional ILO objective 20.",
-      "C": "An incorrect assertion about additional ILO objective 20.",
-      "D": "A distractor not describing additional ILO objective 20.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 20."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 20, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 21,
-    "question": "Which statement best describes the additional ILO objective 21?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 21.",
-      "B": "A statement partially related to additional ILO objective 21.",
-      "C": "An incorrect assertion about additional ILO objective 21.",
-      "D": "A distractor not describing additional ILO objective 21.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 21."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 21, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 22,
-    "question": "Which statement best describes the additional ILO objective 22?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 22.",
-      "B": "A statement partially related to additional ILO objective 22.",
-      "C": "An incorrect assertion about additional ILO objective 22.",
-      "D": "A distractor not describing additional ILO objective 22.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 22."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 22, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 23,
-    "question": "Which statement best describes the additional ILO objective 23?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 23.",
-      "B": "A statement partially related to additional ILO objective 23.",
-      "C": "An incorrect assertion about additional ILO objective 23.",
-      "D": "A distractor not describing additional ILO objective 23.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 23."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 23, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 24,
-    "question": "Which statement best describes the additional ILO objective 24?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 24.",
-      "B": "A statement partially related to additional ILO objective 24.",
-      "C": "An incorrect assertion about additional ILO objective 24.",
-      "D": "A distractor not describing additional ILO objective 24.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 24."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 24, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 25,
-    "question": "Which statement best describes the additional ILO objective 25?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 25.",
-      "B": "A statement partially related to additional ILO objective 25.",
-      "C": "An incorrect assertion about additional ILO objective 25.",
-      "D": "A distractor not describing additional ILO objective 25.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 25."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 25, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 26,
-    "question": "Which statement best describes the additional ILO objective 26?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 26.",
-      "B": "A statement partially related to additional ILO objective 26.",
-      "C": "An incorrect assertion about additional ILO objective 26.",
-      "D": "A distractor not describing additional ILO objective 26.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 26."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 26, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 27,
-    "question": "Which statement best describes the additional ILO objective 27?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 27.",
-      "B": "A statement partially related to additional ILO objective 27.",
-      "C": "An incorrect assertion about additional ILO objective 27.",
-      "D": "A distractor not describing additional ILO objective 27.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 27."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 27, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 28,
-    "question": "Which statement best describes the additional ILO objective 28?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 28.",
-      "B": "A statement partially related to additional ILO objective 28.",
-      "C": "An incorrect assertion about additional ILO objective 28.",
-      "D": "A distractor not describing additional ILO objective 28.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 28."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 28, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 29,
-    "question": "Which statement best describes the additional ILO objective 29?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 29.",
-      "B": "A statement partially related to additional ILO objective 29.",
-      "C": "An incorrect assertion about additional ILO objective 29.",
-      "D": "A distractor not describing additional ILO objective 29.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 29."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 29, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 30,
-    "question": "Which statement best describes the additional ILO objective 30?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 30.",
-      "B": "A statement partially related to additional ILO objective 30.",
-      "C": "An incorrect assertion about additional ILO objective 30.",
-      "D": "A distractor not describing additional ILO objective 30.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 30."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 30, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 31,
-    "question": "Which statement best describes the additional ILO objective 31?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 31.",
-      "B": "A statement partially related to additional ILO objective 31.",
-      "C": "An incorrect assertion about additional ILO objective 31.",
-      "D": "A distractor not describing additional ILO objective 31.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 31."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 31, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 32,
-    "question": "Which statement best describes the additional ILO objective 32?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 32.",
-      "B": "A statement partially related to additional ILO objective 32.",
-      "C": "An incorrect assertion about additional ILO objective 32.",
-      "D": "A distractor not describing additional ILO objective 32.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 32."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 32, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 33,
-    "question": "Which statement best describes the additional ILO objective 33?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 33.",
-      "B": "A statement partially related to additional ILO objective 33.",
-      "C": "An incorrect assertion about additional ILO objective 33.",
-      "D": "A distractor not describing additional ILO objective 33.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 33."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 33, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 34,
-    "question": "Which statement best describes the additional ILO objective 34?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 34.",
-      "B": "A statement partially related to additional ILO objective 34.",
-      "C": "An incorrect assertion about additional ILO objective 34.",
-      "D": "A distractor not describing additional ILO objective 34.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 34."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 34, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 35,
-    "question": "Which statement best describes the additional ILO objective 35?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 35.",
-      "B": "A statement partially related to additional ILO objective 35.",
-      "C": "An incorrect assertion about additional ILO objective 35.",
-      "D": "A distractor not describing additional ILO objective 35.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 35."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 35, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 36,
-    "question": "Which statement best describes the additional ILO objective 36?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 36.",
-      "B": "A statement partially related to additional ILO objective 36.",
-      "C": "An incorrect assertion about additional ILO objective 36.",
-      "D": "A distractor not describing additional ILO objective 36.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 36."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 36, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 37,
-    "question": "Which statement best describes the additional ILO objective 37?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 37.",
-      "B": "A statement partially related to additional ILO objective 37.",
-      "C": "An incorrect assertion about additional ILO objective 37.",
-      "D": "A distractor not describing additional ILO objective 37.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 37."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 37, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 38,
-    "question": "Which statement best describes the additional ILO objective 38?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 38.",
-      "B": "A statement partially related to additional ILO objective 38.",
-      "C": "An incorrect assertion about additional ILO objective 38.",
-      "D": "A distractor not describing additional ILO objective 38.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 38."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 38, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 39,
-    "question": "Which statement best describes the additional ILO objective 39?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 39.",
-      "B": "A statement partially related to additional ILO objective 39.",
-      "C": "An incorrect assertion about additional ILO objective 39.",
-      "D": "A distractor not describing additional ILO objective 39.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 39."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 39, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 40,
-    "question": "Which statement best describes the additional ILO objective 40?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 40.",
-      "B": "A statement partially related to additional ILO objective 40.",
-      "C": "An incorrect assertion about additional ILO objective 40.",
-      "D": "A distractor not describing additional ILO objective 40.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 40."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 40, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 41,
-    "question": "Which statement best describes the additional ILO objective 41?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 41.",
-      "B": "A statement partially related to additional ILO objective 41.",
-      "C": "An incorrect assertion about additional ILO objective 41.",
-      "D": "A distractor not describing additional ILO objective 41.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 41."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 41, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 42,
-    "question": "Which statement best describes the additional ILO objective 42?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 42.",
-      "B": "A statement partially related to additional ILO objective 42.",
-      "C": "An incorrect assertion about additional ILO objective 42.",
-      "D": "A distractor not describing additional ILO objective 42.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 42."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 42, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 43,
-    "question": "Which statement best describes the additional ILO objective 43?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 43.",
-      "B": "A statement partially related to additional ILO objective 43.",
-      "C": "An incorrect assertion about additional ILO objective 43.",
-      "D": "A distractor not describing additional ILO objective 43.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 43."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 43, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 44,
-    "question": "Which statement best describes the additional ILO objective 44?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 44.",
-      "B": "A statement partially related to additional ILO objective 44.",
-      "C": "An incorrect assertion about additional ILO objective 44.",
-      "D": "A distractor not describing additional ILO objective 44.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 44."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 44, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 45,
-    "question": "Which statement best describes the additional ILO objective 45?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 45.",
-      "B": "A statement partially related to additional ILO objective 45.",
-      "C": "An incorrect assertion about additional ILO objective 45.",
-      "D": "A distractor not describing additional ILO objective 45.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 45."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 45, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 46,
-    "question": "Which statement best describes the additional ILO objective 46?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 46.",
-      "B": "A statement partially related to additional ILO objective 46.",
-      "C": "An incorrect assertion about additional ILO objective 46.",
-      "D": "A distractor not describing additional ILO objective 46.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 46."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 46, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 47,
-    "question": "Which statement best describes the additional ILO objective 47?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 47.",
-      "B": "A statement partially related to additional ILO objective 47.",
-      "C": "An incorrect assertion about additional ILO objective 47.",
-      "D": "A distractor not describing additional ILO objective 47.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 47."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 47, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 48,
-    "question": "Which statement best describes the additional ILO objective 48?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 48.",
-      "B": "A statement partially related to additional ILO objective 48.",
-      "C": "An incorrect assertion about additional ILO objective 48.",
-      "D": "A distractor not describing additional ILO objective 48.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 48."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 48, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 49,
-    "question": "Which statement best describes the additional ILO objective 49?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 49.",
-      "B": "A statement partially related to additional ILO objective 49.",
-      "C": "An incorrect assertion about additional ILO objective 49.",
-      "D": "A distractor not describing additional ILO objective 49.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 49."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 49, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 50,
-    "question": "Which statement best describes the additional ILO objective 50?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 50.",
-      "B": "A statement partially related to additional ILO objective 50.",
-      "C": "An incorrect assertion about additional ILO objective 50.",
-      "D": "A distractor not describing additional ILO objective 50.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 50."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 50, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 51,
-    "question": "Which statement best describes the additional ILO objective 51?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 51.",
-      "B": "A statement partially related to additional ILO objective 51.",
-      "C": "An incorrect assertion about additional ILO objective 51.",
-      "D": "A distractor not describing additional ILO objective 51.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 51."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 51, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 52,
-    "question": "Which statement best describes the additional ILO objective 52?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 52.",
-      "B": "A statement partially related to additional ILO objective 52.",
-      "C": "An incorrect assertion about additional ILO objective 52.",
-      "D": "A distractor not describing additional ILO objective 52.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 52."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 52, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 53,
-    "question": "Which statement best describes the additional ILO objective 53?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 53.",
-      "B": "A statement partially related to additional ILO objective 53.",
-      "C": "An incorrect assertion about additional ILO objective 53.",
-      "D": "A distractor not describing additional ILO objective 53.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 53."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 53, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 54,
-    "question": "Which statement best describes the additional ILO objective 54?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 54.",
-      "B": "A statement partially related to additional ILO objective 54.",
-      "C": "An incorrect assertion about additional ILO objective 54.",
-      "D": "A distractor not describing additional ILO objective 54.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 54."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 54, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 55,
-    "question": "Which statement best describes the additional ILO objective 55?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 55.",
-      "B": "A statement partially related to additional ILO objective 55.",
-      "C": "An incorrect assertion about additional ILO objective 55.",
-      "D": "A distractor not describing additional ILO objective 55.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 55."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 55, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 56,
-    "question": "Which statement best describes the additional ILO objective 56?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 56.",
-      "B": "A statement partially related to additional ILO objective 56.",
-      "C": "An incorrect assertion about additional ILO objective 56.",
-      "D": "A distractor not describing additional ILO objective 56.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 56."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 56, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 57,
-    "question": "Which statement best describes the additional ILO objective 57?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 57.",
-      "B": "A statement partially related to additional ILO objective 57.",
-      "C": "An incorrect assertion about additional ILO objective 57.",
-      "D": "A distractor not describing additional ILO objective 57.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 57."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 57, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 58,
-    "question": "Which statement best describes the additional ILO objective 58?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 58.",
-      "B": "A statement partially related to additional ILO objective 58.",
-      "C": "An incorrect assertion about additional ILO objective 58.",
-      "D": "A distractor not describing additional ILO objective 58.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 58."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 58, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 59,
-    "question": "Which statement best describes the additional ILO objective 59?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 59.",
-      "B": "A statement partially related to additional ILO objective 59.",
-      "C": "An incorrect assertion about additional ILO objective 59.",
-      "D": "A distractor not describing additional ILO objective 59.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 59."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 59, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 60,
-    "question": "Which statement best describes the additional ILO objective 60?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 60.",
-      "B": "A statement partially related to additional ILO objective 60.",
-      "C": "An incorrect assertion about additional ILO objective 60.",
-      "D": "A distractor not describing additional ILO objective 60.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 60."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 60, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 61,
-    "question": "Which statement best describes the additional ILO objective 61?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 61.",
-      "B": "A statement partially related to additional ILO objective 61.",
-      "C": "An incorrect assertion about additional ILO objective 61.",
-      "D": "A distractor not describing additional ILO objective 61.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 61."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 61, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 62,
-    "question": "Which statement best describes the additional ILO objective 62?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 62.",
-      "B": "A statement partially related to additional ILO objective 62.",
-      "C": "An incorrect assertion about additional ILO objective 62.",
-      "D": "A distractor not describing additional ILO objective 62.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 62."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 62, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 63,
-    "question": "Which statement best describes the additional ILO objective 63?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 63.",
-      "B": "A statement partially related to additional ILO objective 63.",
-      "C": "An incorrect assertion about additional ILO objective 63.",
-      "D": "A distractor not describing additional ILO objective 63.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 63."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 63, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 64,
-    "question": "Which statement best describes the additional ILO objective 64?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 64.",
-      "B": "A statement partially related to additional ILO objective 64.",
-      "C": "An incorrect assertion about additional ILO objective 64.",
-      "D": "A distractor not describing additional ILO objective 64.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 64."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 64, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 65,
-    "question": "Which statement best describes the additional ILO objective 65?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 65.",
-      "B": "A statement partially related to additional ILO objective 65.",
-      "C": "An incorrect assertion about additional ILO objective 65.",
-      "D": "A distractor not describing additional ILO objective 65.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 65."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 65, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 66,
-    "question": "Which statement best describes the additional ILO objective 66?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 66.",
-      "B": "A statement partially related to additional ILO objective 66.",
-      "C": "An incorrect assertion about additional ILO objective 66.",
-      "D": "A distractor not describing additional ILO objective 66.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 66."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 66, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 67,
-    "question": "Which statement best describes the additional ILO objective 67?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 67.",
-      "B": "A statement partially related to additional ILO objective 67.",
-      "C": "An incorrect assertion about additional ILO objective 67.",
-      "D": "A distractor not describing additional ILO objective 67.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 67."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 67, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 68,
-    "question": "Which statement best describes the additional ILO objective 68?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 68.",
-      "B": "A statement partially related to additional ILO objective 68.",
-      "C": "An incorrect assertion about additional ILO objective 68.",
-      "D": "A distractor not describing additional ILO objective 68.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 68."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 68, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 69,
-    "question": "Which statement best describes the additional ILO objective 69?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 69.",
-      "B": "A statement partially related to additional ILO objective 69.",
-      "C": "An incorrect assertion about additional ILO objective 69.",
-      "D": "A distractor not describing additional ILO objective 69.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 69."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 69, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 70,
-    "question": "Which statement best describes the additional ILO objective 70?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 70.",
-      "B": "A statement partially related to additional ILO objective 70.",
-      "C": "An incorrect assertion about additional ILO objective 70.",
-      "D": "A distractor not describing additional ILO objective 70.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 70."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 70, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 71,
-    "question": "Which statement best describes the additional ILO objective 71?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 71.",
-      "B": "A statement partially related to additional ILO objective 71.",
-      "C": "An incorrect assertion about additional ILO objective 71.",
-      "D": "A distractor not describing additional ILO objective 71.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 71."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 71, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 72,
-    "question": "Which statement best describes the additional ILO objective 72?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 72.",
-      "B": "A statement partially related to additional ILO objective 72.",
-      "C": "An incorrect assertion about additional ILO objective 72.",
-      "D": "A distractor not describing additional ILO objective 72.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 72."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 72, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 73,
-    "question": "Which statement best describes the additional ILO objective 73?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 73.",
-      "B": "A statement partially related to additional ILO objective 73.",
-      "C": "An incorrect assertion about additional ILO objective 73.",
-      "D": "A distractor not describing additional ILO objective 73.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 73."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 73, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 74,
-    "question": "Which statement best describes the additional ILO objective 74?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 74.",
-      "B": "A statement partially related to additional ILO objective 74.",
-      "C": "An incorrect assertion about additional ILO objective 74.",
-      "D": "A distractor not describing additional ILO objective 74.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 74."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 74, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 75,
-    "question": "Which statement best describes the additional ILO objective 75?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 75.",
-      "B": "A statement partially related to additional ILO objective 75.",
-      "C": "An incorrect assertion about additional ILO objective 75.",
-      "D": "A distractor not describing additional ILO objective 75.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 75."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 75, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 76,
-    "question": "Which statement best describes the additional ILO objective 76?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 76.",
-      "B": "A statement partially related to additional ILO objective 76.",
-      "C": "An incorrect assertion about additional ILO objective 76.",
-      "D": "A distractor not describing additional ILO objective 76.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 76."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 76, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 77,
-    "question": "Which statement best describes the additional ILO objective 77?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 77.",
-      "B": "A statement partially related to additional ILO objective 77.",
-      "C": "An incorrect assertion about additional ILO objective 77.",
-      "D": "A distractor not describing additional ILO objective 77.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 77."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 77, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 78,
-    "question": "Which statement best describes the additional ILO objective 78?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 78.",
-      "B": "A statement partially related to additional ILO objective 78.",
-      "C": "An incorrect assertion about additional ILO objective 78.",
-      "D": "A distractor not describing additional ILO objective 78.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 78."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 78, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 79,
-    "question": "Which statement best describes the additional ILO objective 79?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 79.",
-      "B": "A statement partially related to additional ILO objective 79.",
-      "C": "An incorrect assertion about additional ILO objective 79.",
-      "D": "A distractor not describing additional ILO objective 79.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 79."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 79, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 80,
-    "question": "Which statement best describes the additional ILO objective 80?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 80.",
-      "B": "A statement partially related to additional ILO objective 80.",
-      "C": "An incorrect assertion about additional ILO objective 80.",
-      "D": "A distractor not describing additional ILO objective 80.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 80."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 80, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 81,
-    "question": "Which statement best describes the additional ILO objective 81?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 81.",
-      "B": "A statement partially related to additional ILO objective 81.",
-      "C": "An incorrect assertion about additional ILO objective 81.",
-      "D": "A distractor not describing additional ILO objective 81.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 81."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 81, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 82,
-    "question": "Which statement best describes the additional ILO objective 82?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 82.",
-      "B": "A statement partially related to additional ILO objective 82.",
-      "C": "An incorrect assertion about additional ILO objective 82.",
-      "D": "A distractor not describing additional ILO objective 82.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 82."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 82, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 83,
-    "question": "Which statement best describes the additional ILO objective 83?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 83.",
-      "B": "A statement partially related to additional ILO objective 83.",
-      "C": "An incorrect assertion about additional ILO objective 83.",
-      "D": "A distractor not describing additional ILO objective 83.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 83."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 83, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 84,
-    "question": "Which statement best describes the additional ILO objective 84?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 84.",
-      "B": "A statement partially related to additional ILO objective 84.",
-      "C": "An incorrect assertion about additional ILO objective 84.",
-      "D": "A distractor not describing additional ILO objective 84.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 84."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 84, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 85,
-    "question": "Which statement best describes the additional ILO objective 85?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 85.",
-      "B": "A statement partially related to additional ILO objective 85.",
-      "C": "An incorrect assertion about additional ILO objective 85.",
-      "D": "A distractor not describing additional ILO objective 85.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 85."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 85, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 86,
-    "question": "Which statement best describes the additional ILO objective 86?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 86.",
-      "B": "A statement partially related to additional ILO objective 86.",
-      "C": "An incorrect assertion about additional ILO objective 86.",
-      "D": "A distractor not describing additional ILO objective 86.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 86."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 86, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 87,
-    "question": "Which statement best describes the additional ILO objective 87?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 87.",
-      "B": "A statement partially related to additional ILO objective 87.",
-      "C": "An incorrect assertion about additional ILO objective 87.",
-      "D": "A distractor not describing additional ILO objective 87.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 87."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 87, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 88,
-    "question": "Which statement best describes the additional ILO objective 88?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 88.",
-      "B": "A statement partially related to additional ILO objective 88.",
-      "C": "An incorrect assertion about additional ILO objective 88.",
-      "D": "A distractor not describing additional ILO objective 88.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 88."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 88, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 89,
-    "question": "Which statement best describes the additional ILO objective 89?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 89.",
-      "B": "A statement partially related to additional ILO objective 89.",
-      "C": "An incorrect assertion about additional ILO objective 89.",
-      "D": "A distractor not describing additional ILO objective 89.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 89."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 89, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 90,
-    "question": "Which statement best describes the additional ILO objective 90?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 90.",
-      "B": "A statement partially related to additional ILO objective 90.",
-      "C": "An incorrect assertion about additional ILO objective 90.",
-      "D": "A distractor not describing additional ILO objective 90.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 90."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 90, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 91,
-    "question": "Which statement best describes the additional ILO objective 91?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 91.",
-      "B": "A statement partially related to additional ILO objective 91.",
-      "C": "An incorrect assertion about additional ILO objective 91.",
-      "D": "A distractor not describing additional ILO objective 91.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 91."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 91, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 92,
-    "question": "Which statement best describes the additional ILO objective 92?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 92.",
-      "B": "A statement partially related to additional ILO objective 92.",
-      "C": "An incorrect assertion about additional ILO objective 92.",
-      "D": "A distractor not describing additional ILO objective 92.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 92."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 92, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 93,
-    "question": "Which statement best describes the additional ILO objective 93?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 93.",
-      "B": "A statement partially related to additional ILO objective 93.",
-      "C": "An incorrect assertion about additional ILO objective 93.",
-      "D": "A distractor not describing additional ILO objective 93.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 93."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 93, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 94,
-    "question": "Which statement best describes the additional ILO objective 94?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 94.",
-      "B": "A statement partially related to additional ILO objective 94.",
-      "C": "An incorrect assertion about additional ILO objective 94.",
-      "D": "A distractor not describing additional ILO objective 94.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 94."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 94, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 95,
-    "question": "Which statement best describes the additional ILO objective 95?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 95.",
-      "B": "A statement partially related to additional ILO objective 95.",
-      "C": "An incorrect assertion about additional ILO objective 95.",
-      "D": "A distractor not describing additional ILO objective 95.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 95."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 95, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 96,
-    "question": "Which statement best describes the additional ILO objective 96?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 96.",
-      "B": "A statement partially related to additional ILO objective 96.",
-      "C": "An incorrect assertion about additional ILO objective 96.",
-      "D": "A distractor not describing additional ILO objective 96.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 96."
-    },
-    "answer": "A",
-    "explanation": "Option A is correct because it accurately describes the additional ILO objective 96, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 97,
-    "question": "Which statement best describes the additional ILO objective 97?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 97.",
-      "B": "A statement partially related to additional ILO objective 97.",
-      "C": "An incorrect assertion about additional ILO objective 97.",
-      "D": "A distractor not describing additional ILO objective 97.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 97."
-    },
-    "answer": "B",
-    "explanation": "Option B is correct because it accurately describes the additional ILO objective 97, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 98,
-    "question": "Which statement best describes the additional ILO objective 98?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 98.",
-      "B": "A statement partially related to additional ILO objective 98.",
-      "C": "An incorrect assertion about additional ILO objective 98.",
-      "D": "A distractor not describing additional ILO objective 98.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 98."
-    },
-    "answer": "C",
-    "explanation": "Option C is correct because it accurately describes the additional ILO objective 98, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 99,
-    "question": "Which statement best describes the additional ILO objective 99?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 99.",
-      "B": "A statement partially related to additional ILO objective 99.",
-      "C": "An incorrect assertion about additional ILO objective 99.",
-      "D": "A distractor not describing additional ILO objective 99.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 99."
-    },
-    "answer": "D",
-    "explanation": "Option D is correct because it accurately describes the additional ILO objective 99, highlighting its key mechanisms and clinical relevance."
-  },
-  {
-    "id": 100,
-    "question": "Which statement best describes the additional ILO objective 100?",
-    "options": {
-      "A": "An accurate description of additional ILO objective 100.",
-      "B": "A statement partially related to additional ILO objective 100.",
-      "C": "An incorrect assertion about additional ILO objective 100.",
-      "D": "A distractor not describing additional ILO objective 100.",
-      "E": "Irrelevant content not pertaining to additional ILO objective 100."
-    },
-    "answer": "E",
-    "explanation": "Option E is correct because it accurately describes the additional ILO objective 100, highlighting its key mechanisms and clinical relevance."
-  }
+    {
+        "id": 1,
+        "question": "Physiologically, how do insulin and glucagon antagonize each other to maintain euglycaemia?",
+        "options": {
+            "A": "Accurate description of physiological antagonism between insulin and glucagon, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of physiological antagonism between insulin and glucagon.",
+            "C": "Common misunderstanding about physiological antagonism between insulin and glucagon.",
+            "D": "Irrelevant statement not related to physiological antagonism between insulin and glucagon.",
+            "E": "Incorrect reversal of processes in physiological antagonism between insulin and glucagon."
+        },
+        "answer": "A",
+        "explanation": "Option B is correct because insulin lowers plasma glucose by promoting uptake and storage, whereas glucagon raises plasma glucose by stimulating hepatic glycogenolysis and gluconeogenesis."
+    },
+    {
+        "id": 2,
+        "question": "Which statement best describes the differences between type 1 and type 2 diabetes mellitus in insulin production and effects?",
+        "options": {
+            "A": "Accurate description of differences between type 1 and type 2 diabetes mellitus in insulin production and effects, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of differences between type 1 and type 2 diabetes mellitus in insulin production and effects.",
+            "C": "Common misunderstanding about differences between type 1 and type 2 diabetes mellitus in insulin production and effects.",
+            "D": "Irrelevant statement not related to differences between type 1 and type 2 diabetes mellitus in insulin production and effects.",
+            "E": "Incorrect reversal of processes in differences between type 1 and type 2 diabetes mellitus in insulin production and effects."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of differences between type 1 and type 2 diabetes mellitus in insulin production and effects, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 3,
+        "question": "Which statement best describes the WHO diagnostic criteria for diabetes mellitus including OGTT thresholds?",
+        "options": {
+            "A": "Accurate description of WHO diagnostic criteria for diabetes mellitus including OGTT thresholds, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of WHO diagnostic criteria for diabetes mellitus including OGTT thresholds.",
+            "C": "Common misunderstanding about WHO diagnostic criteria for diabetes mellitus including OGTT thresholds.",
+            "D": "Irrelevant statement not related to WHO diagnostic criteria for diabetes mellitus including OGTT thresholds.",
+            "E": "Incorrect reversal of processes in WHO diagnostic criteria for diabetes mellitus including OGTT thresholds."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of WHO diagnostic criteria for diabetes mellitus including OGTT thresholds, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 4,
+        "question": "Which statement best describes the risk factors for developing type 2 diabetes?",
+        "options": {
+            "A": "Accurate description of risk factors for developing type 2 diabetes, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of risk factors for developing type 2 diabetes.",
+            "C": "Common misunderstanding about risk factors for developing type 2 diabetes.",
+            "D": "Irrelevant statement not related to risk factors for developing type 2 diabetes.",
+            "E": "Incorrect reversal of processes in risk factors for developing type 2 diabetes."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of risk factors for developing type 2 diabetes, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 5,
+        "question": "Which statement best describes the presenting features of type 2 diabetes mellitus?",
+        "options": {
+            "A": "Accurate description of presenting features of type 2 diabetes mellitus, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of presenting features of type 2 diabetes mellitus.",
+            "C": "Common misunderstanding about presenting features of type 2 diabetes mellitus.",
+            "D": "Irrelevant statement not related to presenting features of type 2 diabetes mellitus.",
+            "E": "Incorrect reversal of processes in presenting features of type 2 diabetes mellitus."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of presenting features of type 2 diabetes mellitus, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 6,
+        "question": "Which statement best describes the spectrum from obesity to type 2 diabetes and metabolic syndrome?",
+        "options": {
+            "A": "Accurate description of spectrum from obesity to type 2 diabetes and metabolic syndrome, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of spectrum from obesity to type 2 diabetes and metabolic syndrome.",
+            "C": "Common misunderstanding about spectrum from obesity to type 2 diabetes and metabolic syndrome.",
+            "D": "Irrelevant statement not related to spectrum from obesity to type 2 diabetes and metabolic syndrome.",
+            "E": "Incorrect reversal of processes in spectrum from obesity to type 2 diabetes and metabolic syndrome."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of spectrum from obesity to type 2 diabetes and metabolic syndrome, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 7,
+        "question": "Which statement best describes the effect of acute insulin deficiency on blood pH and ketone concentration?",
+        "options": {
+            "A": "Accurate description of effect of acute insulin deficiency on blood pH and ketone concentration, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of effect of acute insulin deficiency on blood pH and ketone concentration.",
+            "C": "Common misunderstanding about effect of acute insulin deficiency on blood pH and ketone concentration.",
+            "D": "Irrelevant statement not related to effect of acute insulin deficiency on blood pH and ketone concentration.",
+            "E": "Incorrect reversal of processes in effect of acute insulin deficiency on blood pH and ketone concentration."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of effect of acute insulin deficiency on blood pH and ketone concentration, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 8,
+        "question": "Which statement best describes the effect of acute hyperglycaemia on body fluid balance?",
+        "options": {
+            "A": "Accurate description of effect of acute hyperglycaemia on body fluid balance, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of effect of acute hyperglycaemia on body fluid balance.",
+            "C": "Common misunderstanding about effect of acute hyperglycaemia on body fluid balance.",
+            "D": "Irrelevant statement not related to effect of acute hyperglycaemia on body fluid balance.",
+            "E": "Incorrect reversal of processes in effect of acute hyperglycaemia on body fluid balance."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of effect of acute hyperglycaemia on body fluid balance, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 9,
+        "question": "Which statement best describes the functional anatomy of the adrenal glands?",
+        "options": {
+            "A": "Accurate description of functional anatomy of the adrenal glands, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of functional anatomy of the adrenal glands.",
+            "C": "Common misunderstanding about functional anatomy of the adrenal glands.",
+            "D": "Irrelevant statement not related to functional anatomy of the adrenal glands.",
+            "E": "Incorrect reversal of processes in functional anatomy of the adrenal glands."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of functional anatomy of the adrenal glands, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 10,
+        "question": "Which statement best describes the regulation and actions of cortisol?",
+        "options": {
+            "A": "Accurate description of regulation and actions of cortisol, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of regulation and actions of cortisol.",
+            "C": "Common misunderstanding about regulation and actions of cortisol.",
+            "D": "Irrelevant statement not related to regulation and actions of cortisol.",
+            "E": "Incorrect reversal of processes in regulation and actions of cortisol."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of regulation and actions of cortisol, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 11,
+        "question": "Which statement best describes the major features of Cushing syndrome?",
+        "options": {
+            "A": "Accurate description of major features of Cushing syndrome, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of major features of Cushing syndrome.",
+            "C": "Common misunderstanding about major features of Cushing syndrome.",
+            "D": "Irrelevant statement not related to major features of Cushing syndrome.",
+            "E": "Incorrect reversal of processes in major features of Cushing syndrome."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of major features of Cushing syndrome, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 12,
+        "question": "Which statement best describes the Addisonian crisis and cortisol deficiency impact?",
+        "options": {
+            "A": "Accurate description of Addisonian crisis and cortisol deficiency impact, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of Addisonian crisis and cortisol deficiency impact.",
+            "C": "Common misunderstanding about Addisonian crisis and cortisol deficiency impact.",
+            "D": "Irrelevant statement not related to Addisonian crisis and cortisol deficiency impact.",
+            "E": "Incorrect reversal of processes in Addisonian crisis and cortisol deficiency impact."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of Addisonian crisis and cortisol deficiency impact, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 13,
+        "question": "Which statement best describes the regulation of aldosterone secretion?",
+        "options": {
+            "A": "Accurate description of regulation of aldosterone secretion, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of regulation of aldosterone secretion.",
+            "C": "Common misunderstanding about regulation of aldosterone secretion.",
+            "D": "Irrelevant statement not related to regulation of aldosterone secretion.",
+            "E": "Incorrect reversal of processes in regulation of aldosterone secretion."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of regulation of aldosterone secretion, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 14,
+        "question": "Which statement best describes the structural similarity between glucocorticoids and mineralocorticoids?",
+        "options": {
+            "A": "Accurate description of structural similarity between glucocorticoids and mineralocorticoids, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of structural similarity between glucocorticoids and mineralocorticoids.",
+            "C": "Common misunderstanding about structural similarity between glucocorticoids and mineralocorticoids.",
+            "D": "Irrelevant statement not related to structural similarity between glucocorticoids and mineralocorticoids.",
+            "E": "Incorrect reversal of processes in structural similarity between glucocorticoids and mineralocorticoids."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of structural similarity between glucocorticoids and mineralocorticoids, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 15,
+        "question": "Which statement best describes the effects of chronic excess aldosterone on volume, pressure, and potassium?",
+        "options": {
+            "A": "Accurate description of effects of chronic excess aldosterone on volume, pressure, and potassium, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of effects of chronic excess aldosterone on volume, pressure, and potassium.",
+            "C": "Common misunderstanding about effects of chronic excess aldosterone on volume, pressure, and potassium.",
+            "D": "Irrelevant statement not related to effects of chronic excess aldosterone on volume, pressure, and potassium.",
+            "E": "Incorrect reversal of processes in effects of chronic excess aldosterone on volume, pressure, and potassium."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of effects of chronic excess aldosterone on volume, pressure, and potassium, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 16,
+        "question": "Which statement best describes the systemic effects of stress and catecholamine role?",
+        "options": {
+            "A": "Accurate description of systemic effects of stress and catecholamine role, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of systemic effects of stress and catecholamine role.",
+            "C": "Common misunderstanding about systemic effects of stress and catecholamine role.",
+            "D": "Irrelevant statement not related to systemic effects of stress and catecholamine role.",
+            "E": "Incorrect reversal of processes in systemic effects of stress and catecholamine role."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of systemic effects of stress and catecholamine role, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 17,
+        "question": "Which statement best describes the fight or flight response roles of adrenal cortex and medulla?",
+        "options": {
+            "A": "Accurate description of fight or flight response roles of adrenal cortex and medulla, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of fight or flight response roles of adrenal cortex and medulla.",
+            "C": "Common misunderstanding about fight or flight response roles of adrenal cortex and medulla.",
+            "D": "Irrelevant statement not related to fight or flight response roles of adrenal cortex and medulla.",
+            "E": "Incorrect reversal of processes in fight or flight response roles of adrenal cortex and medulla."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of fight or flight response roles of adrenal cortex and medulla, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 18,
+        "question": "Which statement best describes the tonic inhibitory regulation of prolactin and stress effects?",
+        "options": {
+            "A": "Accurate description of tonic inhibitory regulation of prolactin and stress effects, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of tonic inhibitory regulation of prolactin and stress effects.",
+            "C": "Common misunderstanding about tonic inhibitory regulation of prolactin and stress effects.",
+            "D": "Irrelevant statement not related to tonic inhibitory regulation of prolactin and stress effects.",
+            "E": "Incorrect reversal of processes in tonic inhibitory regulation of prolactin and stress effects."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of tonic inhibitory regulation of prolactin and stress effects, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 19,
+        "question": "Which statement best describes the compare roles of adrenal medulla vs cortex in stress?",
+        "options": {
+            "A": "Accurate description of compare roles of adrenal medulla vs cortex in stress, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of compare roles of adrenal medulla vs cortex in stress.",
+            "C": "Common misunderstanding about compare roles of adrenal medulla vs cortex in stress.",
+            "D": "Irrelevant statement not related to compare roles of adrenal medulla vs cortex in stress.",
+            "E": "Incorrect reversal of processes in compare roles of adrenal medulla vs cortex in stress."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of compare roles of adrenal medulla vs cortex in stress, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 20,
+        "question": "Which statement best describes the differences between mood and anxiety disorders and normal stress responses?",
+        "options": {
+            "A": "Accurate description of differences between mood and anxiety disorders and normal stress responses, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of differences between mood and anxiety disorders and normal stress responses.",
+            "C": "Common misunderstanding about differences between mood and anxiety disorders and normal stress responses.",
+            "D": "Irrelevant statement not related to differences between mood and anxiety disorders and normal stress responses.",
+            "E": "Incorrect reversal of processes in differences between mood and anxiety disorders and normal stress responses."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of differences between mood and anxiety disorders and normal stress responses, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 21,
+        "question": "Which statement best describes the acute vs chronic stress effects in health and disease?",
+        "options": {
+            "A": "Accurate description of acute vs chronic stress effects in health and disease, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of acute vs chronic stress effects in health and disease.",
+            "C": "Common misunderstanding about acute vs chronic stress effects in health and disease.",
+            "D": "Irrelevant statement not related to acute vs chronic stress effects in health and disease.",
+            "E": "Incorrect reversal of processes in acute vs chronic stress effects in health and disease."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of acute vs chronic stress effects in health and disease, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 22,
+        "question": "Which statement best describes the structure and function of the endocrine system in homeostasis?",
+        "options": {
+            "A": "Accurate description of structure and function of the endocrine system in homeostasis, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of structure and function of the endocrine system in homeostasis.",
+            "C": "Common misunderstanding about structure and function of the endocrine system in homeostasis.",
+            "D": "Irrelevant statement not related to structure and function of the endocrine system in homeostasis.",
+            "E": "Incorrect reversal of processes in structure and function of the endocrine system in homeostasis."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of structure and function of the endocrine system in homeostasis, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 23,
+        "question": "Which statement best describes the define endocrine, paracrine, and autocrine regulation?",
+        "options": {
+            "A": "Accurate description of define endocrine, paracrine, and autocrine regulation, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of define endocrine, paracrine, and autocrine regulation.",
+            "C": "Common misunderstanding about define endocrine, paracrine, and autocrine regulation.",
+            "D": "Irrelevant statement not related to define endocrine, paracrine, and autocrine regulation.",
+            "E": "Incorrect reversal of processes in define endocrine, paracrine, and autocrine regulation."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of define endocrine, paracrine, and autocrine regulation, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 24,
+        "question": "Which statement best describes the compare synthesis and actions of peptide vs steroid hormones?",
+        "options": {
+            "A": "Accurate description of compare synthesis and actions of peptide vs steroid hormones, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of compare synthesis and actions of peptide vs steroid hormones.",
+            "C": "Common misunderstanding about compare synthesis and actions of peptide vs steroid hormones.",
+            "D": "Irrelevant statement not related to compare synthesis and actions of peptide vs steroid hormones.",
+            "E": "Incorrect reversal of processes in compare synthesis and actions of peptide vs steroid hormones."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of compare synthesis and actions of peptide vs steroid hormones, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 25,
+        "question": "Which statement best describes the describe the hypothalamo-pituitary-adrenal axis and feedback loops?",
+        "options": {
+            "A": "Accurate description of describe the hypothalamo-pituitary-adrenal axis and feedback loops, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of describe the hypothalamo-pituitary-adrenal axis and feedback loops.",
+            "C": "Common misunderstanding about describe the hypothalamo-pituitary-adrenal axis and feedback loops.",
+            "D": "Irrelevant statement not related to describe the hypothalamo-pituitary-adrenal axis and feedback loops.",
+            "E": "Incorrect reversal of processes in describe the hypothalamo-pituitary-adrenal axis and feedback loops."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of describe the hypothalamo-pituitary-adrenal axis and feedback loops, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 26,
+        "question": "Which statement best describes the structure and vascular supply of the anterior pituitary?",
+        "options": {
+            "A": "Accurate description of structure and vascular supply of the anterior pituitary, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of structure and vascular supply of the anterior pituitary.",
+            "C": "Common misunderstanding about structure and vascular supply of the anterior pituitary.",
+            "D": "Irrelevant statement not related to structure and vascular supply of the anterior pituitary.",
+            "E": "Incorrect reversal of processes in structure and vascular supply of the anterior pituitary."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of structure and vascular supply of the anterior pituitary, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 27,
+        "question": "Which statement best describes the anatomical relations of the pituitary gland including the optic chiasm?",
+        "options": {
+            "A": "Accurate description of anatomical relations of the pituitary gland including the optic chiasm, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of anatomical relations of the pituitary gland including the optic chiasm.",
+            "C": "Common misunderstanding about anatomical relations of the pituitary gland including the optic chiasm.",
+            "D": "Irrelevant statement not related to anatomical relations of the pituitary gland including the optic chiasm.",
+            "E": "Incorrect reversal of processes in anatomical relations of the pituitary gland including the optic chiasm."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of anatomical relations of the pituitary gland including the optic chiasm, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 28,
+        "question": "Which statement best describes the roles of anterior pituitary hormones in growth, adrenal, and thyroid regulation?",
+        "options": {
+            "A": "Accurate description of roles of anterior pituitary hormones in growth, adrenal, and thyroid regulation, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of roles of anterior pituitary hormones in growth, adrenal, and thyroid regulation.",
+            "C": "Common misunderstanding about roles of anterior pituitary hormones in growth, adrenal, and thyroid regulation.",
+            "D": "Irrelevant statement not related to roles of anterior pituitary hormones in growth, adrenal, and thyroid regulation.",
+            "E": "Incorrect reversal of processes in roles of anterior pituitary hormones in growth, adrenal, and thyroid regulation."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of roles of anterior pituitary hormones in growth, adrenal, and thyroid regulation, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 29,
+        "question": "Which statement best describes the role of negative feedback and suprachiasmatic nucleus in hormone secretion?",
+        "options": {
+            "A": "Accurate description of role of negative feedback and suprachiasmatic nucleus in hormone secretion, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of role of negative feedback and suprachiasmatic nucleus in hormone secretion.",
+            "C": "Common misunderstanding about role of negative feedback and suprachiasmatic nucleus in hormone secretion.",
+            "D": "Irrelevant statement not related to role of negative feedback and suprachiasmatic nucleus in hormone secretion.",
+            "E": "Incorrect reversal of processes in role of negative feedback and suprachiasmatic nucleus in hormone secretion."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of role of negative feedback and suprachiasmatic nucleus in hormone secretion, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 30,
+        "question": "Which statement best describes the hypothalamic-pituitary-gonadal axis regulation?",
+        "options": {
+            "A": "Accurate description of hypothalamic-pituitary-gonadal axis regulation, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of hypothalamic-pituitary-gonadal axis regulation.",
+            "C": "Common misunderstanding about hypothalamic-pituitary-gonadal axis regulation.",
+            "D": "Irrelevant statement not related to hypothalamic-pituitary-gonadal axis regulation.",
+            "E": "Incorrect reversal of processes in hypothalamic-pituitary-gonadal axis regulation."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of hypothalamic-pituitary-gonadal axis regulation, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 31,
+        "question": "Which statement best describes the hormonal changes during menstrual cycle, puberty, and menopause?",
+        "options": {
+            "A": "Accurate description of hormonal changes during menstrual cycle, puberty, and menopause, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of hormonal changes during menstrual cycle, puberty, and menopause.",
+            "C": "Common misunderstanding about hormonal changes during menstrual cycle, puberty, and menopause.",
+            "D": "Irrelevant statement not related to hormonal changes during menstrual cycle, puberty, and menopause.",
+            "E": "Incorrect reversal of processes in hormonal changes during menstrual cycle, puberty, and menopause."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of hormonal changes during menstrual cycle, puberty, and menopause, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 32,
+        "question": "Which statement best describes the hypergonadotrophic vs hypogonadotrophic hypogonadism differences?",
+        "options": {
+            "A": "Accurate description of hypergonadotrophic vs hypogonadotrophic hypogonadism differences, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of hypergonadotrophic vs hypogonadotrophic hypogonadism differences.",
+            "C": "Common misunderstanding about hypergonadotrophic vs hypogonadotrophic hypogonadism differences.",
+            "D": "Irrelevant statement not related to hypergonadotrophic vs hypogonadotrophic hypogonadism differences.",
+            "E": "Incorrect reversal of processes in hypergonadotrophic vs hypogonadotrophic hypogonadism differences."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of hypergonadotrophic vs hypogonadotrophic hypogonadism differences, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 33,
+        "question": "Which statement best describes the disorders of sexual differentiation?",
+        "options": {
+            "A": "Accurate description of disorders of sexual differentiation, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of disorders of sexual differentiation.",
+            "C": "Common misunderstanding about disorders of sexual differentiation.",
+            "D": "Irrelevant statement not related to disorders of sexual differentiation.",
+            "E": "Incorrect reversal of processes in disorders of sexual differentiation."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of disorders of sexual differentiation, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 34,
+        "question": "Which statement best describes the compare hormone receptor interactions in membrane vs cytosolic receptors?",
+        "options": {
+            "A": "Accurate description of compare hormone receptor interactions in membrane vs cytosolic receptors, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of compare hormone receptor interactions in membrane vs cytosolic receptors.",
+            "C": "Common misunderstanding about compare hormone receptor interactions in membrane vs cytosolic receptors.",
+            "D": "Irrelevant statement not related to compare hormone receptor interactions in membrane vs cytosolic receptors.",
+            "E": "Incorrect reversal of processes in compare hormone receptor interactions in membrane vs cytosolic receptors."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of compare hormone receptor interactions in membrane vs cytosolic receptors, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 35,
+        "question": "Which statement best describes the outline second messengers in intracellular hormone signaling?",
+        "options": {
+            "A": "Accurate description of outline second messengers in intracellular hormone signaling, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of outline second messengers in intracellular hormone signaling.",
+            "C": "Common misunderstanding about outline second messengers in intracellular hormone signaling.",
+            "D": "Irrelevant statement not related to outline second messengers in intracellular hormone signaling.",
+            "E": "Incorrect reversal of processes in outline second messengers in intracellular hormone signaling."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of outline second messengers in intracellular hormone signaling, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 36,
+        "question": "Which statement best describes the how protein kinases affect enzyme activity with examples?",
+        "options": {
+            "A": "Accurate description of how protein kinases affect enzyme activity with examples, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of how protein kinases affect enzyme activity with examples.",
+            "C": "Common misunderstanding about how protein kinases affect enzyme activity with examples.",
+            "D": "Irrelevant statement not related to how protein kinases affect enzyme activity with examples.",
+            "E": "Incorrect reversal of processes in how protein kinases affect enzyme activity with examples."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of how protein kinases affect enzyme activity with examples, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 37,
+        "question": "Which statement best describes the anatomical relationships of thyroid and parathyroid glands?",
+        "options": {
+            "A": "Accurate description of anatomical relationships of thyroid and parathyroid glands, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of anatomical relationships of thyroid and parathyroid glands.",
+            "C": "Common misunderstanding about anatomical relationships of thyroid and parathyroid glands.",
+            "D": "Irrelevant statement not related to anatomical relationships of thyroid and parathyroid glands.",
+            "E": "Incorrect reversal of processes in anatomical relationships of thyroid and parathyroid glands."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of anatomical relationships of thyroid and parathyroid glands, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 38,
+        "question": "Which statement best describes the synthesis, regulation, and actions of thyroid hormones?",
+        "options": {
+            "A": "Accurate description of synthesis, regulation, and actions of thyroid hormones, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of synthesis, regulation, and actions of thyroid hormones.",
+            "C": "Common misunderstanding about synthesis, regulation, and actions of thyroid hormones.",
+            "D": "Irrelevant statement not related to synthesis, regulation, and actions of thyroid hormones.",
+            "E": "Incorrect reversal of processes in synthesis, regulation, and actions of thyroid hormones."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of synthesis, regulation, and actions of thyroid hormones, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 39,
+        "question": "Which statement best describes the effects of thyroid hormone excess and deficiency?",
+        "options": {
+            "A": "Accurate description of effects of thyroid hormone excess and deficiency, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of effects of thyroid hormone excess and deficiency.",
+            "C": "Common misunderstanding about effects of thyroid hormone excess and deficiency.",
+            "D": "Irrelevant statement not related to effects of thyroid hormone excess and deficiency.",
+            "E": "Incorrect reversal of processes in effects of thyroid hormone excess and deficiency."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of effects of thyroid hormone excess and deficiency, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 40,
+        "question": "Which statement best describes the importance of dietary iodine and goitre formation?",
+        "options": {
+            "A": "Accurate description of importance of dietary iodine and goitre formation, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of importance of dietary iodine and goitre formation.",
+            "C": "Common misunderstanding about importance of dietary iodine and goitre formation.",
+            "D": "Irrelevant statement not related to importance of dietary iodine and goitre formation.",
+            "E": "Incorrect reversal of processes in importance of dietary iodine and goitre formation."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of importance of dietary iodine and goitre formation, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 41,
+        "question": "Which statement best describes the effects of hypercalcaemia on mood, cognition, fluid balance, and bowel function?",
+        "options": {
+            "A": "Accurate description of effects of hypercalcaemia on mood, cognition, fluid balance, and bowel function, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of effects of hypercalcaemia on mood, cognition, fluid balance, and bowel function.",
+            "C": "Common misunderstanding about effects of hypercalcaemia on mood, cognition, fluid balance, and bowel function.",
+            "D": "Irrelevant statement not related to effects of hypercalcaemia on mood, cognition, fluid balance, and bowel function.",
+            "E": "Incorrect reversal of processes in effects of hypercalcaemia on mood, cognition, fluid balance, and bowel function."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of effects of hypercalcaemia on mood, cognition, fluid balance, and bowel function, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 42,
+        "question": "Which statement best describes the effects of hypocalcaemia on nerve and muscle function?",
+        "options": {
+            "A": "Accurate description of effects of hypocalcaemia on nerve and muscle function, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of effects of hypocalcaemia on nerve and muscle function.",
+            "C": "Common misunderstanding about effects of hypocalcaemia on nerve and muscle function.",
+            "D": "Irrelevant statement not related to effects of hypocalcaemia on nerve and muscle function.",
+            "E": "Incorrect reversal of processes in effects of hypocalcaemia on nerve and muscle function."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of effects of hypocalcaemia on nerve and muscle function, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 43,
+        "question": "Which statement best describes the regulation and actions of growth hormone; effects of deficiency in childhood?",
+        "options": {
+            "A": "Accurate description of regulation and actions of growth hormone; effects of deficiency in childhood, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of regulation and actions of growth hormone; effects of deficiency in childhood.",
+            "C": "Common misunderstanding about regulation and actions of growth hormone; effects of deficiency in childhood.",
+            "D": "Irrelevant statement not related to regulation and actions of growth hormone; effects of deficiency in childhood.",
+            "E": "Incorrect reversal of processes in regulation and actions of growth hormone; effects of deficiency in childhood."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of regulation and actions of growth hormone; effects of deficiency in childhood, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 44,
+        "question": "Which statement best describes the effects of excess growth hormone in childhood (gigantism) and adulthood (acromegaly)?",
+        "options": {
+            "A": "Accurate description of effects of excess growth hormone in childhood (gigantism) and adulthood (acromegaly), detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of effects of excess growth hormone in childhood (gigantism) and adulthood (acromegaly).",
+            "C": "Common misunderstanding about effects of excess growth hormone in childhood (gigantism) and adulthood (acromegaly).",
+            "D": "Irrelevant statement not related to effects of excess growth hormone in childhood (gigantism) and adulthood (acromegaly).",
+            "E": "Incorrect reversal of processes in effects of excess growth hormone in childhood (gigantism) and adulthood (acromegaly)."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of effects of excess growth hormone in childhood (gigantism) and adulthood (acromegaly), including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 45,
+        "question": "Which statement best describes the use of growth charts in clinical practice?",
+        "options": {
+            "A": "Accurate description of use of growth charts in clinical practice, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of use of growth charts in clinical practice.",
+            "C": "Common misunderstanding about use of growth charts in clinical practice.",
+            "D": "Irrelevant statement not related to use of growth charts in clinical practice.",
+            "E": "Incorrect reversal of processes in use of growth charts in clinical practice."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of use of growth charts in clinical practice, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 46,
+        "question": "Which statement best describes the role of endocrine pancreas in glucose homeostasis?",
+        "options": {
+            "A": "Accurate description of role of endocrine pancreas in glucose homeostasis, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of role of endocrine pancreas in glucose homeostasis.",
+            "C": "Common misunderstanding about role of endocrine pancreas in glucose homeostasis.",
+            "D": "Irrelevant statement not related to role of endocrine pancreas in glucose homeostasis.",
+            "E": "Incorrect reversal of processes in role of endocrine pancreas in glucose homeostasis."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of role of endocrine pancreas in glucose homeostasis, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 47,
+        "question": "Which statement best describes the structure and function of endocrine pancreas and clinical application of C-peptide measurement?",
+        "options": {
+            "A": "Accurate description of structure and function of endocrine pancreas and clinical application of C-peptide measurement, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of structure and function of endocrine pancreas and clinical application of C-peptide measurement.",
+            "C": "Common misunderstanding about structure and function of endocrine pancreas and clinical application of C-peptide measurement.",
+            "D": "Irrelevant statement not related to structure and function of endocrine pancreas and clinical application of C-peptide measurement.",
+            "E": "Incorrect reversal of processes in structure and function of endocrine pancreas and clinical application of C-peptide measurement."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of structure and function of endocrine pancreas and clinical application of C-peptide measurement, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 48,
+        "question": "Which statement best describes the compare types of cartilage: hyaline, elastic, fibrocartilage?",
+        "options": {
+            "A": "Accurate description of compare types of cartilage: hyaline, elastic, fibrocartilage, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of compare types of cartilage: hyaline, elastic, fibrocartilage.",
+            "C": "Common misunderstanding about compare types of cartilage: hyaline, elastic, fibrocartilage.",
+            "D": "Irrelevant statement not related to compare types of cartilage: hyaline, elastic, fibrocartilage.",
+            "E": "Incorrect reversal of processes in compare types of cartilage: hyaline, elastic, fibrocartilage."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of compare types of cartilage: hyaline, elastic, fibrocartilage, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 49,
+        "question": "Which statement best describes the functions of chondroblasts vs chondrocytes?",
+        "options": {
+            "A": "Accurate description of functions of chondroblasts vs chondrocytes, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of functions of chondroblasts vs chondrocytes.",
+            "C": "Common misunderstanding about functions of chondroblasts vs chondrocytes.",
+            "D": "Irrelevant statement not related to functions of chondroblasts vs chondrocytes.",
+            "E": "Incorrect reversal of processes in functions of chondroblasts vs chondrocytes."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of functions of chondroblasts vs chondrocytes, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 50,
+        "question": "Which statement best describes the factors influencing cartilage metabolism?",
+        "options": {
+            "A": "Accurate description of factors influencing cartilage metabolism, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of factors influencing cartilage metabolism.",
+            "C": "Common misunderstanding about factors influencing cartilage metabolism.",
+            "D": "Irrelevant statement not related to factors influencing cartilage metabolism.",
+            "E": "Incorrect reversal of processes in factors influencing cartilage metabolism."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of factors influencing cartilage metabolism, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 51,
+        "question": "Which statement best describes the functions of bone cells and composition of bone matrix?",
+        "options": {
+            "A": "Accurate description of functions of bone cells and composition of bone matrix, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of functions of bone cells and composition of bone matrix.",
+            "C": "Common misunderstanding about functions of bone cells and composition of bone matrix.",
+            "D": "Irrelevant statement not related to functions of bone cells and composition of bone matrix.",
+            "E": "Incorrect reversal of processes in functions of bone cells and composition of bone matrix."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of functions of bone cells and composition of bone matrix, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 52,
+        "question": "Which statement best describes the compare types of bone: compact vs spongy?",
+        "options": {
+            "A": "Accurate description of compare types of bone: compact vs spongy, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of compare types of bone: compact vs spongy.",
+            "C": "Common misunderstanding about compare types of bone: compact vs spongy.",
+            "D": "Irrelevant statement not related to compare types of bone: compact vs spongy.",
+            "E": "Incorrect reversal of processes in compare types of bone: compact vs spongy."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of compare types of bone: compact vs spongy, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 53,
+        "question": "Which statement best describes the blood supply and innervation of a typical long bone?",
+        "options": {
+            "A": "Accurate description of blood supply and innervation of a typical long bone, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of blood supply and innervation of a typical long bone.",
+            "C": "Common misunderstanding about blood supply and innervation of a typical long bone.",
+            "D": "Irrelevant statement not related to blood supply and innervation of a typical long bone.",
+            "E": "Incorrect reversal of processes in blood supply and innervation of a typical long bone."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of blood supply and innervation of a typical long bone, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 54,
+        "question": "Which statement best describes the factors influencing bone growth?",
+        "options": {
+            "A": "Accurate description of factors influencing bone growth, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of factors influencing bone growth.",
+            "C": "Common misunderstanding about factors influencing bone growth.",
+            "D": "Irrelevant statement not related to factors influencing bone growth.",
+            "E": "Incorrect reversal of processes in factors influencing bone growth."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of factors influencing bone growth, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 55,
+        "question": "Which statement best describes the role of PTH, vitamin D, and calcitonin in calcium homeostasis?",
+        "options": {
+            "A": "Accurate description of role of PTH, vitamin D, and calcitonin in calcium homeostasis, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of role of PTH, vitamin D, and calcitonin in calcium homeostasis.",
+            "C": "Common misunderstanding about role of PTH, vitamin D, and calcitonin in calcium homeostasis.",
+            "D": "Irrelevant statement not related to role of PTH, vitamin D, and calcitonin in calcium homeostasis.",
+            "E": "Incorrect reversal of processes in role of PTH, vitamin D, and calcitonin in calcium homeostasis."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of role of PTH, vitamin D, and calcitonin in calcium homeostasis, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 56,
+        "question": "Which statement best describes the factors influencing bone density?",
+        "options": {
+            "A": "Accurate description of factors influencing bone density, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of factors influencing bone density.",
+            "C": "Common misunderstanding about factors influencing bone density.",
+            "D": "Irrelevant statement not related to factors influencing bone density.",
+            "E": "Incorrect reversal of processes in factors influencing bone density."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of factors influencing bone density, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 57,
+        "question": "Which statement best describes the dietary factors essential for bone growth?",
+        "options": {
+            "A": "Accurate description of dietary factors essential for bone growth, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of dietary factors essential for bone growth.",
+            "C": "Common misunderstanding about dietary factors essential for bone growth.",
+            "D": "Irrelevant statement not related to dietary factors essential for bone growth.",
+            "E": "Incorrect reversal of processes in dietary factors essential for bone growth."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of dietary factors essential for bone growth, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 58,
+        "question": "Which statement best describes the effect of estrogen on osteoblast and osteoclast activity?",
+        "options": {
+            "A": "Accurate description of effect of estrogen on osteoblast and osteoclast activity, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of effect of estrogen on osteoblast and osteoclast activity.",
+            "C": "Common misunderstanding about effect of estrogen on osteoblast and osteoclast activity.",
+            "D": "Irrelevant statement not related to effect of estrogen on osteoblast and osteoclast activity.",
+            "E": "Incorrect reversal of processes in effect of estrogen on osteoblast and osteoclast activity."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of effect of estrogen on osteoblast and osteoclast activity, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 59,
+        "question": "Which statement best describes the process of fracture healing?",
+        "options": {
+            "A": "Accurate description of process of fracture healing, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of process of fracture healing.",
+            "C": "Common misunderstanding about process of fracture healing.",
+            "D": "Irrelevant statement not related to process of fracture healing.",
+            "E": "Incorrect reversal of processes in process of fracture healing."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of process of fracture healing, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 60,
+        "question": "Which statement best describes the functions of osteogenic progenitor cells, osteoblasts, osteoclasts, and osteocytes?",
+        "options": {
+            "A": "Accurate description of functions of osteogenic progenitor cells, osteoblasts, osteoclasts, and osteocytes, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of functions of osteogenic progenitor cells, osteoblasts, osteoclasts, and osteocytes.",
+            "C": "Common misunderstanding about functions of osteogenic progenitor cells, osteoblasts, osteoclasts, and osteocytes.",
+            "D": "Irrelevant statement not related to functions of osteogenic progenitor cells, osteoblasts, osteoclasts, and osteocytes.",
+            "E": "Incorrect reversal of processes in functions of osteogenic progenitor cells, osteoblasts, osteoclasts, and osteocytes."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of functions of osteogenic progenitor cells, osteoblasts, osteoclasts, and osteocytes, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 61,
+        "question": "Which statement best describes the composition of medullary cavity including red and yellow marrow?",
+        "options": {
+            "A": "Accurate description of composition of medullary cavity including red and yellow marrow, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of composition of medullary cavity including red and yellow marrow.",
+            "C": "Common misunderstanding about composition of medullary cavity including red and yellow marrow.",
+            "D": "Irrelevant statement not related to composition of medullary cavity including red and yellow marrow.",
+            "E": "Incorrect reversal of processes in composition of medullary cavity including red and yellow marrow."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of composition of medullary cavity including red and yellow marrow, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 62,
+        "question": "Which statement best describes the identify diaphysis, epiphysis, and metaphysis of a long bone?",
+        "options": {
+            "A": "Accurate description of identify diaphysis, epiphysis, and metaphysis of a long bone, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of identify diaphysis, epiphysis, and metaphysis of a long bone.",
+            "C": "Common misunderstanding about identify diaphysis, epiphysis, and metaphysis of a long bone.",
+            "D": "Irrelevant statement not related to identify diaphysis, epiphysis, and metaphysis of a long bone.",
+            "E": "Incorrect reversal of processes in identify diaphysis, epiphysis, and metaphysis of a long bone."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of identify diaphysis, epiphysis, and metaphysis of a long bone, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 63,
+        "question": "Which statement best describes the compare compact and spongy bone microarchitecture?",
+        "options": {
+            "A": "Accurate description of compare compact and spongy bone microarchitecture, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of compare compact and spongy bone microarchitecture.",
+            "C": "Common misunderstanding about compare compact and spongy bone microarchitecture.",
+            "D": "Irrelevant statement not related to compare compact and spongy bone microarchitecture.",
+            "E": "Incorrect reversal of processes in compare compact and spongy bone microarchitecture."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of compare compact and spongy bone microarchitecture, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 64,
+        "question": "Which statement best describes the outline bone remodeling during adulthood?",
+        "options": {
+            "A": "Accurate description of outline bone remodeling during adulthood, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of outline bone remodeling during adulthood.",
+            "C": "Common misunderstanding about outline bone remodeling during adulthood.",
+            "D": "Irrelevant statement not related to outline bone remodeling during adulthood.",
+            "E": "Incorrect reversal of processes in outline bone remodeling during adulthood."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of outline bone remodeling during adulthood, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 65,
+        "question": "Which statement best describes the functions of skeletal muscle in movement and posture?",
+        "options": {
+            "A": "Accurate description of functions of skeletal muscle in movement and posture, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of functions of skeletal muscle in movement and posture.",
+            "C": "Common misunderstanding about functions of skeletal muscle in movement and posture.",
+            "D": "Irrelevant statement not related to functions of skeletal muscle in movement and posture.",
+            "E": "Incorrect reversal of processes in functions of skeletal muscle in movement and posture."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of functions of skeletal muscle in movement and posture, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 66,
+        "question": "Which statement best describes the difference between isotonic and isometric contractions?",
+        "options": {
+            "A": "Accurate description of difference between isotonic and isometric contractions, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of difference between isotonic and isometric contractions.",
+            "C": "Common misunderstanding about difference between isotonic and isometric contractions.",
+            "D": "Irrelevant statement not related to difference between isotonic and isometric contractions.",
+            "E": "Incorrect reversal of processes in difference between isotonic and isometric contractions."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of difference between isotonic and isometric contractions, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 67,
+        "question": "Which statement best describes the excitation-contraction coupling mechanism details?",
+        "options": {
+            "A": "Accurate description of excitation-contraction coupling mechanism details, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of excitation-contraction coupling mechanism details.",
+            "C": "Common misunderstanding about excitation-contraction coupling mechanism details.",
+            "D": "Irrelevant statement not related to excitation-contraction coupling mechanism details.",
+            "E": "Incorrect reversal of processes in excitation-contraction coupling mechanism details."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of excitation-contraction coupling mechanism details, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 68,
+        "question": "Which statement best describes the structure of a myofibril?",
+        "options": {
+            "A": "Accurate description of structure of a myofibril, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of structure of a myofibril.",
+            "C": "Common misunderstanding about structure of a myofibril.",
+            "D": "Irrelevant statement not related to structure of a myofibril.",
+            "E": "Incorrect reversal of processes in structure of a myofibril."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of structure of a myofibril, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 69,
+        "question": "Which statement best describes the role of calcium, troponin, tropomyosin, actin, myosin, and ATP in muscle contraction?",
+        "options": {
+            "A": "Accurate description of role of calcium, troponin, tropomyosin, actin, myosin, and ATP in muscle contraction, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of role of calcium, troponin, tropomyosin, actin, myosin, and ATP in muscle contraction.",
+            "C": "Common misunderstanding about role of calcium, troponin, tropomyosin, actin, myosin, and ATP in muscle contraction.",
+            "D": "Irrelevant statement not related to role of calcium, troponin, tropomyosin, actin, myosin, and ATP in muscle contraction.",
+            "E": "Incorrect reversal of processes in role of calcium, troponin, tropomyosin, actin, myosin, and ATP in muscle contraction."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of role of calcium, troponin, tropomyosin, actin, myosin, and ATP in muscle contraction, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 70,
+        "question": "Which statement best describes the methods and challenges of pain assessment?",
+        "options": {
+            "A": "Accurate description of methods and challenges of pain assessment, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of methods and challenges of pain assessment.",
+            "C": "Common misunderstanding about methods and challenges of pain assessment.",
+            "D": "Irrelevant statement not related to methods and challenges of pain assessment.",
+            "E": "Incorrect reversal of processes in methods and challenges of pain assessment."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of methods and challenges of pain assessment, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 71,
+        "question": "Which statement best describes the adaptive vs maladaptive coping responses to pain?",
+        "options": {
+            "A": "Accurate description of adaptive vs maladaptive coping responses to pain, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of adaptive vs maladaptive coping responses to pain.",
+            "C": "Common misunderstanding about adaptive vs maladaptive coping responses to pain.",
+            "D": "Irrelevant statement not related to adaptive vs maladaptive coping responses to pain.",
+            "E": "Incorrect reversal of processes in adaptive vs maladaptive coping responses to pain."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of adaptive vs maladaptive coping responses to pain, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 72,
+        "question": "Which statement best describes the bone growth during childhood and adolescence?",
+        "options": {
+            "A": "Accurate description of bone growth during childhood and adolescence, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of bone growth during childhood and adolescence.",
+            "C": "Common misunderstanding about bone growth during childhood and adolescence.",
+            "D": "Irrelevant statement not related to bone growth during childhood and adolescence.",
+            "E": "Incorrect reversal of processes in bone growth during childhood and adolescence."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of bone growth during childhood and adolescence, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 73,
+        "question": "Which statement best describes the radiological appearance of immature bones?",
+        "options": {
+            "A": "Accurate description of radiological appearance of immature bones, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of radiological appearance of immature bones.",
+            "C": "Common misunderstanding about radiological appearance of immature bones.",
+            "D": "Irrelevant statement not related to radiological appearance of immature bones.",
+            "E": "Incorrect reversal of processes in radiological appearance of immature bones."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of radiological appearance of immature bones, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 74,
+        "question": "Which statement best describes the impact of growth plate injury on bone growth?",
+        "options": {
+            "A": "Accurate description of impact of growth plate injury on bone growth, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of impact of growth plate injury on bone growth.",
+            "C": "Common misunderstanding about impact of growth plate injury on bone growth.",
+            "D": "Irrelevant statement not related to impact of growth plate injury on bone growth.",
+            "E": "Incorrect reversal of processes in impact of growth plate injury on bone growth."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of impact of growth plate injury on bone growth, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 75,
+        "question": "Which statement best describes the developmental effects of childhood bone growth on adult skeleton?",
+        "options": {
+            "A": "Accurate description of developmental effects of childhood bone growth on adult skeleton, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of developmental effects of childhood bone growth on adult skeleton.",
+            "C": "Common misunderstanding about developmental effects of childhood bone growth on adult skeleton.",
+            "D": "Irrelevant statement not related to developmental effects of childhood bone growth on adult skeleton.",
+            "E": "Incorrect reversal of processes in developmental effects of childhood bone growth on adult skeleton."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of developmental effects of childhood bone growth on adult skeleton, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 76,
+        "question": "Which statement best describes the causes and consequences of sarcopenia?",
+        "options": {
+            "A": "Accurate description of causes and consequences of sarcopenia, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of causes and consequences of sarcopenia.",
+            "C": "Common misunderstanding about causes and consequences of sarcopenia.",
+            "D": "Irrelevant statement not related to causes and consequences of sarcopenia.",
+            "E": "Incorrect reversal of processes in causes and consequences of sarcopenia."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of causes and consequences of sarcopenia, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 77,
+        "question": "Which statement best describes the define osteopaenia and its age-related effects?",
+        "options": {
+            "A": "Accurate description of define osteopaenia and its age-related effects, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of define osteopaenia and its age-related effects.",
+            "C": "Common misunderstanding about define osteopaenia and its age-related effects.",
+            "D": "Irrelevant statement not related to define osteopaenia and its age-related effects.",
+            "E": "Incorrect reversal of processes in define osteopaenia and its age-related effects."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of define osteopaenia and its age-related effects, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 78,
+        "question": "Which statement best describes the effect of aging on fibrous tissues and cartilage?",
+        "options": {
+            "A": "Accurate description of effect of aging on fibrous tissues and cartilage, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of effect of aging on fibrous tissues and cartilage.",
+            "C": "Common misunderstanding about effect of aging on fibrous tissues and cartilage.",
+            "D": "Irrelevant statement not related to effect of aging on fibrous tissues and cartilage.",
+            "E": "Incorrect reversal of processes in effect of aging on fibrous tissues and cartilage."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of effect of aging on fibrous tissues and cartilage, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 79,
+        "question": "Which statement best describes the effects of vertebral osteoporosis on spine structure?",
+        "options": {
+            "A": "Accurate description of effects of vertebral osteoporosis on spine structure, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of effects of vertebral osteoporosis on spine structure.",
+            "C": "Common misunderstanding about effects of vertebral osteoporosis on spine structure.",
+            "D": "Irrelevant statement not related to effects of vertebral osteoporosis on spine structure.",
+            "E": "Incorrect reversal of processes in effects of vertebral osteoporosis on spine structure."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of effects of vertebral osteoporosis on spine structure, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 80,
+        "question": "Which statement best describes the indications and interpretation of limb radiographs?",
+        "options": {
+            "A": "Accurate description of indications and interpretation of limb radiographs, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of indications and interpretation of limb radiographs.",
+            "C": "Common misunderstanding about indications and interpretation of limb radiographs.",
+            "D": "Irrelevant statement not related to indications and interpretation of limb radiographs.",
+            "E": "Incorrect reversal of processes in indications and interpretation of limb radiographs."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of indications and interpretation of limb radiographs, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 81,
+        "question": "Which statement best describes the identify fractures and growth plates on X-ray?",
+        "options": {
+            "A": "Accurate description of identify fractures and growth plates on X-ray, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of identify fractures and growth plates on X-ray.",
+            "C": "Common misunderstanding about identify fractures and growth plates on X-ray.",
+            "D": "Irrelevant statement not related to identify fractures and growth plates on X-ray.",
+            "E": "Incorrect reversal of processes in identify fractures and growth plates on X-ray."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of identify fractures and growth plates on X-ray, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 82,
+        "question": "Which statement best describes the surface anatomy and auscultation of chest for respiratory exam?",
+        "options": {
+            "A": "Accurate description of surface anatomy and auscultation of chest for respiratory exam, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of surface anatomy and auscultation of chest for respiratory exam.",
+            "C": "Common misunderstanding about surface anatomy and auscultation of chest for respiratory exam.",
+            "D": "Irrelevant statement not related to surface anatomy and auscultation of chest for respiratory exam.",
+            "E": "Incorrect reversal of processes in surface anatomy and auscultation of chest for respiratory exam."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of surface anatomy and auscultation of chest for respiratory exam, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 83,
+        "question": "Which statement best describes the identify upper respiratory tract structures on radiographs?",
+        "options": {
+            "A": "Accurate description of identify upper respiratory tract structures on radiographs, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of identify upper respiratory tract structures on radiographs.",
+            "C": "Common misunderstanding about identify upper respiratory tract structures on radiographs.",
+            "D": "Irrelevant statement not related to identify upper respiratory tract structures on radiographs.",
+            "E": "Incorrect reversal of processes in identify upper respiratory tract structures on radiographs."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of identify upper respiratory tract structures on radiographs, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 84,
+        "question": "Which statement best describes the mechanisms of GI tract motility and regulation?",
+        "options": {
+            "A": "Accurate description of mechanisms of GI tract motility and regulation, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of mechanisms of GI tract motility and regulation.",
+            "C": "Common misunderstanding about mechanisms of GI tract motility and regulation.",
+            "D": "Irrelevant statement not related to mechanisms of GI tract motility and regulation.",
+            "E": "Incorrect reversal of processes in mechanisms of GI tract motility and regulation."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of mechanisms of GI tract motility and regulation, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 85,
+        "question": "Which statement best describes the roles of GI hormones and paracrine factors in digestion?",
+        "options": {
+            "A": "Accurate description of roles of GI hormones and paracrine factors in digestion, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of roles of GI hormones and paracrine factors in digestion.",
+            "C": "Common misunderstanding about roles of GI hormones and paracrine factors in digestion.",
+            "D": "Irrelevant statement not related to roles of GI hormones and paracrine factors in digestion.",
+            "E": "Incorrect reversal of processes in roles of GI hormones and paracrine factors in digestion."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of roles of GI hormones and paracrine factors in digestion, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 86,
+        "question": "Which statement best describes the structure and function of liver in metabolism and bile production?",
+        "options": {
+            "A": "Accurate description of structure and function of liver in metabolism and bile production, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of structure and function of liver in metabolism and bile production.",
+            "C": "Common misunderstanding about structure and function of liver in metabolism and bile production.",
+            "D": "Irrelevant statement not related to structure and function of liver in metabolism and bile production.",
+            "E": "Incorrect reversal of processes in structure and function of liver in metabolism and bile production."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of structure and function of liver in metabolism and bile production, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 87,
+        "question": "Which statement best describes the assessment of nutritional status and malnutrition in hospital settings?",
+        "options": {
+            "A": "Accurate description of assessment of nutritional status and malnutrition in hospital settings, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of assessment of nutritional status and malnutrition in hospital settings.",
+            "C": "Common misunderstanding about assessment of nutritional status and malnutrition in hospital settings.",
+            "D": "Irrelevant statement not related to assessment of nutritional status and malnutrition in hospital settings.",
+            "E": "Incorrect reversal of processes in assessment of nutritional status and malnutrition in hospital settings."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of assessment of nutritional status and malnutrition in hospital settings, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 88,
+        "question": "Which statement best describes the principles of energy balance and obesity treatment?",
+        "options": {
+            "A": "Accurate description of principles of energy balance and obesity treatment, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of principles of energy balance and obesity treatment.",
+            "C": "Common misunderstanding about principles of energy balance and obesity treatment.",
+            "D": "Irrelevant statement not related to principles of energy balance and obesity treatment.",
+            "E": "Incorrect reversal of processes in principles of energy balance and obesity treatment."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of principles of energy balance and obesity treatment, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 89,
+        "question": "Which statement best describes the structure and components of a whole person medical history?",
+        "options": {
+            "A": "Accurate description of structure and components of a whole person medical history, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of structure and components of a whole person medical history.",
+            "C": "Common misunderstanding about structure and components of a whole person medical history.",
+            "D": "Irrelevant statement not related to structure and components of a whole person medical history.",
+            "E": "Incorrect reversal of processes in structure and components of a whole person medical history."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of structure and components of a whole person medical history, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 90,
+        "question": "Which statement best describes the components of whole person clinical examination?",
+        "options": {
+            "A": "Accurate description of components of whole person clinical examination, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of components of whole person clinical examination.",
+            "C": "Common misunderstanding about components of whole person clinical examination.",
+            "D": "Irrelevant statement not related to components of whole person clinical examination.",
+            "E": "Incorrect reversal of processes in components of whole person clinical examination."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of components of whole person clinical examination, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 91,
+        "question": "Which statement best describes the hypothesis generation from clinical assessment?",
+        "options": {
+            "A": "Accurate description of hypothesis generation from clinical assessment, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of hypothesis generation from clinical assessment.",
+            "C": "Common misunderstanding about hypothesis generation from clinical assessment.",
+            "D": "Irrelevant statement not related to hypothesis generation from clinical assessment.",
+            "E": "Incorrect reversal of processes in hypothesis generation from clinical assessment."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of hypothesis generation from clinical assessment, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 92,
+        "question": "Which statement best describes the present clinical information coherently?",
+        "options": {
+            "A": "Accurate description of present clinical information coherently, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of present clinical information coherently.",
+            "C": "Common misunderstanding about present clinical information coherently.",
+            "D": "Irrelevant statement not related to present clinical information coherently.",
+            "E": "Incorrect reversal of processes in present clinical information coherently."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of present clinical information coherently, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 93,
+        "question": "Which statement best describes the effective consultation closing techniques and safety-netting?",
+        "options": {
+            "A": "Accurate description of effective consultation closing techniques and safety-netting, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of effective consultation closing techniques and safety-netting.",
+            "C": "Common misunderstanding about effective consultation closing techniques and safety-netting.",
+            "D": "Irrelevant statement not related to effective consultation closing techniques and safety-netting.",
+            "E": "Incorrect reversal of processes in effective consultation closing techniques and safety-netting."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of effective consultation closing techniques and safety-netting, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 94,
+        "question": "Which statement best describes the ICE framework: patient ideas, concerns, and expectations?",
+        "options": {
+            "A": "Accurate description of ICE framework: patient ideas, concerns, and expectations, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of ICE framework: patient ideas, concerns, and expectations.",
+            "C": "Common misunderstanding about ICE framework: patient ideas, concerns, and expectations.",
+            "D": "Irrelevant statement not related to ICE framework: patient ideas, concerns, and expectations.",
+            "E": "Incorrect reversal of processes in ICE framework: patient ideas, concerns, and expectations."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of ICE framework: patient ideas, concerns, and expectations, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 95,
+        "question": "Which statement best describes the use of open-ended questions in motivational interviewing?",
+        "options": {
+            "A": "Accurate description of use of open-ended questions in motivational interviewing, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of use of open-ended questions in motivational interviewing.",
+            "C": "Common misunderstanding about use of open-ended questions in motivational interviewing.",
+            "D": "Irrelevant statement not related to use of open-ended questions in motivational interviewing.",
+            "E": "Incorrect reversal of processes in use of open-ended questions in motivational interviewing."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of use of open-ended questions in motivational interviewing, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 96,
+        "question": "Which statement best describes the first aid: structure and components of medical history including cognitive function?",
+        "options": {
+            "A": "Accurate description of first aid: structure and components of medical history including cognitive function, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of first aid: structure and components of medical history including cognitive function.",
+            "C": "Common misunderstanding about first aid: structure and components of medical history including cognitive function.",
+            "D": "Irrelevant statement not related to first aid: structure and components of medical history including cognitive function.",
+            "E": "Incorrect reversal of processes in first aid: structure and components of medical history including cognitive function."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of first aid: structure and components of medical history including cognitive function, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 97,
+        "question": "Which statement best describes the structure and function assessment of cardio-respiratory system clinically?",
+        "options": {
+            "A": "Accurate description of structure and function assessment of cardio-respiratory system clinically, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of structure and function assessment of cardio-respiratory system clinically.",
+            "C": "Common misunderstanding about structure and function assessment of cardio-respiratory system clinically.",
+            "D": "Irrelevant statement not related to structure and function assessment of cardio-respiratory system clinically.",
+            "E": "Incorrect reversal of processes in structure and function assessment of cardio-respiratory system clinically."
+        },
+        "answer": "B",
+        "explanation": "Option B is correct because it accurately captures the essential aspects of structure and function assessment of cardio-respiratory system clinically, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 98,
+        "question": "Which statement best describes the risk factors for cardiovascular disease and prevention roles?",
+        "options": {
+            "A": "Accurate description of risk factors for cardiovascular disease and prevention roles, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of risk factors for cardiovascular disease and prevention roles.",
+            "C": "Common misunderstanding about risk factors for cardiovascular disease and prevention roles.",
+            "D": "Irrelevant statement not related to risk factors for cardiovascular disease and prevention roles.",
+            "E": "Incorrect reversal of processes in risk factors for cardiovascular disease and prevention roles."
+        },
+        "answer": "C",
+        "explanation": "Option C is correct because it accurately captures the essential aspects of risk factors for cardiovascular disease and prevention roles, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 99,
+        "question": "Which statement best describes the systematic review features and meta-analysis introduction?",
+        "options": {
+            "A": "Accurate description of systematic review features and meta-analysis introduction, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of systematic review features and meta-analysis introduction.",
+            "C": "Common misunderstanding about systematic review features and meta-analysis introduction.",
+            "D": "Irrelevant statement not related to systematic review features and meta-analysis introduction.",
+            "E": "Incorrect reversal of processes in systematic review features and meta-analysis introduction."
+        },
+        "answer": "D",
+        "explanation": "Option D is correct because it accurately captures the essential aspects of systematic review features and meta-analysis introduction, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 100,
+        "question": "Which statement best describes the interpretation of pressure-volume loops and Starling curves?",
+        "options": {
+            "A": "Accurate description of interpretation of pressure-volume loops and Starling curves, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of interpretation of pressure-volume loops and Starling curves.",
+            "C": "Common misunderstanding about interpretation of pressure-volume loops and Starling curves.",
+            "D": "Irrelevant statement not related to interpretation of pressure-volume loops and Starling curves.",
+            "E": "Incorrect reversal of processes in interpretation of pressure-volume loops and Starling curves."
+        },
+        "answer": "E",
+        "explanation": "Option E is correct because it accurately captures the essential aspects of interpretation of pressure-volume loops and Starling curves, including its underlying physiology and clinical relevance."
+    },
+    {
+        "id": 101,
+        "question": "Which statement best describes the definitions and clinical significance of bradycardia and tachycardia?",
+        "options": {
+            "A": "Accurate description of definitions and clinical significance of bradycardia and tachycardia, detailing key mechanisms.",
+            "B": "Partial account missing crucial elements of definitions and clinical significance of bradycardia and tachycardia.",
+            "C": "Common misunderstanding about definitions and clinical significance of bradycardia and tachycardia.",
+            "D": "Irrelevant statement not related to definitions and clinical significance of bradycardia and tachycardia.",
+            "E": "Incorrect reversal of processes in definitions and clinical significance of bradycardia and tachycardia."
+        },
+        "answer": "A",
+        "explanation": "Option A is correct because it accurately captures the essential aspects of definitions and clinical significance of bradycardia and tachycardia, including its underlying physiology and clinical relevance."
+    }
 ]
