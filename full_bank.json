@@ -8888,5 +8888,1055 @@
     "answer": "B",
     "explanation": "CN VII (facial nerve) innervates all muscles of facial expression.",
     "category": "FOM-Anatomy"
+  },
+    {
+    "id": 636,
+    "question": "Which muscle initiates abduction of the shoulder joint?",
+    "options": {
+      "A": "Deltoid",
+      "B": "Supraspinatus",
+      "C": "Infraspinatus",
+      "D": "Teres major",
+      "E": "Pectoralis major"
+    },
+    "answer": "B",
+    "explanation": "The supraspinatus initiates the first 15° of abduction before the deltoid takes over.",
+    "category": "HHWB-MSK"
+  },
+  {
+    "id": 637,
+    "question": "Which joint is the most commonly dislocated in the body?",
+    "options": {
+      "A": "Elbow",
+      "B": "Shoulder",
+      "C": "Hip",
+      "D": "Knee",
+      "E": "Wrist"
+    },
+    "answer": "B",
+    "explanation": "The shoulder (glenohumeral) joint is the most commonly dislocated due to its wide range of motion and shallow socket.",
+    "category": "HHWB-MSK"
+  },
+  {
+    "id": 638,
+    "question": "What nerve is commonly injured in shoulder dislocations, leading to deltoid paralysis?",
+    "options": {
+      "A": "Radial nerve",
+      "B": "Ulnar nerve",
+      "C": "Axillary nerve",
+      "D": "Long thoracic nerve",
+      "E": "Median nerve"
+    },
+    "answer": "C",
+    "explanation": "The axillary nerve is closely associated with the surgical neck of the humerus and is at risk during anterior shoulder dislocations.",
+    "category": "HHWB-MSK"
+  },
+  {
+    "id": 639,
+    "question": "Which muscle is most commonly involved in rotator cuff tendon tears?",
+    "options": {
+      "A": "Teres minor",
+      "B": "Subscapularis",
+      "C": "Supraspinatus",
+      "D": "Infraspinatus",
+      "E": "Latissimus dorsi"
+    },
+    "answer": "C",
+    "explanation": "The supraspinatus tendon is vulnerable to impingement under the acromion and is the most frequently torn rotator cuff tendon.",
+    "category": "HHWB-MSK"
+  },
+  {
+    "id": 640,
+    "question": "Which structure prevents upward displacement of the head of the humerus?",
+    "options": {
+      "A": "Deltoid",
+      "B": "Coracoid process",
+      "C": "Coracoacromial arch",
+      "D": "Subscapularis",
+      "E": "Acromioclavicular ligament"
+    },
+    "answer": "C",
+    "explanation": "The coracoacromial arch forms a protective roof that prevents superior displacement of the humeral head.",
+    "category": "HHWB-MSK"
+  },
+  {
+    "id": 641,
+    "question": "The most commonly fractured bone in the body is the:",
+    "options": {
+      "A": "Scapula",
+      "B": "Radius",
+      "C": "Clavicle",
+      "D": "Femur",
+      "E": "Ulna"
+    },
+    "answer": "C",
+    "explanation": "The clavicle is commonly fractured, especially at its middle third, due to falls on an outstretched hand or shoulder.",
+    "category": "HHWB-MSK"
+  },
+  {
+    "id": 642,
+    "question": "Injury to which nerve causes a 'winged scapula'?",
+    "options": {
+      "A": "Axillary nerve",
+      "B": "Long thoracic nerve",
+      "C": "Musculocutaneous nerve",
+      "D": "Radial nerve",
+      "E": "Thoracodorsal nerve"
+    },
+    "answer": "B",
+    "explanation": "The long thoracic nerve innervates the serratus anterior, and injury results in medial winging of the scapula.",
+    "category": "HHWB-MSK"
+  },
+  {
+    "id": 643,
+    "question": "Which of the following best describes the sternoclavicular joint?",
+    "options": {
+      "A": "Ball and socket",
+      "B": "Plane",
+      "C": "Hinge",
+      "D": "Saddle",
+      "E": "Fibrous"
+    },
+    "answer": "D",
+    "explanation": "The sternoclavicular joint is a saddle-type synovial joint allowing elevation, depression, protraction, and rotation.",
+    "category": "HHWB-MSK"
+  },
+  {
+    "id": 644,
+    "question": "What type of joint is the proximal radioulnar joint?",
+    "options": {
+      "A": "Hinge",
+      "B": "Ball and socket",
+      "C": "Pivot",
+      "D": "Saddle",
+      "E": "Plane"
+    },
+    "answer": "C",
+    "explanation": "The proximal and distal radioulnar joints are pivot joints, allowing pronation and supination.",
+    "category": "HHWB-MSK"
+  },
+  {
+    "id": 645,
+    "question": "Which muscle acts as a powerful supinator of the forearm, particularly when the elbow is flexed?",
+    "options": {
+      "A": "Brachialis",
+      "B": "Pronator teres",
+      "C": "Supinator",
+      "D": "Biceps brachii",
+      "E": "Triceps brachii"
+    },
+    "answer": "D",
+    "explanation": "The biceps brachii is a powerful supinator, especially when the forearm is flexed.",
+    "category": "HHWB-MSK"
+  },
+  {
+    "id": 646,
+    "question": "What structure lies within the anatomical snuffbox and is commonly fractured?",
+    "options": {
+      "A": "Pisiform",
+      "B": "Hamate",
+      "C": "Scaphoid",
+      "D": "Lunate",
+      "E": "Trapezium"
+    },
+    "answer": "C",
+    "explanation": "The scaphoid bone lies in the anatomical snuffbox and is commonly fractured following FOOSH injuries.",
+    "category": "HHWB-MSK"
+  },
+  {
+    "id": 647,
+    "question": "Which nerve is compressed in carpal tunnel syndrome?",
+    "options": {
+      "A": "Ulnar nerve",
+      "B": "Radial nerve",
+      "C": "Median nerve",
+      "D": "Axillary nerve",
+      "E": "Musculocutaneous nerve"
+    },
+    "answer": "C",
+    "explanation": "The median nerve passes through the carpal tunnel and is compressed in carpal tunnel syndrome.",
+    "category": "HHWB-MSK"
+  },
+  {
+    "id": 648,
+    "question": "Which muscle extends the forearm at the elbow joint?",
+    "options": {
+      "A": "Biceps brachii",
+      "B": "Brachialis",
+      "C": "Triceps brachii",
+      "D": "Anconeus",
+      "E": "Deltoid"
+    },
+    "answer": "C",
+    "explanation": "The triceps brachii is the primary extensor of the forearm at the elbow joint.",
+    "category": "HHWB-MSK"
+  },
+  {
+    "id": 649,
+    "question": "What is the typical mechanism of injury in a 'pulled elbow' in children?",
+    "options": {
+      "A": "Fall on outstretched hand",
+      "B": "Lifting a child by the arm",
+      "C": "Direct blow to elbow",
+      "D": "Fracture of radial head",
+      "E": "Hyperextension during sports"
+    },
+    "answer": "B",
+    "explanation": "A pulled elbow is due to sudden traction on the arm, causing the radial head to slip out of the annular ligament.",
+    "category": "HHWB-MSK"
+  },
+  {
+    "id": 650,
+    "question": "What joint stabilizing structure allows the radius to rotate against the ulna?",
+    "options": {
+      "A": "Coracoacromial ligament",
+      "B": "Annular ligament",
+      "C": "Ulnar collateral ligament",
+      "D": "Interosseous membrane",
+      "E": "Flexor retinaculum"
+    },
+    "answer": "B",
+    "explanation": "The annular ligament encircles the head of the radius, allowing pivoting during pronation and supination.",
+    "category": "HHWB-MSK"
+  },
+    {
+    "id": 651,
+    "question": "Which chamber of the heart receives oxygenated blood from the lungs?",
+    "options": {
+      "A": "Right atrium",
+      "B": "Left atrium",
+      "C": "Right ventricle",
+      "D": "Left ventricle",
+      "E": "Coronary sinus"
+    },
+    "answer": "B",
+    "explanation": "The left atrium receives oxygenated blood via the four pulmonary veins.",
+    "category": "HHWB-CVS"
+  },
+  {
+    "id": 652,
+    "question": "Which heart valve has two leaflets and is located between the left atrium and ventricle?",
+    "options": {
+      "A": "Tricuspid valve",
+      "B": "Aortic valve",
+      "C": "Pulmonary valve",
+      "D": "Mitral valve",
+      "E": "Eustachian valve"
+    },
+    "answer": "D",
+    "explanation": "The mitral valve is a bicuspid valve separating the left atrium and left ventricle.",
+    "category": "HHWB-CVS"
+  },
+  {
+    "id": 653,
+    "question": "What structure insulates the atria from the ventricles electrically?",
+    "options": {
+      "A": "Interatrial septum",
+      "B": "Fibrous skeleton of the heart",
+      "C": "AV node",
+      "D": "Bundle of His",
+      "E": "Pericardium"
+    },
+    "answer": "B",
+    "explanation": "The fibrous skeleton electrically isolates the atria from the ventricles, allowing proper conduction timing.",
+    "category": "HHWB-CVS"
+  },
+  {
+    "id": 654,
+    "question": "Which coronary artery most commonly supplies the sinoatrial (SA) node?",
+    "options": {
+      "A": "Left anterior descending artery",
+      "B": "Right coronary artery",
+      "C": "Circumflex artery",
+      "D": "Posterior descending artery",
+      "E": "Great cardiac vein"
+    },
+    "answer": "B",
+    "explanation": "The right coronary artery supplies the SA node in approximately 60% of people.",
+    "category": "HHWB-CVS"
+  },
+  {
+    "id": 655,
+    "question": "What is the function of the septomarginal trabecula (moderator band)?",
+    "options": {
+      "A": "Prevents valve prolapse",
+      "B": "Conducts AV node signals to papillary muscles",
+      "C": "Supports coronary circulation",
+      "D": "Anchors the chordae tendineae",
+      "E": "Insulates atrial impulses"
+    },
+    "answer": "B",
+    "explanation": "The moderator band carries conduction signals to the anterior papillary muscle of the right ventricle.",
+    "category": "HHWB-CVS"
+  },
+  {
+    "id": 656,
+    "question": "The aortic valve normally has how many cusps?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "None"
+    },
+    "answer": "C",
+    "explanation": "The aortic valve is a tricuspid semilunar valve with three cusps.",
+    "category": "HHWB-CVS"
+  },
+  {
+    "id": 657,
+    "question": "What nerve provides parasympathetic innervation to the heart?",
+    "options": {
+      "A": "Phrenic nerve",
+      "B": "Sympathetic trunk",
+      "C": "Vagus nerve",
+      "D": "Accessory nerve",
+      "E": "Intercostal nerve"
+    },
+    "answer": "C",
+    "explanation": "Parasympathetic innervation to the heart is via the vagus nerve, which decreases heart rate.",
+    "category": "HHWB-CVS"
+  },
+  {
+    "id": 658,
+    "question": "Which vein drains most venous blood from the myocardium?",
+    "options": {
+      "A": "Great cardiac vein",
+      "B": "Middle cardiac vein",
+      "C": "Small cardiac vein",
+      "D": "Anterior cardiac veins",
+      "E": "Coronary sinus"
+    },
+    "answer": "E",
+    "explanation": "The coronary sinus collects blood from major cardiac veins and drains into the right atrium.",
+    "category": "HHWB-CVS"
+  },
+  {
+    "id": 659,
+    "question": "Which part of the heart forms the apex beat felt on clinical examination?",
+    "options": {
+      "A": "Right atrium",
+      "B": "Left atrium",
+      "C": "Right ventricle",
+      "D": "Left ventricle",
+      "E": "Pulmonary trunk"
+    },
+    "answer": "D",
+    "explanation": "The apex beat is produced by the inferolateral wall of the left ventricle.",
+    "category": "HHWB-CVS"
+  },
+  {
+    "id": 660,
+    "question": "The left coronary artery arises from which structure?",
+    "options": {
+      "A": "Right coronary sinus",
+      "B": "Pulmonary trunk",
+      "C": "Ascending aorta",
+      "D": "Descending aorta",
+      "E": "Superior vena cava"
+    },
+    "answer": "C",
+    "explanation": "The left coronary artery originates from the left aortic (coronary) sinus of the ascending aorta.",
+    "category": "HHWB-CVS"
+  },
+  {
+    "id": 661,
+    "question": "Which structure carries the signal from the AV node to the ventricles?",
+    "options": {
+      "A": "SA node",
+      "B": "Purkinje fibres",
+      "C": "Bundle of His",
+      "D": "Moderator band",
+      "E": "Cardiac plexus"
+    },
+    "answer": "C",
+    "explanation": "The Bundle of His conducts impulses from the AV node to the right and left bundle branches.",
+    "category": "HHWB-CVS"
+  },
+  {
+    "id": 662,
+    "question": "Pain from the pericardium may be referred to the shoulder due to involvement of which nerve?",
+    "options": {
+      "A": "Vagus nerve",
+      "B": "Sympathetic trunk",
+      "C": "Phrenic nerve",
+      "D": "Intercostal nerves",
+      "E": "Greater splanchnic nerve"
+    },
+    "answer": "C",
+    "explanation": "The phrenic nerve (C3–C5) innervates the fibrous and parietal pericardium, referring pain to the shoulder (C4 dermatome).",
+    "category": "HHWB-CVS"
+  },
+  {
+    "id": 663,
+    "question": "What is the function of the coronary sinus valve (Thebesian valve)?",
+    "options": {
+      "A": "Prevents backflow into the aorta",
+      "B": "Regulates flow into the left atrium",
+      "C": "Protects entry of coronary sinus into the right atrium",
+      "D": "Anchors chordae tendineae",
+      "E": "Closes during atrial systole"
+    },
+    "answer": "C",
+    "explanation": "The Thebesian valve guards the opening of the coronary sinus to prevent regurgitation into it.",
+    "category": "HHWB-CVS"
+  },
+  {
+    "id": 664,
+    "question": "Which component of the heart's conduction system sets the normal heart rate?",
+    "options": {
+      "A": "AV node",
+      "B": "Bundle of His",
+      "C": "SA node",
+      "D": "Purkinje fibres",
+      "E": "Vagus nerve"
+    },
+    "answer": "C",
+    "explanation": "The sinoatrial (SA) node is the heart’s natural pacemaker, initiating impulses at ~60–100 bpm.",
+    "category": "HHWB-CVS"
+  },
+  {
+    "id": 665,
+    "question": "Which valve controls the outflow of blood from the right ventricle to the pulmonary artery?",
+    "options": {
+      "A": "Tricuspid valve",
+      "B": "Mitral valve",
+      "C": "Pulmonary valve",
+      "D": "Aortic valve",
+      "E": "Bicuspid valve"
+    },
+    "answer": "C",
+    "explanation": "The pulmonary valve lies between the right ventricle and pulmonary artery and prevents backflow during diastole.",
+    "category": "HHWB-CVS"
+  },
+    {
+    "id": 666,
+    "question": "Which muscle is the primary driver of inspiration during quiet breathing?",
+    "options": {
+      "A": "External oblique",
+      "B": "Diaphragm",
+      "C": "Internal intercostals",
+      "D": "Sternocleidomastoid",
+      "E": "Rectus abdominis"
+    },
+    "answer": "B",
+    "explanation": "The diaphragm is the main muscle of inspiration, contracting to increase thoracic volume during quiet breathing.",
+    "category": "HHWB-RESP"
+  },
+  {
+    "id": 667,
+    "question": "Which level of the vertebral column corresponds to the carina of the trachea?",
+    "options": {
+      "A": "T2",
+      "B": "T4/T5",
+      "C": "T6",
+      "D": "C7",
+      "E": "T12"
+    },
+    "answer": "B",
+    "explanation": "The trachea bifurcates at the level of the sternal angle, which corresponds to T4/T5.",
+    "category": "HHWB-RESP"
+  },
+  {
+    "id": 668,
+    "question": "What type of epithelium lines the majority of the respiratory tract?",
+    "options": {
+      "A": "Stratified squamous",
+      "B": "Simple squamous",
+      "C": "Pseudostratified columnar ciliated",
+      "D": "Simple cuboidal",
+      "E": "Transitional"
+    },
+    "answer": "C",
+    "explanation": "The respiratory epithelium is primarily pseudostratified columnar with cilia and goblet cells to trap and move particles.",
+    "category": "HHWB-RESP"
+  },
+  {
+    "id": 669,
+    "question": "Which paranasal sinus is most commonly involved in sinusitis?",
+    "options": {
+      "A": "Ethmoid",
+      "B": "Frontal",
+      "C": "Maxillary",
+      "D": "Sphenoid",
+      "E": "Lacrimal"
+    },
+    "answer": "C",
+    "explanation": "The maxillary sinus has poor drainage due to the position of its ostium, making it most commonly affected in sinusitis.",
+    "category": "HHWB-RESP"
+  },
+  {
+    "id": 670,
+    "question": "Which nerve provides motor innervation to most of the laryngeal muscles?",
+    "options": {
+      "A": "Glossopharyngeal nerve",
+      "B": "Superior laryngeal nerve",
+      "C": "Recurrent laryngeal nerve",
+      "D": "Hypoglossal nerve",
+      "E": "Vagus nerve directly"
+    },
+    "answer": "C",
+    "explanation": "The recurrent laryngeal nerve (a branch of the vagus) innervates all intrinsic laryngeal muscles except cricothyroid.",
+    "category": "HHWB-RESP"
+  },
+  {
+    "id": 671,
+    "question": "Which structure passes through the diaphragm at the T10 level?",
+    "options": {
+      "A": "Aorta",
+      "B": "Esophagus",
+      "C": "Inferior vena cava",
+      "D": "Thoracic duct",
+      "E": "Sympathetic trunk"
+    },
+    "answer": "B",
+    "explanation": "The esophagus passes through the diaphragm at the T10 vertebral level along with the vagus nerves.",
+    "category": "HHWB-RESP"
+  },
+  {
+    "id": 672,
+    "question": "Which nerve lies between the anterior and middle scalene muscles?",
+    "options": {
+      "A": "Vagus nerve",
+      "B": "Phrenic nerve",
+      "C": "Brachial plexus",
+      "D": "Sympathetic chain",
+      "E": "Intercostal nerve"
+    },
+    "answer": "C",
+    "explanation": "The brachial plexus passes between the anterior and middle scalene muscles in the neck.",
+    "category": "HHWB-RESP"
+  },
+  {
+    "id": 673,
+    "question": "Which lung has three lobes and is shorter due to the liver below it?",
+    "options": {
+      "A": "Left lung",
+      "B": "Right lung",
+      "C": "Both lungs",
+      "D": "Neither lung",
+      "E": "It varies between individuals"
+    },
+    "answer": "B",
+    "explanation": "The right lung has three lobes and is shorter because the liver pushes up the right diaphragm.",
+    "category": "HHWB-RESP"
+  },
+  {
+    "id": 674,
+    "question": "What type of cartilage supports the tracheal wall?",
+    "options": {
+      "A": "Elastic cartilage",
+      "B": "Fibrocartilage",
+      "C": "C-shaped hyaline cartilage",
+      "D": "C-shaped fibrocartilage",
+      "E": "Complete rings of bone"
+    },
+    "answer": "C",
+    "explanation": "The trachea is supported by C-shaped rings of hyaline cartilage, open posteriorly for esophageal expansion.",
+    "category": "HHWB-RESP"
+  },
+  {
+    "id": 675,
+    "question": "What structure separates the superior and middle lobes of the right lung?",
+    "options": {
+      "A": "Oblique fissure",
+      "B": "Horizontal fissure",
+      "C": "Bronchial ridge",
+      "D": "Costodiaphragmatic recess",
+      "E": "Carina"
+    },
+    "answer": "B",
+    "explanation": "The horizontal fissure divides the superior and middle lobes of the right lung.",
+    "category": "HHWB-RESP"
+  },
+  {
+    "id": 676,
+    "question": "Which muscle is an accessory muscle of expiration?",
+    "options": {
+      "A": "Sternocleidomastoid",
+      "B": "Diaphragm",
+      "C": "External intercostals",
+      "D": "Internal oblique",
+      "E": "Scalene"
+    },
+    "answer": "D",
+    "explanation": "The internal oblique is one of the abdominal muscles that aids in forced expiration.",
+    "category": "HHWB-RESP"
+  },
+  {
+    "id": 677,
+    "question": "Which vessel supplies the posterior intercostal arteries?",
+    "options": {
+      "A": "Internal thoracic artery",
+      "B": "Thoracic duct",
+      "C": "Descending aorta",
+      "D": "Azygos vein",
+      "E": "Superior vena cava"
+    },
+    "answer": "C",
+    "explanation": "The posterior intercostal arteries arise from the descending (thoracic) aorta.",
+    "category": "HHWB-RESP"
+  },
+  {
+    "id": 678,
+    "question": "Which nerve supplies the parietal pleura and is sensitive to pain?",
+    "options": {
+      "A": "Vagus nerve",
+      "B": "Intercostal nerves",
+      "C": "Sympathetic chain",
+      "D": "Phrenic nerve",
+      "E": "Greater splanchnic nerve"
+    },
+    "answer": "B",
+    "explanation": "The parietal pleura is somatically innervated by the intercostal nerves and is pain-sensitive.",
+    "category": "HHWB-RESP"
+  },
+  {
+    "id": 679,
+    "question": "What is the primary function of the pleural fluid?",
+    "options": {
+      "A": "Nutrient exchange",
+      "B": "Pressure regulation",
+      "C": "Lubrication during respiration",
+      "D": "Prevent infections",
+      "E": "Facilitate lymphatic drainage"
+    },
+    "answer": "C",
+    "explanation": "Pleural fluid reduces friction between pleural surfaces during breathing.",
+    "category": "HHWB-RESP"
+  },
+  {
+    "id": 680,
+    "question": "Shingles on the chest wall affects which neural structure?",
+    "options": {
+      "A": "Dorsal root ganglion",
+      "B": "Intercostal artery",
+      "C": "Sympathetic chain",
+      "D": "Brachial plexus",
+      "E": "Phrenic nerve"
+    },
+    "answer": "A",
+    "explanation": "Shingles (reactivated VZV) lies dormant in the dorsal root ganglia and affects a single dermatome.",
+    "category": "HHWB-RESP"
+  },
+    {
+    "id": 681,
+    "question": "Which gyrus contains the primary motor cortex?",
+    "options": {
+      "A": "Postcentral gyrus",
+      "B": "Cingulate gyrus",
+      "C": "Precentral gyrus",
+      "D": "Superior temporal gyrus",
+      "E": "Lingual gyrus"
+    },
+    "answer": "C",
+    "explanation": "The primary motor cortex is located in the precentral gyrus of the frontal lobe.",
+    "category": "HHWB-NEURO"
+  },
+  {
+    "id": 682,
+    "question": "What type of fibers connect the two cerebral hemispheres?",
+    "options": {
+      "A": "Projection fibers",
+      "B": "Association fibers",
+      "C": "Commissural fibers",
+      "D": "Corticospinal fibers",
+      "E": "Reticulospinal fibers"
+    },
+    "answer": "C",
+    "explanation": "Commissural fibers, like the corpus callosum, connect the left and right cerebral hemispheres.",
+    "category": "HHWB-NEURO"
+  },
+  {
+    "id": 683,
+    "question": "Which structure contains the substantia nigra, which is affected in Parkinson’s disease?",
+    "options": {
+      "A": "Thalamus",
+      "B": "Medulla",
+      "C": "Pons",
+      "D": "Midbrain",
+      "E": "Cerebellum"
+    },
+    "answer": "D",
+    "explanation": "The substantia nigra is located in the midbrain and degenerates in Parkinson’s disease.",
+    "category": "HHWB-NEURO"
+  },
+  {
+    "id": 684,
+    "question": "Where do fibers of the corticospinal tract decussate?",
+    "options": {
+      "A": "Pons",
+      "B": "Midbrain",
+      "C": "Medulla",
+      "D": "Internal capsule",
+      "E": "Thalamus"
+    },
+    "answer": "C",
+    "explanation": "Approximately 85-90% of corticospinal fibers decussate at the pyramids in the medulla.",
+    "category": "HHWB-NEURO"
+  },
+  {
+    "id": 685,
+    "question": "What is the name of the sensory pathway for fine touch and proprioception?",
+    "options": {
+      "A": "Spinothalamic tract",
+      "B": "Spinocerebellar tract",
+      "C": "Corticospinal tract",
+      "D": "Dorsal column–medial lemniscus",
+      "E": "Vestibulospinal tract"
+    },
+    "answer": "D",
+    "explanation": "The dorsal column–medial lemniscus pathway carries fine touch and proprioception.",
+    "category": "HHWB-NEURO"
+  },
+  {
+    "id": 686,
+    "question": "Which part of the brain is responsible for coordination and timing of movement?",
+    "options": {
+      "A": "Thalamus",
+      "B": "Basal nuclei",
+      "C": "Cerebellum",
+      "D": "Corpus callosum",
+      "E": "Hypothalamus"
+    },
+    "answer": "C",
+    "explanation": "The cerebellum fine-tunes motor activity for balance and coordination.",
+    "category": "HHWB-NEURO"
+  },
+  {
+    "id": 687,
+    "question": "Which artery supplies the medial surface of the frontal and parietal lobes?",
+    "options": {
+      "A": "Anterior cerebral artery",
+      "B": "Middle cerebral artery",
+      "C": "Posterior cerebral artery",
+      "D": "Basilar artery",
+      "E": "Vertebral artery"
+    },
+    "answer": "A",
+    "explanation": "The anterior cerebral artery supplies the medial parts of the frontal and parietal lobes.",
+    "category": "HHWB-NEURO"
+  },
+  {
+    "id": 688,
+    "question": "Which tract carries pain and temperature from the body to the brain?",
+    "options": {
+      "A": "Dorsal column",
+      "B": "Corticospinal tract",
+      "C": "Spinothalamic tract",
+      "D": "Vestibulospinal tract",
+      "E": "Rubrospinal tract"
+    },
+    "answer": "C",
+    "explanation": "The lateral spinothalamic tract transmits pain and temperature sensations to the brain.",
+    "category": "HHWB-NEURO"
+  },
+  {
+    "id": 689,
+    "question": "The basal nuclei regulate movement through which neurotransmitter?",
+    "options": {
+      "A": "GABA",
+      "B": "Glutamate",
+      "C": "Dopamine",
+      "D": "Serotonin",
+      "E": "Acetylcholine"
+    },
+    "answer": "C",
+    "explanation": "Dopamine from the substantia nigra modulates activity of the basal nuclei.",
+    "category": "HHWB-NEURO"
+  },
+  {
+    "id": 690,
+    "question": "Which structure connects the hippocampus to the mammillary bodies?",
+    "options": {
+      "A": "Corpus callosum",
+      "B": "Fornix",
+      "C": "Internal capsule",
+      "D": "Anterior commissure",
+      "E": "Optic chiasm"
+    },
+    "answer": "B",
+    "explanation": "The fornix is a white matter tract connecting the hippocampus to the mammillary bodies.",
+    "category": "HHWB-NEURO"
+  },
+  {
+    "id": 691,
+    "question": "What structure is involved in emotional responses and fear processing?",
+    "options": {
+      "A": "Cerebellum",
+      "B": "Thalamus",
+      "C": "Amygdala",
+      "D": "Hippocampus",
+      "E": "Basal nuclei"
+    },
+    "answer": "C",
+    "explanation": "The amygdala is a key limbic structure involved in fear, aggression, and emotional learning.",
+    "category": "HHWB-NEURO"
+  },
+  {
+    "id": 692,
+    "question": "Which nerve root dermatome includes the nipple line?",
+    "options": {
+      "A": "C4",
+      "B": "T1",
+      "C": "T4",
+      "D": "T10",
+      "E": "L1"
+    },
+    "answer": "C",
+    "explanation": "The T4 dermatome corresponds to the level of the nipples.",
+    "category": "HHWB-NEURO"
+  },
+  {
+    "id": 693,
+    "question": "The internal capsule contains which type of fibers?",
+    "options": {
+      "A": "Commissural",
+      "B": "Projection",
+      "C": "Association",
+      "D": "Cerebellar",
+      "E": "Pyramidal"
+    },
+    "answer": "B",
+    "explanation": "Projection fibers run between the cortex and lower centers and are bundled in the internal capsule.",
+    "category": "HHWB-NEURO"
+  },
+  {
+    "id": 694,
+    "question": "Which structure lies adjacent to the foramen magnum and can herniate during raised ICP?",
+    "options": {
+      "A": "Thalamus",
+      "B": "Amygdala",
+      "C": "Cerebellar tonsils",
+      "D": "Corpus callosum",
+      "E": "Pituitary gland"
+    },
+    "answer": "C",
+    "explanation": "The cerebellar tonsils lie close to the foramen magnum and may herniate downward in coning.",
+    "category": "HHWB-NEURO"
+  },
+  {
+    "id": 695,
+    "question": "What part of the limbic system is involved in memory consolidation?",
+    "options": {
+      "A": "Amygdala",
+      "B": "Hippocampus",
+      "C": "Cingulate gyrus",
+      "D": "Mammillary bodies",
+      "E": "Hypothalamus"
+    },
+    "answer": "B",
+    "explanation": "The hippocampus is essential for forming new memories and consolidating short- to long-term memory.",
+    "category": "HHWB-NEURO"
+  },
+    {
+    "id": 696,
+    "question": "What structure marks the transition from foregut to midgut in the duodenum?",
+    "options": {
+      "A": "Duodenojejunal flexure",
+      "B": "Major duodenal papilla",
+      "C": "Ligament of Treitz",
+      "D": "Ileocecal valve",
+      "E": "Pyloric sphincter"
+    },
+    "answer": "B",
+    "explanation": "The major duodenal papilla marks where the bile and pancreatic ducts enter, and is the transition from foregut to midgut.",
+    "category": "HHWB-GASTRO"
+  },
+  {
+    "id": 697,
+    "question": "Which artery primarily supplies the midgut?",
+    "options": {
+      "A": "Celiac trunk",
+      "B": "Inferior mesenteric artery",
+      "C": "Superior mesenteric artery",
+      "D": "Renal artery",
+      "E": "Gonadal artery"
+    },
+    "answer": "C",
+    "explanation": "The superior mesenteric artery supplies the midgut, including the distal duodenum to 2/3 of the transverse colon.",
+    "category": "HHWB-GASTRO"
+  },
+  {
+    "id": 698,
+    "question": "Which part of the large intestine is intraperitoneal?",
+    "options": {
+      "A": "Ascending colon",
+      "B": "Descending colon",
+      "C": "Rectum",
+      "D": "Transverse colon",
+      "E": "Sigmoid colon"
+    },
+    "answer": "D",
+    "explanation": "The transverse colon is suspended by its mesocolon and is entirely intraperitoneal.",
+    "category": "HHWB-GASTRO"
+  },
+  {
+    "id": 699,
+    "question": "The portal vein is formed by the union of which two vessels?",
+    "options": {
+      "A": "Hepatic and splenic veins",
+      "B": "Superior mesenteric and splenic veins",
+      "C": "Renal and gastric veins",
+      "D": "Inferior mesenteric and renal veins",
+      "E": "Splenic and gonadal veins"
+    },
+    "answer": "B",
+    "explanation": "The portal vein is formed by the confluence of the superior mesenteric vein and the splenic vein.",
+    "category": "HHWB-GASTRO"
+  },
+  {
+    "id": 700,
+    "question": "Which muscle forms the posterior wall of the inguinal canal?",
+    "options": {
+      "A": "External oblique",
+      "B": "Internal oblique",
+      "C": "Conjoint tendon",
+      "D": "Transversalis fascia",
+      "E": "Psoas major"
+    },
+    "answer": "D",
+    "explanation": "The transversalis fascia forms the posterior wall of the inguinal canal laterally.",
+    "category": "HHWB-GASTRO"
+  },
+  {
+    "id": 701,
+    "question": "What structure prevents reflux of colonic contents into the ileum?",
+    "options": {
+      "A": "Appendix",
+      "B": "Ileocecal valve",
+      "C": "Pyloric sphincter",
+      "D": "Haustra",
+      "E": "Omental appendices"
+    },
+    "answer": "B",
+    "explanation": "The ileocecal valve controls flow from the ileum to the cecum and prevents backflow.",
+    "category": "HHWB-GASTRO"
+  },
+  {
+    "id": 702,
+    "question": "Which lobe of the liver lies adjacent to the inferior vena cava?",
+    "options": {
+      "A": "Left lobe",
+      "B": "Right lobe",
+      "C": "Quadrate lobe",
+      "D": "Caudate lobe",
+      "E": "Middle lobe"
+    },
+    "answer": "D",
+    "explanation": "The caudate lobe lies posteriorly and is situated between the inferior vena cava and the ligamentum venosum.",
+    "category": "HHWB-GASTRO"
+  },
+  {
+    "id": 703,
+    "question": "Which of the following is a retroperitoneal structure?",
+    "options": {
+      "A": "Transverse colon",
+      "B": "Jejunum",
+      "C": "Duodenum (second part)",
+      "D": "Stomach",
+      "E": "Spleen"
+    },
+    "answer": "C",
+    "explanation": "The second (descending) part of the duodenum is retroperitoneal, lying behind the peritoneal cavity.",
+    "category": "HHWB-GASTRO"
+  },
+  {
+    "id": 704,
+    "question": "Which peritoneal fold connects the liver to the anterior abdominal wall?",
+    "options": {
+      "A": "Greater omentum",
+      "B": "Lesser omentum",
+      "C": "Falciform ligament",
+      "D": "Ligamentum teres",
+      "E": "Mesentery"
+    },
+    "answer": "C",
+    "explanation": "The falciform ligament connects the anterior surface of the liver to the anterior abdominal wall and diaphragm.",
+    "category": "HHWB-GASTRO"
+  },
+  {
+    "id": 705,
+    "question": "What is the main arterial supply to the appendix?",
+    "options": {
+      "A": "Middle colic artery",
+      "B": "Right colic artery",
+      "C": "Appendicular artery",
+      "D": "Ileocolic artery",
+      "E": "Inferior mesenteric artery"
+    },
+    "answer": "C",
+    "explanation": "The appendicular artery is a branch of the ileocolic artery and supplies the appendix.",
+    "category": "HHWB-GASTRO"
+  },
+  {
+    "id": 706,
+    "question": "The sigmoid colon drains into which group of lymph nodes?",
+    "options": {
+      "A": "Celiac nodes",
+      "B": "Superior mesenteric nodes",
+      "C": "Inferior mesenteric nodes",
+      "D": "Para-aortic nodes",
+      "E": "Iliac nodes"
+    },
+    "answer": "C",
+    "explanation": "Lymph from the sigmoid colon drains to inferior mesenteric nodes, following its arterial supply.",
+    "category": "HHWB-GASTRO"
+  },
+  {
+    "id": 707,
+    "question": "Which nerve supplies the external anal sphincter?",
+    "options": {
+      "A": "Pelvic splanchnic nerves",
+      "B": "Pudendal nerve",
+      "C": "Hypogastric nerve",
+      "D": "Obturator nerve",
+      "E": "Ilioinguinal nerve"
+    },
+    "answer": "B",
+    "explanation": "The pudendal nerve provides somatic motor innervation to the external anal sphincter.",
+    "category": "HHWB-GASTRO"
+  },
+  {
+    "id": 708,
+    "question": "What is the epithelium of the upper anal canal?",
+    "options": {
+      "A": "Keratinised stratified squamous",
+      "B": "Pseudostratified columnar",
+      "C": "Simple cuboidal",
+      "D": "Non-keratinised stratified squamous",
+      "E": "Simple columnar"
+    },
+    "answer": "E",
+    "explanation": "The upper anal canal is derived from endoderm and lined by simple columnar epithelium.",
+    "category": "HHWB-GASTRO"
+  },
+  {
+    "id": 709,
+    "question": "What structure lies within the free edge of the lesser omentum?",
+    "options": {
+      "A": "Inferior vena cava",
+      "B": "Portal triad",
+      "C": "Round ligament",
+      "D": "Common iliac artery",
+      "E": "Ureter"
+    },
+    "answer": "B",
+    "explanation": "The free edge of the lesser omentum contains the portal triad: portal vein, hepatic artery, and bile duct.",
+    "category": "HHWB-GASTRO"
+  },
+  {
+    "id": 710,
+    "question": "Which embryological structure becomes the ligamentum teres after birth?",
+    "options": {
+      "A": "Umbilical arteries",
+      "B": "Ductus venosus",
+      "C": "Vitelline duct",
+      "D": "Umbilical vein",
+      "E": "Allantois"
+    },
+    "answer": "D",
+    "explanation": "The umbilical vein becomes the ligamentum teres (round ligament of the liver) after birth.",
+    "category": "HHWB-GASTRO"
   }
 ]
