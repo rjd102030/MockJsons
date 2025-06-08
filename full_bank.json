@@ -6228,5 +6228,2665 @@
     "answer": "E",
     "explanation": "The primitive streak regresses, leaving a remnant at the caudal end known as the caudal eminence.",
     "category": "FOM-Embryology"
+  },
+    {
+    "id": 446,
+    "question": "Which plane divides the body into anterior and posterior parts?",
+    "options": {
+      "A": "Sagittal plane",
+      "B": "Transverse plane",
+      "C": "Coronal plane",
+      "D": "Oblique plane",
+      "E": "Rotational plane"
+    },
+    "answer": "C",
+    "explanation": "The coronal (frontal) plane divides the body into anterior (front) and posterior (back) sections. The sagittal divides left and right, and transverse divides superior and inferior.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 447,
+    "question": "Which of the following joints is classified as a primary cartilaginous joint?",
+    "options": {
+      "A": "Knee joint",
+      "B": "First sternocostal joint",
+      "C": "Pubic symphysis",
+      "D": "Glenohumeral joint",
+      "E": "Intervertebral facet joint"
+    },
+    "answer": "B",
+    "explanation": "Primary cartilaginous joints are synchondroses, such as the first sternocostal joint. Symphyses (e.g. pubic symphysis) are secondary cartilaginous joints.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 448,
+    "question": "Which movement occurs in the sagittal plane?",
+    "options": {
+      "A": "Abduction",
+      "B": "Rotation",
+      "C": "Flexion",
+      "D": "Supination",
+      "E": "Protraction"
+    },
+    "answer": "C",
+    "explanation": "Flexion and extension occur in the sagittal plane. Abduction/adduction occur in the coronal plane, while rotation occurs in the transverse plane.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 449,
+    "question": "What type of connective tissue primarily composes tendons?",
+    "options": {
+      "A": "Areolar tissue",
+      "B": "Elastic cartilage",
+      "C": "Dense regular connective tissue",
+      "D": "Hyaline cartilage",
+      "E": "Reticular connective tissue"
+    },
+    "answer": "C",
+    "explanation": "Tendons are composed of dense regular connective tissue, which provides tensile strength along one direction. It’s made of parallel collagen fibers.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 450,
+    "question": "Which structure is characteristic of a thoracic vertebra?",
+    "options": {
+      "A": "Bifid spinous process",
+      "B": "Large vertebral foramen",
+      "C": "Transverse foramina",
+      "D": "Costal facets",
+      "E": "Short, square spinous process"
+    },
+    "answer": "D",
+    "explanation": "Thoracic vertebrae have costal facets for articulation with ribs. Transverse foramina are seen in cervical vertebrae, and lumbar vertebrae have large bodies and short spinous processes.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 451,
+    "question": "Which joint is a good example of a plane synovial joint?",
+    "options": {
+      "A": "Shoulder joint",
+      "B": "Knee joint",
+      "C": "Acromioclavicular joint",
+      "D": "Elbow joint",
+      "E": "First metacarpophalangeal joint"
+    },
+    "answer": "C",
+    "explanation": "The acromioclavicular joint is a plane-type synovial joint allowing gliding movements. Ball-and-socket (shoulder), hinge (elbow/knee), and condyloid (MCP) joints differ.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 452,
+    "question": "Which feature is most useful for identifying cervical vertebrae?",
+    "options": {
+      "A": "Large vertebral body",
+      "B": "Costal facets",
+      "C": "Bifid spinous process",
+      "D": "Triangular vertebral foramen",
+      "E": "Mammillary processes"
+    },
+    "answer": "C",
+    "explanation": "Cervical vertebrae often have bifid spinous processes and transverse foramina. Thoracic have costal facets, lumbar have large bodies and mammillary processes.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 453,
+    "question": "Which tissue type lines the alveoli of the lungs for gas exchange?",
+    "options": {
+      "A": "Simple columnar epithelium",
+      "B": "Stratified squamous epithelium",
+      "C": "Simple squamous epithelium",
+      "D": "Pseudostratified columnar epithelium",
+      "E": "Transitional epithelium"
+    },
+    "answer": "C",
+    "explanation": "Simple squamous epithelium is thin and ideal for diffusion, as found in alveoli. Stratified types are for protection, not exchange.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 454,
+    "question": "Which of the following best describes the atlanto-occipital joint?",
+    "options": {
+      "A": "Plane joint allowing rotation",
+      "B": "Hinge joint allowing flexion",
+      "C": "Condyloid joint allowing flexion/extension",
+      "D": "Pivot joint allowing rotation",
+      "E": "Saddle joint allowing circumduction"
+    },
+    "answer": "C",
+    "explanation": "The atlanto-occipital joint is a condyloid synovial joint that permits flexion and extension (nodding). Rotation occurs at the atlantoaxial joint.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 455,
+    "question": "Which movement involves turning the sole of the foot medially?",
+    "options": {
+      "A": "Eversion",
+      "B": "Dorsiflexion",
+      "C": "Inversion",
+      "D": "Plantarflexion",
+      "E": "Pronation"
+    },
+    "answer": "C",
+    "explanation": "Inversion turns the sole medially. Eversion turns it laterally. Dorsiflexion and plantarflexion move the foot up/down respectively.",
+    "category": "FOM-Anatomy"
+  },
+    {
+    "id": 456,
+    "question": "Which movement decreases the angle between two body parts along the sagittal plane?",
+    "options": {
+      "A": "Extension",
+      "B": "Abduction",
+      "C": "Adduction",
+      "D": "Flexion",
+      "E": "Circumduction"
+    },
+    "answer": "D",
+    "explanation": "Flexion decreases the angle between body parts in the sagittal plane, e.g. bending the elbow. Extension increases the angle.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 457,
+    "question": "Which structure connects the laminae of adjacent vertebrae?",
+    "options": {
+      "A": "Anterior longitudinal ligament",
+      "B": "Interspinous ligament",
+      "C": "Ligamentum flavum",
+      "D": "Nuchal ligament",
+      "E": "Posterior longitudinal ligament"
+    },
+    "answer": "C",
+    "explanation": "The ligamentum flavum connects adjacent laminae and contains elastic fibers. The anterior/posterior longitudinal ligaments run along the vertebral bodies.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 458,
+    "question": "Which fascia surrounds individual muscles and groups them into compartments?",
+    "options": {
+      "A": "Visceral fascia",
+      "B": "Endosteum",
+      "C": "Deep fascia",
+      "D": "Superficial fascia",
+      "E": "Perimysium"
+    },
+    "answer": "C",
+    "explanation": "Deep fascia is dense connective tissue that separates muscles into compartments. Superficial fascia lies just beneath the skin.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 459,
+    "question": "Which vertebra lacks a vertebral body and has anterior/posterior arches?",
+    "options": {
+      "A": "C2 (axis)",
+      "B": "T1",
+      "C": "C1 (atlas)",
+      "D": "L5",
+      "E": "S1"
+    },
+    "answer": "C",
+    "explanation": "The atlas (C1) lacks a body and has anterior/posterior arches. It articulates with the occipital condyles to support the skull.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 460,
+    "question": "The dens is a projection found on which vertebra?",
+    "options": {
+      "A": "C1",
+      "B": "C2",
+      "C": "T1",
+      "D": "L1",
+      "E": "S1"
+    },
+    "answer": "B",
+    "explanation": "The dens (odontoid process) is found on C2 (axis) and allows rotation of the head via articulation with the atlas.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 461,
+    "question": "Which spinal curvature is present at birth and is considered primary?",
+    "options": {
+      "A": "Cervical lordosis",
+      "B": "Thoracic kyphosis",
+      "C": "Lumbar lordosis",
+      "D": "Sacral scoliosis",
+      "E": "Coccygeal tilt"
+    },
+    "answer": "B",
+    "explanation": "Thoracic and sacral kyphoses are primary curvatures, present from fetal development. Cervical and lumbar lordoses are secondary, developing postnatally.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 462,
+    "question": "Which movement describes rotation of the forearm so the palm faces posteriorly?",
+    "options": {
+      "A": "Supination",
+      "B": "Eversion",
+      "C": "Dorsiflexion",
+      "D": "Pronation",
+      "E": "Inversion"
+    },
+    "answer": "D",
+    "explanation": "Pronation rotates the radius over the ulna so the palm faces posteriorly. Supination returns the palm to the anatomical position.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 463,
+    "question": "What is the primary function of cancellous (spongy) bone in long bones?",
+    "options": {
+      "A": "Attachment of tendons",
+      "B": "Fat storage",
+      "C": "Protection of bone marrow",
+      "D": "Reducing bone weight while providing support",
+      "E": "Preventing joint dislocation"
+    },
+    "answer": "D",
+    "explanation": "Cancellous bone reduces overall bone weight while providing internal support and housing red bone marrow.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 464,
+    "question": "Which anatomical term means 'closer to the point of attachment or origin'?",
+    "options": {
+      "A": "Distal",
+      "B": "Superior",
+      "C": "Inferior",
+      "D": "Proximal",
+      "E": "Medial"
+    },
+    "answer": "D",
+    "explanation": "Proximal refers to a point closer to the origin (usually the trunk). Distal is further away.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 465,
+    "question": "What is the function of the posterior longitudinal ligament?",
+    "options": {
+      "A": "Limit extension of the vertebral column",
+      "B": "Reinforce intervertebral discs posteriorly",
+      "C": "Attach spinous processes",
+      "D": "Anchor ribs to vertebrae",
+      "E": "Allow spinal cord flexibility"
+    },
+    "answer": "B",
+    "explanation": "The posterior longitudinal ligament runs along the posterior aspect of the vertebral bodies inside the vertebral canal and reinforces the intervertebral discs.",
+    "category": "FOM-Anatomy"
+  },
+    {
+    "id": 466,
+    "question": "Which function of the skeleton is primarily carried out by red bone marrow?",
+    "options": {
+      "A": "Fat storage",
+      "B": "Mineral storage",
+      "C": "Haematopoiesis",
+      "D": "Support",
+      "E": "Joint stability"
+    },
+    "answer": "C",
+    "explanation": "Red bone marrow in cancellous bone performs haematopoiesis — the production of blood cells. Yellow marrow stores fat.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 467,
+    "question": "Which joint type best describes the articulation between vertebral bodies?",
+    "options": {
+      "A": "Primary cartilaginous (symphysis)",
+      "B": "Plane synovial",
+      "C": "Hinge synovial",
+      "D": "Saddle synovial",
+      "E": "Fibrous (syndesmosis)"
+    },
+    "answer": "A",
+    "explanation": "Vertebral bodies are united by intervertebral discs, forming symphyses — a type of primary cartilaginous joint.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 468,
+    "question": "Which vertebra is typically identified by a long, downward-sloping spinous process and costal facets?",
+    "options": {
+      "A": "C1",
+      "B": "T5",
+      "C": "L3",
+      "D": "S1",
+      "E": "C7"
+    },
+    "answer": "B",
+    "explanation": "Thoracic vertebrae (like T5) have long spinous processes and costal facets for rib articulation — features absent in cervical and lumbar vertebrae.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 469,
+    "question": "Which component of fascia forms retinacula to hold tendons in place near joints?",
+    "options": {
+      "A": "Superficial fascia",
+      "B": "Endosteum",
+      "C": "Intermuscular septa",
+      "D": "Deep fascia",
+      "E": "Periosteum"
+    },
+    "answer": "D",
+    "explanation": "Deep fascia thickens at joints to form retinacula, which secure tendons and prevent bowstringing during movement.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 470,
+    "question": "The vertebral foramen is typically triangular in which type of vertebra?",
+    "options": {
+      "A": "Thoracic",
+      "B": "Sacral",
+      "C": "Lumbar",
+      "D": "Cervical",
+      "E": "Coccygeal"
+    },
+    "answer": "D",
+    "explanation": "Cervical vertebrae have a large, triangular vertebral foramen. Thoracic vertebrae have circular ones; lumbar are smaller and triangular.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 471,
+    "question": "Which skeletal function is directly related to calcium and phosphate metabolism?",
+    "options": {
+      "A": "Haematopoiesis",
+      "B": "Protection",
+      "C": "Movement",
+      "D": "Mineral storage",
+      "E": "Hormone production"
+    },
+    "answer": "D",
+    "explanation": "Bone tissue stores minerals like calcium and phosphate, releasing them into blood when needed for physiological functions.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 472,
+    "question": "What feature distinguishes the lumbar vertebrae from cervical and thoracic vertebrae?",
+    "options": {
+      "A": "Costal facets",
+      "B": "Transverse foramina",
+      "C": "Large kidney-shaped bodies",
+      "D": "Bifid spinous processes",
+      "E": "Dens"
+    },
+    "answer": "C",
+    "explanation": "Lumbar vertebrae are identified by their large, kidney-shaped bodies designed to bear weight. They lack transverse foramina and costal facets.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 473,
+    "question": "Which ligament helps resist hyperextension of the vertebral column?",
+    "options": {
+      "A": "Interspinous ligament",
+      "B": "Ligamentum flavum",
+      "C": "Anterior longitudinal ligament",
+      "D": "Posterior longitudinal ligament",
+      "E": "Supraspinous ligament"
+    },
+    "answer": "C",
+    "explanation": "The anterior longitudinal ligament runs along the anterior vertebral bodies and resists hyperextension.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 474,
+    "question": "Which part of the vertebral column is associated with the greatest range of rotation?",
+    "options": {
+      "A": "Cervical",
+      "B": "Thoracic",
+      "C": "Lumbar",
+      "D": "Sacral",
+      "E": "Coccygeal"
+    },
+    "answer": "B",
+    "explanation": "Thoracic vertebrae allow the greatest rotational movement due to orientation of articular facets, despite rib attachment limiting other motions.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 475,
+    "question": "What is the function of investing fascia?",
+    "options": {
+      "A": "Produce red blood cells",
+      "B": "Anchor ligaments to bone",
+      "C": "Enclose and separate muscles",
+      "D": "Transmit nerve impulses",
+      "E": "Provide joint lubrication"
+    },
+    "answer": "C",
+    "explanation": "Investing fascia is part of deep fascia that wraps around muscles, separating them into functional groups.",
+    "category": "FOM-Anatomy"
+  },
+    {
+    "id": 476,
+    "question": "Which curvature of the spine is a secondary curvature that develops after birth?",
+    "options": {
+      "A": "Thoracic kyphosis",
+      "B": "Sacral kyphosis",
+      "C": "Cervical lordosis",
+      "D": "Coccygeal curvature",
+      "E": "Pelvic tilt"
+    },
+    "answer": "C",
+    "explanation": "Cervical lordosis is a secondary curvature that develops as infants begin to hold up their heads. Thoracic and sacral curvatures are primary.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 477,
+    "question": "Which structure transmits forces between muscles and bones and consists mainly of collagen?",
+    "options": {
+      "A": "Ligament",
+      "B": "Fascia",
+      "C": "Tendon",
+      "D": "Aponeurosis",
+      "E": "Cartilage"
+    },
+    "answer": "C",
+    "explanation": "Tendons are dense regular connective tissue structures made primarily of collagen that attach muscle to bone and transmit force.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 478,
+    "question": "Which joint type describes the manubriosternal joint?",
+    "options": {
+      "A": "Saddle joint",
+      "B": "Secondary cartilaginous joint",
+      "C": "Synovial hinge joint",
+      "D": "Fibrous suture",
+      "E": "Pivot joint"
+    },
+    "answer": "B",
+    "explanation": "The manubriosternal joint is a secondary cartilaginous joint (symphysis), allowing limited movement. It’s formed by hyaline cartilage with a fibrocartilage disc.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 479,
+    "question": "Which structure is defined as a sheet-like tendon that attaches muscle to bone or fascia?",
+    "options": {
+      "A": "Ligament",
+      "B": "Retinaculum",
+      "C": "Aponeurosis",
+      "D": "Periosteum",
+      "E": "Cartilage"
+    },
+    "answer": "C",
+    "explanation": "Aponeuroses are broad, flat sheets of tendon that attach muscle to bone or other connective tissue. Common in the abdomen and scalp.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 480,
+    "question": "Which of the following best explains the functional benefit of trabeculae alignment in cancellous bone?",
+    "options": {
+      "A": "Prevents infection",
+      "B": "Increases flexibility",
+      "C": "Allows synovial fluid flow",
+      "D": "Distributes mechanical stress efficiently",
+      "E": "Forms the outer compact bone layer"
+    },
+    "answer": "D",
+    "explanation": "Trabeculae in spongy bone align along lines of stress, optimizing mechanical strength while keeping the bone lightweight.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 481,
+    "question": "The coronal suture is an example of which joint type?",
+    "options": {
+      "A": "Primary cartilaginous",
+      "B": "Secondary cartilaginous",
+      "C": "Synovial",
+      "D": "Fibrous (suture)",
+      "E": "Saddle"
+    },
+    "answer": "D",
+    "explanation": "The coronal suture is a fibrous joint found between skull bones. Sutures allow minimal movement and fuse with age.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 482,
+    "question": "Which spinal curvature becomes exaggerated in lordosis?",
+    "options": {
+      "A": "Thoracic",
+      "B": "Cervical",
+      "C": "Sacral",
+      "D": "Lumbar",
+      "E": "Coccygeal"
+    },
+    "answer": "D",
+    "explanation": "Lumbar lordosis becomes exaggerated in cases like pregnancy or obesity, increasing the inward curve of the lower back.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 483,
+    "question": "Which component of bone resists compression while remaining lightweight?",
+    "options": {
+      "A": "Periosteum",
+      "B": "Hyaline cartilage",
+      "C": "Cancellous (spongy) bone",
+      "D": "Compact bone",
+      "E": "Articular cartilage"
+    },
+    "answer": "C",
+    "explanation": "Cancellous bone, made of trabeculae, provides strength and resists compressive forces while being less dense than compact bone.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 484,
+    "question": "Which term refers to the collar of bone that surrounds the medullary cavity in long bones?",
+    "options": {
+      "A": "Cortical bone",
+      "B": "Trabecular bone",
+      "C": "Epiphyseal plate",
+      "D": "Diaphysis",
+      "E": "Endosteum"
+    },
+    "answer": "A",
+    "explanation": "Cortical (compact) bone surrounds the medullary cavity and provides structural support and protection.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 485,
+    "question": "Which ligament runs along the tips of the spinous processes from C7 to the sacrum?",
+    "options": {
+      "A": "Ligamentum flavum",
+      "B": "Interspinous ligament",
+      "C": "Supraspinous ligament",
+      "D": "Anterior longitudinal ligament",
+      "E": "Posterior longitudinal ligament"
+    },
+    "answer": "C",
+    "explanation": "The supraspinous ligament connects the apices of spinous processes and continues as the ligamentum nuchae in the cervical region.",
+    "category": "FOM-Anatomy"
+  },
+    {
+    "id": 486,
+    "question": "Which movement occurs in the transverse plane around a vertical axis?",
+    "options": {
+      "A": "Flexion",
+      "B": "Extension",
+      "C": "Abduction",
+      "D": "Rotation",
+      "E": "Dorsiflexion"
+    },
+    "answer": "D",
+    "explanation": "Rotation (e.g. turning the head) occurs in the transverse plane around a vertical axis. Flexion and extension are sagittal.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 487,
+    "question": "Which vertebra has the dens process projecting superiorly?",
+    "options": {
+      "A": "C1 (atlas)",
+      "B": "C2 (axis)",
+      "C": "T1",
+      "D": "L1",
+      "E": "C7"
+    },
+    "answer": "B",
+    "explanation": "C2 (axis) has the dens or odontoid process, allowing rotation of the head via articulation with C1.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 488,
+    "question": "Which anatomical term means 'toward the midline'?",
+    "options": {
+      "A": "Lateral",
+      "B": "Distal",
+      "C": "Inferior",
+      "D": "Medial",
+      "E": "Posterior"
+    },
+    "answer": "D",
+    "explanation": "Medial indicates a position closer to the midline of the body, opposite of lateral.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 489,
+    "question": "Which plane divides the body into left and right halves?",
+    "options": {
+      "A": "Transverse",
+      "B": "Coronal",
+      "C": "Sagittal",
+      "D": "Horizontal",
+      "E": "Oblique"
+    },
+    "answer": "C",
+    "explanation": "The sagittal plane divides the body into left and right. The mid-sagittal plane divides it equally.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 490,
+    "question": "Which tissue appears shiny, white, and lines articular surfaces of bones?",
+    "options": {
+      "A": "Elastic cartilage",
+      "B": "Hyaline cartilage",
+      "C": "Fibrocartilage",
+      "D": "Adipose tissue",
+      "E": "Ligament"
+    },
+    "answer": "B",
+    "explanation": "Hyaline cartilage lines articular surfaces and appears smooth and white. It reduces friction in joints.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 491,
+    "question": "Which vertebral feature increases in size inferiorly to support more weight?",
+    "options": {
+      "A": "Spinous process",
+      "B": "Vertebral foramen",
+      "C": "Transverse process",
+      "D": "Vertebral body",
+      "E": "Pedicle"
+    },
+    "answer": "D",
+    "explanation": "Vertebral bodies increase in size from cervical to lumbar regions to support increasing body weight.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 492,
+    "question": "Which curvature is anteriorly concave and found in the thoracic region?",
+    "options": {
+      "A": "Cervical lordosis",
+      "B": "Lumbar lordosis",
+      "C": "Thoracic kyphosis",
+      "D": "Sacral lordosis",
+      "E": "Coccygeal tilt"
+    },
+    "answer": "C",
+    "explanation": "Thoracic kyphosis is a normal, anteriorly concave curvature present from birth (primary).",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 493,
+    "question": "Which joint classification includes the pubic symphysis?",
+    "options": {
+      "A": "Fibrous",
+      "B": "Primary cartilaginous",
+      "C": "Secondary cartilaginous",
+      "D": "Hinge synovial",
+      "E": "Pivot synovial"
+    },
+    "answer": "C",
+    "explanation": "Secondary cartilaginous joints (symphyses) include the pubic symphysis and manubriosternal joint — connected by fibrocartilage.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 494,
+    "question": "What part of the vertebra articulates with the inferior articular facet of the vertebra above it?",
+    "options": {
+      "A": "Lamina",
+      "B": "Pedicle",
+      "C": "Transverse process",
+      "D": "Superior articular process",
+      "E": "Spinous process"
+    },
+    "answer": "D",
+    "explanation": "The superior articular process of one vertebra articulates with the inferior articular process of the one above.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 495,
+    "question": "In anatomical position, which term describes a structure that is closer to the body surface?",
+    "options": {
+      "A": "Deep",
+      "B": "Proximal",
+      "C": "Superficial",
+      "D": "Inferior",
+      "E": "Lateral"
+    },
+    "answer": "C",
+    "explanation": "Superficial structures lie closer to the body surface, while deep structures are further inside.",
+    "category": "FOM-Anatomy"
+  },
+    {
+    "id": 496,
+    "question": "Which chamber of the heart receives oxygenated blood from the pulmonary veins?",
+    "options": {
+      "A": "Right atrium",
+      "B": "Left atrium",
+      "C": "Right ventricle",
+      "D": "Left ventricle",
+      "E": "Coronary sinus"
+    },
+    "answer": "B",
+    "explanation": "The left atrium receives oxygenated blood from the pulmonary veins before passing it to the left ventricle.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 497,
+    "question": "Which heart valve prevents backflow from the left ventricle to the left atrium?",
+    "options": {
+      "A": "Pulmonary valve",
+      "B": "Tricuspid valve",
+      "C": "Mitral valve",
+      "D": "Aortic valve",
+      "E": "Eustachian valve"
+    },
+    "answer": "C",
+    "explanation": "The mitral (bicuspid) valve lies between the left atrium and ventricle, preventing regurgitation during systole.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 498,
+    "question": "Which artery supplies the sinoatrial (SA) node in most individuals?",
+    "options": {
+      "A": "Left anterior descending artery",
+      "B": "Right marginal artery",
+      "C": "Right coronary artery",
+      "D": "Circumflex artery",
+      "E": "Posterior interventricular artery"
+    },
+    "answer": "C",
+    "explanation": "In about 60% of people, the SA node is supplied by a branch of the right coronary artery.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 499,
+    "question": "What is the fibrous pericardium attached to inferiorly?",
+    "options": {
+      "A": "Sternum",
+      "B": "Pleura",
+      "C": "Central tendon of the diaphragm",
+      "D": "Mediastinal pleura",
+      "E": "Manubrium"
+    },
+    "answer": "C",
+    "explanation": "The fibrous pericardium is fused to the central tendon of the diaphragm, anchoring the heart's position in the thorax.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 500,
+    "question": "Which vessel lies anterior to the root of the lung?",
+    "options": {
+      "A": "Thoracic aorta",
+      "B": "Azygos vein",
+      "C": "Pulmonary artery",
+      "D": "Phrenic nerve",
+      "E": "Vagus nerve"
+    },
+    "answer": "D",
+    "explanation": "The phrenic nerve runs anterior to the lung root, while the vagus nerve runs posterior to it.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 501,
+    "question": "What adult structure is derived from the ductus arteriosus?",
+    "options": {
+      "A": "Fossa ovalis",
+      "B": "Ligamentum venosum",
+      "C": "Ligamentum arteriosum",
+      "D": "Aortic arch",
+      "E": "Coronary sinus"
+    },
+    "answer": "C",
+    "explanation": "The ductus arteriosus, a fetal shunt, becomes the ligamentum arteriosum after birth, connecting the pulmonary trunk to the aorta.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 502,
+    "question": "Which coronary artery typically gives rise to the posterior interventricular artery in right-dominant hearts?",
+    "options": {
+      "A": "Circumflex artery",
+      "B": "Left coronary artery",
+      "C": "Right coronary artery",
+      "D": "Left anterior descending artery",
+      "E": "Aortic arch"
+    },
+    "answer": "C",
+    "explanation": "In right-dominant circulation (most common), the posterior interventricular artery branches from the right coronary artery.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 503,
+    "question": "What forms the majority of the heart’s anterior surface?",
+    "options": {
+      "A": "Left atrium",
+      "B": "Right atrium",
+      "C": "Left ventricle",
+      "D": "Right ventricle",
+      "E": "Interventricular septum"
+    },
+    "answer": "D",
+    "explanation": "The right ventricle forms most of the anterior (sternocostal) surface of the heart.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 504,
+    "question": "Which vein drains most of the venous blood from the myocardium?",
+    "options": {
+      "A": "Great cardiac vein",
+      "B": "Middle cardiac vein",
+      "C": "Small cardiac vein",
+      "D": "Anterior cardiac vein",
+      "E": "Coronary sinus"
+    },
+    "answer": "E",
+    "explanation": "The coronary sinus collects venous blood from cardiac veins and drains into the right atrium.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 505,
+    "question": "Which layer of the pericardium is in direct contact with the surface of the heart?",
+    "options": {
+      "A": "Fibrous pericardium",
+      "B": "Parietal serous pericardium",
+      "C": "Visceral serous pericardium",
+      "D": "Epicardium",
+      "E": "Endocardium"
+    },
+    "answer": "C",
+    "explanation": "The visceral layer of the serous pericardium (epicardium) adheres directly to the heart’s surface.",
+    "category": "FOM-Anatomy"
+  },
+    {
+    "id": 506,
+    "question": "Which heart valve has three cusps and is located between the right atrium and right ventricle?",
+    "options": {
+      "A": "Mitral valve",
+      "B": "Pulmonary valve",
+      "C": "Tricuspid valve",
+      "D": "Aortic valve",
+      "E": "Eustachian valve"
+    },
+    "answer": "C",
+    "explanation": "The tricuspid valve has three cusps and lies between the right atrium and right ventricle.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 507,
+    "question": "The coronary sinus opens into which chamber of the heart?",
+    "options": {
+      "A": "Left atrium",
+      "B": "Right atrium",
+      "C": "Left ventricle",
+      "D": "Right ventricle",
+      "E": "Coronary sulcus"
+    },
+    "answer": "B",
+    "explanation": "The coronary sinus drains venous blood from the myocardium into the right atrium.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 508,
+    "question": "Which branch of the aorta supplies the foregut?",
+    "options": {
+      "A": "Superior mesenteric artery",
+      "B": "Inferior mesenteric artery",
+      "C": "Coeliac trunk",
+      "D": "Renal artery",
+      "E": "Internal iliac artery"
+    },
+    "answer": "C",
+    "explanation": "The coeliac trunk is the major branch of the abdominal aorta supplying the foregut organs.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 509,
+    "question": "Which of the following structures lies within the middle mediastinum?",
+    "options": {
+      "A": "Descending thoracic aorta",
+      "B": "Esophagus",
+      "C": "Heart",
+      "D": "Thymus",
+      "E": "Trachea"
+    },
+    "answer": "C",
+    "explanation": "The heart, enclosed in the pericardium, lies in the middle mediastinum.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 510,
+    "question": "Which structure is the adult remnant of the fetal foramen ovale?",
+    "options": {
+      "A": "Ligamentum arteriosum",
+      "B": "Fossa ovalis",
+      "C": "Ligamentum venosum",
+      "D": "Crista terminalis",
+      "E": "Sinus venarum"
+    },
+    "answer": "B",
+    "explanation": "The fossa ovalis is a depression in the interatrial septum marking the site of the fetal foramen ovale.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 511,
+    "question": "What is the primary lymphatic drainage of the heart?",
+    "options": {
+      "A": "Thoracic duct",
+      "B": "Tracheobronchial nodes",
+      "C": "Brachiocephalic nodes",
+      "D": "Parasternal nodes",
+      "E": "Pericardial lymph nodes"
+    },
+    "answer": "B",
+    "explanation": "Lymph from the heart drains primarily into tracheobronchial lymph nodes before joining the thoracic duct.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 512,
+    "question": "Which artery typically runs in the anterior interventricular groove?",
+    "options": {
+      "A": "Right coronary artery",
+      "B": "Circumflex artery",
+      "C": "Posterior interventricular artery",
+      "D": "Left anterior descending artery",
+      "E": "Conus branch"
+    },
+    "answer": "D",
+    "explanation": "The left anterior descending (LAD) artery runs in the anterior interventricular groove, supplying the interventricular septum and anterior wall.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 513,
+    "question": "The valve of the coronary sinus is located near which cardiac structure?",
+    "options": {
+      "A": "Interventricular septum",
+      "B": "Opening of the superior vena cava",
+      "C": "Tricuspid valve",
+      "D": "Crista terminalis",
+      "E": "Opening of the inferior vena cava"
+    },
+    "answer": "C",
+    "explanation": "The coronary sinus opens into the right atrium near the orifice of the tricuspid valve.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 514,
+    "question": "What is the name of the fibrous band connecting the pulmonary trunk to the aorta in adults?",
+    "options": {
+      "A": "Fossa ovalis",
+      "B": "Ligamentum arteriosum",
+      "C": "Crista terminalis",
+      "D": "Conus arteriosus",
+      "E": "Chordae tendineae"
+    },
+    "answer": "B",
+    "explanation": "The ligamentum arteriosum is the fibrous remnant of the fetal ductus arteriosus and connects the pulmonary trunk to the aorta.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 515,
+    "question": "Which valve has two cusps and is located between the left atrium and ventricle?",
+    "options": {
+      "A": "Pulmonary valve",
+      "B": "Tricuspid valve",
+      "C": "Mitral valve",
+      "D": "Aortic valve",
+      "E": "Eustachian valve"
+    },
+    "answer": "C",
+    "explanation": "The mitral (bicuspid) valve has two cusps and lies between the left atrium and ventricle.",
+    "category": "FOM-Anatomy"
+  },
+    {
+    "id": 516,
+    "question": "Which chamber forms most of the diaphragmatic (inferior) surface of the heart?",
+    "options": {
+      "A": "Right atrium",
+      "B": "Left atrium",
+      "C": "Right ventricle",
+      "D": "Left ventricle",
+      "E": "Coronary sinus"
+    },
+    "answer": "D",
+    "explanation": "The left ventricle forms most of the diaphragmatic (inferior) surface of the heart.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 517,
+    "question": "Which major vein drains directly into the right atrium and carries blood from the upper body?",
+    "options": {
+      "A": "Inferior vena cava",
+      "B": "Pulmonary vein",
+      "C": "Azygos vein",
+      "D": "Superior vena cava",
+      "E": "Coronary sinus"
+    },
+    "answer": "D",
+    "explanation": "The superior vena cava drains venous blood from the head, neck, upper limbs, and thorax into the right atrium.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 518,
+    "question": "Which layer of the pericardium is tightly fused with the surface of the heart?",
+    "options": {
+      "A": "Fibrous pericardium",
+      "B": "Parietal layer of serous pericardium",
+      "C": "Visceral layer of serous pericardium",
+      "D": "Epicardium",
+      "E": "Endocardium"
+    },
+    "answer": "C",
+    "explanation": "The visceral layer of the serous pericardium, also called the epicardium, adheres directly to the heart surface.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 519,
+    "question": "Which vessel carries oxygenated blood in the fetal circulation?",
+    "options": {
+      "A": "Umbilical artery",
+      "B": "Ductus venosus",
+      "C": "Inferior vena cava",
+      "D": "Umbilical vein",
+      "E": "Ductus arteriosus"
+    },
+    "answer": "D",
+    "explanation": "The umbilical vein carries oxygenated blood from the placenta to the fetus.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 520,
+    "question": "Which vessel joins the inferior vena cava just before it enters the right atrium?",
+    "options": {
+      "A": "Hepatic vein",
+      "B": "Azygos vein",
+      "C": "Renal vein",
+      "D": "Left suprarenal vein",
+      "E": "Internal jugular vein"
+    },
+    "answer": "A",
+    "explanation": "The hepatic veins drain the liver and enter the inferior vena cava just before it pierces the diaphragm.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 521,
+    "question": "What is the fibrous pericardium continuous with superiorly?",
+    "options": {
+      "A": "Pleura",
+      "B": "Adventitia of the great vessels",
+      "C": "Diaphragm",
+      "D": "Mediastinal fascia",
+      "E": "Ligamentum arteriosum"
+    },
+    "answer": "B",
+    "explanation": "Superiorly, the fibrous pericardium blends with the adventitia of the great vessels leaving and entering the heart.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 522,
+    "question": "Which fetal structure allows blood to bypass the liver and enter the IVC?",
+    "options": {
+      "A": "Ductus arteriosus",
+      "B": "Ductus venosus",
+      "C": "Foramen ovale",
+      "D": "Umbilical artery",
+      "E": "Ligamentum venosum"
+    },
+    "answer": "B",
+    "explanation": "The ductus venosus shunts oxygenated blood from the umbilical vein directly into the IVC, bypassing the liver.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 523,
+    "question": "What is the clinical significance of the transverse pericardial sinus?",
+    "options": {
+      "A": "Site for coronary artery bypass grafting",
+      "B": "Space where pericardial fluid accumulates",
+      "C": "Surgical site to clamp aorta and pulmonary trunk",
+      "D": "Entry point for pacemaker wires",
+      "E": "Location of pericardiocentesis"
+    },
+    "answer": "C",
+    "explanation": "The transverse pericardial sinus lies behind the aorta and pulmonary trunk and is used surgically to clamp these vessels.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 524,
+    "question": "What forms the base (posterior surface) of the heart?",
+    "options": {
+      "A": "Right ventricle",
+      "B": "Left atrium",
+      "C": "Right atrium",
+      "D": "Left ventricle",
+      "E": "Interventricular septum"
+    },
+    "answer": "B",
+    "explanation": "The base of the heart is formed mostly by the posterior wall of the left atrium, which receives pulmonary veins.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 525,
+    "question": "Which surface of the heart does the right atrium primarily contribute to?",
+    "options": {
+      "A": "Diaphragmatic surface",
+      "B": "Left pulmonary surface",
+      "C": "Anterior surface",
+      "D": "Right border",
+      "E": "Base"
+    },
+    "answer": "D",
+    "explanation": "The right atrium forms the right border of the heart as seen on a PA chest radiograph.",
+    "category": "FOM-Anatomy"
+  },
+    {
+    "id": 526,
+    "question": "Which lobe of the right lung is separated from the others by the horizontal fissure?",
+    "options": {
+      "A": "Superior lobe",
+      "B": "Middle lobe",
+      "C": "Inferior lobe",
+      "D": "Cardiac lobe",
+      "E": "Lingula"
+    },
+    "answer": "B",
+    "explanation": "The right middle lobe is separated from the superior lobe by the horizontal fissure and from the inferior lobe by the oblique fissure.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 527,
+    "question": "Which structure forms the anterior boundary of the lung hilum?",
+    "options": {
+      "A": "Pulmonary artery",
+      "B": "Bronchus",
+      "C": "Pulmonary vein",
+      "D": "Phrenic nerve",
+      "E": "Vagus nerve"
+    },
+    "answer": "D",
+    "explanation": "The phrenic nerve passes anterior to the root of the lung, while the vagus nerve passes posterior.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 528,
+    "question": "At what vertebral level does the trachea typically bifurcate?",
+    "options": {
+      "A": "T1",
+      "B": "T2",
+      "C": "T4/T5",
+      "D": "T6",
+      "E": "C7"
+    },
+    "answer": "C",
+    "explanation": "The trachea bifurcates into main bronchi at the level of the sternal angle (T4/T5), marked internally by the carina.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 529,
+    "question": "Which part of the pleura is sensitive to somatic pain?",
+    "options": {
+      "A": "Visceral pleura",
+      "B": "Pulmonary ligament",
+      "C": "Parietal pleura",
+      "D": "Mediastinal pleura only",
+      "E": "Alveolar pleura"
+    },
+    "answer": "C",
+    "explanation": "The parietal pleura is innervated by somatic nerves and is pain-sensitive. The visceral pleura is autonomic and pain-insensitive.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 530,
+    "question": "Which bronchus is wider, shorter, and more vertical—making it more likely to receive aspirated material?",
+    "options": {
+      "A": "Left main bronchus",
+      "B": "Right main bronchus",
+      "C": "Carina",
+      "D": "Lobar bronchus",
+      "E": "Segmental bronchus"
+    },
+    "answer": "B",
+    "explanation": "The right main bronchus is more vertical, wider, and shorter—making it the common site for aspirated objects.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 531,
+    "question": "Which structure lies directly anterior to the esophagus at the level of the carina?",
+    "options": {
+      "A": "Aortic arch",
+      "B": "Trachea",
+      "C": "Left main bronchus",
+      "D": "Right pulmonary artery",
+      "E": "Thoracic duct"
+    },
+    "answer": "B",
+    "explanation": "At the level of the carina (T4/T5), the trachea lies anterior to the esophagus.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 532,
+    "question": "What is the functional unit of lung tissue supplied by a tertiary (segmental) bronchus?",
+    "options": {
+      "A": "Pulmonary lobule",
+      "B": "Bronchopulmonary segment",
+      "C": "Alveolar sac",
+      "D": "Lung lobe",
+      "E": "Bronchiole"
+    },
+    "answer": "B",
+    "explanation": "Each bronchopulmonary segment is an anatomically and functionally discrete unit supplied by a tertiary bronchus.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 533,
+    "question": "Which lung surface lies adjacent to the diaphragm?",
+    "options": {
+      "A": "Costal surface",
+      "B": "Mediastinal surface",
+      "C": "Apical surface",
+      "D": "Diaphragmatic surface",
+      "E": "Hilum"
+    },
+    "answer": "D",
+    "explanation": "The diaphragmatic surface of each lung is in contact with the dome of the diaphragm.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 534,
+    "question": "What surface marking corresponds to the inferior border of the lung in the midclavicular line?",
+    "options": {
+      "A": "6th rib",
+      "B": "4th rib",
+      "C": "8th rib",
+      "D": "10th rib",
+      "E": "7th rib"
+    },
+    "answer": "A",
+    "explanation": "The inferior border of the lung crosses the 6th rib in the midclavicular line.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 535,
+    "question": "Which structure forms the posterior relation of the hilum of the left lung?",
+    "options": {
+      "A": "Phrenic nerve",
+      "B": "Esophagus",
+      "C": "Descending thoracic aorta",
+      "D": "Thymus",
+      "E": "Left pulmonary artery"
+    },
+    "answer": "C",
+    "explanation": "The descending thoracic aorta lies posterior to the hilum of the left lung.",
+    "category": "FOM-Anatomy"
+  },
+    {
+    "id": 536,
+    "question": "What is the name of the ridge inside the trachea at the point of bifurcation?",
+    "options": {
+      "A": "Carina",
+      "B": "Lingula",
+      "C": "Concha",
+      "D": "Crista terminalis",
+      "E": "Oblique fissure"
+    },
+    "answer": "A",
+    "explanation": "The carina is the cartilaginous ridge at the bifurcation of the trachea into main bronchi.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 537,
+    "question": "Which pleural reflection is found where costal pleura meets diaphragmatic pleura?",
+    "options": {
+      "A": "Sternal reflection",
+      "B": "Costovertebral reflection",
+      "C": "Costodiaphragmatic reflection",
+      "D": "Mediastinal reflection",
+      "E": "Cardiac notch"
+    },
+    "answer": "C",
+    "explanation": "The costodiaphragmatic reflection is where the costal and diaphragmatic pleura meet, forming the costodiaphragmatic recess.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 538,
+    "question": "Which bronchopulmonary segment is located in the superior lobe of the left lung?",
+    "options": {
+      "A": "Medial basal",
+      "B": "Superior segment of lower lobe",
+      "C": "Apicoposterior",
+      "D": "Lateral segment of middle lobe",
+      "E": "Anterior basal"
+    },
+    "answer": "C",
+    "explanation": "The left superior lobe contains the apicoposterior segment, a fusion of apical and posterior segments found separately in the right lung.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 539,
+    "question": "Which lung feature corresponds to the projection of the heart on the left lung?",
+    "options": {
+      "A": "Cardiac notch",
+      "B": "Lingula",
+      "C": "Oblique fissure",
+      "D": "Hilum",
+      "E": "Costal groove"
+    },
+    "answer": "A",
+    "explanation": "The cardiac notch is an indentation on the anterior border of the left lung due to the position of the heart.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 540,
+    "question": "Which structure is not part of the root of the lung?",
+    "options": {
+      "A": "Pulmonary artery",
+      "B": "Main bronchus",
+      "C": "Pulmonary vein",
+      "D": "Bronchial artery",
+      "E": "Diaphragm"
+    },
+    "answer": "E",
+    "explanation": "The diaphragm is not part of the root of the lung. The root contains vessels and bronchi entering/leaving the lung.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 541,
+    "question": "What clinical procedure involves the removal of fluid from the pleural cavity?",
+    "options": {
+      "A": "Pericardiocentesis",
+      "B": "Thoracentesis",
+      "C": "Pleurodesis",
+      "D": "Lobectomy",
+      "E": "Bronchoscopy"
+    },
+    "answer": "B",
+    "explanation": "Thoracentesis is a procedure used to remove excess fluid from the pleural cavity.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 542,
+    "question": "What nerve innervates the diaphragmatic pleura?",
+    "options": {
+      "A": "Intercostal nerve",
+      "B": "Vagus nerve",
+      "C": "Phrenic nerve",
+      "D": "Sympathetic chain",
+      "E": "Recurrent laryngeal nerve"
+    },
+    "answer": "C",
+    "explanation": "The phrenic nerve provides sensory innervation to the central diaphragmatic pleura.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 543,
+    "question": "Which surface marking indicates the inferior limit of the pleura in the midaxillary line?",
+    "options": {
+      "A": "6th rib",
+      "B": "8th rib",
+      "C": "10th rib",
+      "D": "12th rib",
+      "E": "11th rib"
+    },
+    "answer": "C",
+    "explanation": "In the midaxillary line, the pleura descends to the level of the 10th rib. The lung reaches only the 8th rib here.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 544,
+    "question": "What is the embryological origin of the visceral pleura?",
+    "options": {
+      "A": "Somatic mesoderm",
+      "B": "Endoderm",
+      "C": "Ectoderm",
+      "D": "Splanchnic mesoderm",
+      "E": "Neural crest"
+    },
+    "answer": "D",
+    "explanation": "The visceral pleura derives from splanchnic mesoderm, which also gives rise to the lung tissue.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 545,
+    "question": "What forms the anterior border of the left lung?",
+    "options": {
+      "A": "Oblique fissure",
+      "B": "Lingula",
+      "C": "Cardiac notch",
+      "D": "Costal cartilage",
+      "E": "Apex of lung"
+    },
+    "answer": "C",
+    "explanation": "The cardiac notch contributes to the anterior border of the left lung, accommodating the heart.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 546,
+    "question": "Which structure is most likely compressed in a left-sided pleural effusion?",
+    "options": {
+      "A": "Superior vena cava",
+      "B": "Right atrium",
+      "C": "Left lung base",
+      "D": "Right phrenic nerve",
+      "E": "Thoracic duct"
+    },
+    "answer": "C",
+    "explanation": "A pleural effusion on the left will compress the adjacent base of the left lung.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 547,
+    "question": "Where does lymph from the left lung drain?",
+    "options": {
+      "A": "Right lymphatic duct",
+      "B": "Thoracic duct",
+      "C": "Tracheobronchial nodes only",
+      "D": "Hilar nodes directly into bloodstream",
+      "E": "Carinal nodes to azygos system"
+    },
+    "answer": "B",
+    "explanation": "Lymph from the left lung eventually drains into the thoracic duct, after passing through hilar and tracheobronchial nodes.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 548,
+    "question": "Which pleural space is most commonly accessed in a chest drain procedure?",
+    "options": {
+      "A": "Costomediastinal recess",
+      "B": "Pleural cavity apex",
+      "C": "Costodiaphragmatic recess",
+      "D": "Pericardial space",
+      "E": "Transverse pericardial sinus"
+    },
+    "answer": "C",
+    "explanation": "The costodiaphragmatic recess is the most dependent area and common target for chest drains.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 549,
+    "question": "Which vessel arches over the root of the right lung?",
+    "options": {
+      "A": "Aortic arch",
+      "B": "Left pulmonary artery",
+      "C": "Azygos vein",
+      "D": "Superior vena cava",
+      "E": "Internal thoracic artery"
+    },
+    "answer": "C",
+    "explanation": "The azygos vein arches over the right lung root before draining into the SVC.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 550,
+    "question": "Which lung lobe contains the lingula?",
+    "options": {
+      "A": "Left superior lobe",
+      "B": "Left inferior lobe",
+      "C": "Right middle lobe",
+      "D": "Right superior lobe",
+      "E": "Right inferior lobe"
+    },
+    "answer": "A",
+    "explanation": "The lingula is a tongue-like projection of the left superior lobe, functionally similar to the right middle lobe.",
+    "category": "FOM-Anatomy"
+  },
+    {
+    "id": 551,
+    "question": "Which layer of abdominal wall fascia is found just superficial to the transversalis fascia?",
+    "options": {
+      "A": "External oblique aponeurosis",
+      "B": "Rectus sheath",
+      "C": "Internal oblique muscle",
+      "D": "Transversus abdominis muscle",
+      "E": "Extraperitoneal fascia"
+    },
+    "answer": "E",
+    "explanation": "The extraperitoneal fascia lies between the transversalis fascia and parietal peritoneum.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 552,
+    "question": "Which of the following structures forms part of the posterior wall of the inguinal canal?",
+    "options": {
+      "A": "Inguinal ligament",
+      "B": "Conjoint tendon",
+      "C": "Deep inguinal ring",
+      "D": "Superficial inguinal ring",
+      "E": "External oblique aponeurosis"
+    },
+    "answer": "B",
+    "explanation": "The conjoint tendon reinforces the posterior wall of the inguinal canal, especially medially.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 553,
+    "question": "Which structure passes through the deep inguinal ring in females?",
+    "options": {
+      "A": "Round ligament of uterus",
+      "B": "Ureter",
+      "C": "Inferior epigastric artery",
+      "D": "Obturator nerve",
+      "E": "Ilioinguinal nerve"
+    },
+    "answer": "A",
+    "explanation": "The round ligament of the uterus passes through the deep inguinal ring into the canal in females.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 554,
+    "question": "A direct inguinal hernia passes through which anatomical area?",
+    "options": {
+      "A": "Deep inguinal ring",
+      "B": "Femoral canal",
+      "C": "Hesselbach’s triangle",
+      "D": "Lateral inguinal fossa",
+      "E": "Umbilical ring"
+    },
+    "answer": "C",
+    "explanation": "Direct inguinal hernias pass through Hesselbach’s triangle, medial to the inferior epigastric vessels.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 555,
+    "question": "The peritoneal cavity is classified as what type of space in males?",
+    "options": {
+      "A": "Open to outside",
+      "B": "Closed potential space",
+      "C": "Intermuscular compartment",
+      "D": "Extravascular space",
+      "E": "Infraperitoneal space"
+    },
+    "answer": "B",
+    "explanation": "In males, the peritoneal cavity is a closed potential space; in females, it is open via the uterine tubes.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 556,
+    "question": "Which peritoneal structure attaches the stomach to the transverse colon?",
+    "options": {
+      "A": "Falciform ligament",
+      "B": "Lesser omentum",
+      "C": "Greater omentum",
+      "D": "Mesocolon",
+      "E": "Gastrosplenic ligament"
+    },
+    "answer": "C",
+    "explanation": "The greater omentum connects the greater curvature of the stomach to the transverse colon.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 557,
+    "question": "Which of the following is retroperitoneal?",
+    "options": {
+      "A": "Jejunum",
+      "B": "Transverse colon",
+      "C": "Descending colon",
+      "D": "Stomach",
+      "E": "Appendix"
+    },
+    "answer": "C",
+    "explanation": "The descending colon is secondarily retroperitoneal; it becomes fixed to the posterior abdominal wall during development.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 558,
+    "question": "Which artery supplies the foregut?",
+    "options": {
+      "A": "Superior mesenteric artery",
+      "B": "Celiac trunk",
+      "C": "Inferior mesenteric artery",
+      "D": "Renal artery",
+      "E": "Lumbar artery"
+    },
+    "answer": "B",
+    "explanation": "The coeliac trunk supplies the foregut structures from the lower esophagus to the second part of the duodenum.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 559,
+    "question": "Which organ drains venous blood directly into the portal vein?",
+    "options": {
+      "A": "Kidney",
+      "B": "Spleen",
+      "C": "Heart",
+      "D": "Lung",
+      "E": "Bladder"
+    },
+    "answer": "B",
+    "explanation": "The spleen drains via the splenic vein, which joins the superior mesenteric vein to form the portal vein.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 560,
+    "question": "Which ligament contains the portal triad?",
+    "options": {
+      "A": "Falciform ligament",
+      "B": "Hepatogastric ligament",
+      "C": "Hepatoduodenal ligament",
+      "D": "Gastrosplenic ligament",
+      "E": "Round ligament of liver"
+    },
+    "answer": "C",
+    "explanation": "The portal triad (portal vein, hepatic artery, bile duct) runs within the hepatoduodenal ligament.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 561,
+    "question": "The inguinal ligament is formed by the lower border of which structure?",
+    "options": {
+      "A": "Rectus abdominis",
+      "B": "External oblique aponeurosis",
+      "C": "Internal oblique muscle",
+      "D": "Transversus abdominis muscle",
+      "E": "Linea alba"
+    },
+    "answer": "B",
+    "explanation": "The inguinal ligament is the thickened lower margin of the external oblique aponeurosis.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 562,
+    "question": "Which muscle contributes to the conjoint tendon?",
+    "options": {
+      "A": "External oblique",
+      "B": "Pyramidalis",
+      "C": "Internal oblique",
+      "D": "Rectus abdominis",
+      "E": "Linea semilunaris"
+    },
+    "answer": "C",
+    "explanation": "The conjoint tendon is formed by the fusion of internal oblique and transversus abdominis aponeuroses.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 563,
+    "question": "Which plane lies midway between the suprasternal notch and the pubic symphysis?",
+    "options": {
+      "A": "Transpyloric plane",
+      "B": "Subcostal plane",
+      "C": "Intertubercular plane",
+      "D": "Transtubercular plane",
+      "E": "Midclavicular plane"
+    },
+    "answer": "A",
+    "explanation": "The transpyloric plane is an important anatomical landmark and lies at L1, midway between suprasternal notch and pubis.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 564,
+    "question": "Which structure is not intraperitoneal?",
+    "options": {
+      "A": "Stomach",
+      "B": "Appendix",
+      "C": "Spleen",
+      "D": "Kidney",
+      "E": "Jejunum"
+    },
+    "answer": "D",
+    "explanation": "The kidneys are retroperitoneal organs; the others are suspended within the peritoneal cavity.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 565,
+    "question": "Which artery lies posterior to the first part of the duodenum and is at risk in posterior ulcers?",
+    "options": {
+      "A": "Superior mesenteric artery",
+      "B": "Inferior mesenteric artery",
+      "C": "Gastroduodenal artery",
+      "D": "Right gastric artery",
+      "E": "Splenic artery"
+    },
+    "answer": "C",
+    "explanation": "The gastroduodenal artery lies posterior to the first part of the duodenum and may be eroded in duodenal ulcers.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 566,
+    "question": "Which of the following structures is a remnant of the fetal umbilical vein?",
+    "options": {
+      "A": "Ligamentum venosum",
+      "B": "Ligamentum arteriosum",
+      "C": "Round ligament of liver",
+      "D": "Falciform ligament",
+      "E": "Median umbilical fold"
+    },
+    "answer": "C",
+    "explanation": "The round ligament of the liver is a fibrous remnant of the fetal umbilical vein.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 567,
+    "question": "The lesser sac communicates with the greater sac via which opening?",
+    "options": {
+      "A": "Hiatus of Winslow",
+      "B": "Foramen of Morgagni",
+      "C": "Epiploic foramen",
+      "D": "Mental hiatus",
+      "E": "Canal of Schlemm"
+    },
+    "answer": "C",
+    "explanation": "The epiploic foramen (of Winslow) allows communication between greater and lesser sacs.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 568,
+    "question": "Which vessel runs in the free edge of the lesser omentum?",
+    "options": {
+      "A": "Splenic vein",
+      "B": "Hepatic artery proper",
+      "C": "Inferior vena cava",
+      "D": "Cystic artery",
+      "E": "Gonadal vein"
+    },
+    "answer": "B",
+    "explanation": "The free edge of the lesser omentum contains the portal triad including the hepatic artery proper.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 569,
+    "question": "The appendix is typically found in which abdominal region?",
+    "options": {
+      "A": "Epigastric",
+      "B": "Right hypochondrium",
+      "C": "Right iliac fossa",
+      "D": "Umbilical",
+      "E": "Suprapubic"
+    },
+    "answer": "C",
+    "explanation": "The appendix is located in the right iliac fossa, often at McBurney’s point.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 570,
+    "question": "Which plane passes through the iliac tubercles and L5 vertebra?",
+    "options": {
+      "A": "Transtubercular plane",
+      "B": "Subcostal plane",
+      "C": "Transpyloric plane",
+      "D": "Interspinous plane",
+      "E": "Midclavicular plane"
+    },
+    "answer": "A",
+    "explanation": "The transtubercular plane passes through the iliac tubercles and the body of L5.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 571,
+    "question": "Which structure marks the transition between foregut and midgut?",
+    "options": {
+      "A": "Duodenal bulb",
+      "B": "Second part of duodenum",
+      "C": "Ampulla of Vater",
+      "D": "Pyloric sphincter",
+      "E": "Jejunum"
+    },
+    "answer": "C",
+    "explanation": "The ampulla of Vater (where the bile and pancreatic ducts enter) marks the transition between foregut and midgut.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 572,
+    "question": "Which feature distinguishes jejunum from ileum?",
+    "options": {
+      "A": "Short vasa recta",
+      "B": "Fewer plicae circulares",
+      "C": "More mesenteric fat",
+      "D": "Thicker walls and more plicae",
+      "E": "Presence of Peyer’s patches"
+    },
+    "answer": "D",
+    "explanation": "The jejunum has thicker walls, longer vasa recta, and more plicae than the ileum.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 573,
+    "question": "Which nerve provides somatic sensation to the skin of the umbilicus?",
+    "options": {
+      "A": "T6",
+      "B": "T8",
+      "C": "T10",
+      "D": "T12",
+      "E": "L1"
+    },
+    "answer": "C",
+    "explanation": "The umbilicus is innervated by the T10 dermatome.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 574,
+    "question": "The superficial inguinal ring is an opening in which structure?",
+    "options": {
+      "A": "External oblique aponeurosis",
+      "B": "Internal oblique",
+      "C": "Transversus abdominis",
+      "D": "Linea alba",
+      "E": "Inguinal ligament"
+    },
+    "answer": "A",
+    "explanation": "The superficial inguinal ring is a triangular opening in the external oblique aponeurosis.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 575,
+    "question": "Which abdominal organ lies mostly in the left hypochondrium?",
+    "options": {
+      "A": "Liver",
+      "B": "Appendix",
+      "C": "Spleen",
+      "D": "Caecum",
+      "E": "Bladder"
+    },
+    "answer": "C",
+    "explanation": "The spleen lies under the left 9th–11th ribs in the left hypochondrium.",
+    "category": "FOM-Anatomy"
+  },
+    {
+    "id": 576,
+    "question": "Which muscle lies directly posterior to the kidney?",
+    "options": {
+      "A": "Rectus abdominis",
+      "B": "Psoas major",
+      "C": "Quadratus lumborum",
+      "D": "Transversus abdominis",
+      "E": "Gluteus maximus"
+    },
+    "answer": "C",
+    "explanation": "The kidney lies anterior to the quadratus lumborum and psoas major muscles on the posterior abdominal wall.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 577,
+    "question": "At which vertebral levels do the kidneys typically lie?",
+    "options": {
+      "A": "T6–T9",
+      "B": "T8–T12",
+      "C": "T12–L3",
+      "D": "L1–L4",
+      "E": "L2–L5"
+    },
+    "answer": "C",
+    "explanation": "The kidneys typically lie between T12 and L3, with the right kidney slightly lower due to the liver.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 578,
+    "question": "Which of the following structures enters the kidney hilum most anteriorly?",
+    "options": {
+      "A": "Renal artery",
+      "B": "Renal vein",
+      "C": "Ureter",
+      "D": "Lymphatic vessel",
+      "E": "Sympathetic nerve"
+    },
+    "answer": "B",
+    "explanation": "The renal vein lies most anteriorly at the hilum, followed by the artery and then the ureter posteriorly.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 579,
+    "question": "What is the functional unit of the kidney?",
+    "options": {
+      "A": "Calyx",
+      "B": "Renal pyramid",
+      "C": "Nephron",
+      "D": "Glomerulus",
+      "E": "Collecting duct"
+    },
+    "answer": "C",
+    "explanation": "The nephron is the microscopic functional unit of the kidney responsible for filtration and reabsorption.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 580,
+    "question": "Which structure is closely related to the medial aspect of the right suprarenal gland?",
+    "options": {
+      "A": "Aorta",
+      "B": "Inferior vena cava",
+      "C": "Pancreas",
+      "D": "Duodenum",
+      "E": "Right ureter"
+    },
+    "answer": "B",
+    "explanation": "The right suprarenal gland lies posterior to the IVC and superior to the right kidney.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 581,
+    "question": "Which artery supplies the suprarenal gland directly?",
+    "options": {
+      "A": "Renal artery only",
+      "B": "Celiac trunk only",
+      "C": "Superior mesenteric artery",
+      "D": "Multiple sources including aorta",
+      "E": "Gonadal artery"
+    },
+    "answer": "D",
+    "explanation": "The suprarenal gland receives branches from the inferior phrenic, aorta, and renal arteries.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 582,
+    "question": "How many anatomical constrictions are typically found along the ureter?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four",
+      "E": "Five"
+    },
+    "answer": "C",
+    "explanation": "There are three classical constrictions: at the ureteropelvic junction, pelvic brim, and entry into bladder.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 583,
+    "question": "Which structure lies anterior to the left ureter as it descends into the pelvis?",
+    "options": {
+      "A": "Psoas major",
+      "B": "Sigmoid colon",
+      "C": "Inferior vena cava",
+      "D": "Common iliac artery",
+      "E": "Renal pelvis"
+    },
+    "answer": "B",
+    "explanation": "The left ureter is crossed anteriorly by the sigmoid colon and its mesentery in the pelvis.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 584,
+    "question": "Which nerve runs on the anterior surface of the psoas major muscle?",
+    "options": {
+      "A": "Femoral nerve",
+      "B": "Obturator nerve",
+      "C": "Genitofemoral nerve",
+      "D": "Iliohypogastric nerve",
+      "E": "Sciatic nerve"
+    },
+    "answer": "C",
+    "explanation": "The genitofemoral nerve pierces and runs on the anterior surface of psoas major.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 585,
+    "question": "The ureter enters the bladder wall in which direction?",
+    "options": {
+      "A": "Superiorly",
+      "B": "Medially",
+      "C": "Posterolaterally",
+      "D": "Anteriorly",
+      "E": "Transversely"
+    },
+    "answer": "C",
+    "explanation": "The ureters enter the bladder at the posterolateral angles, forming the base of the trigone.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 586,
+    "question": "What is the epithelial lining of the bladder?",
+    "options": {
+      "A": "Simple squamous",
+      "B": "Stratified squamous",
+      "C": "Simple cuboidal",
+      "D": "Transitional epithelium",
+      "E": "Columnar epithelium"
+    },
+    "answer": "D",
+    "explanation": "The bladder is lined by transitional epithelium (urothelium), allowing it to stretch.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 587,
+    "question": "Which muscle is responsible for bladder contraction during micturition?",
+    "options": {
+      "A": "Pubococcygeus",
+      "B": "Sphincter urethrae",
+      "C": "Levator ani",
+      "D": "Detrusor",
+      "E": "Obturator internus"
+    },
+    "answer": "D",
+    "explanation": "The detrusor muscle in the bladder wall contracts under parasympathetic control during urination.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 588,
+    "question": "The trigone of the bladder is formed by which structures?",
+    "options": {
+      "A": "Openings of ureters and internal urethral orifice",
+      "B": "Ureteric meatus and bladder neck",
+      "C": "Bladder dome and urethra",
+      "D": "Ureteric valves",
+      "E": "Median umbilical ligament and bladder apex"
+    },
+    "answer": "A",
+    "explanation": "The trigone is a triangular region demarcated by the two ureteric orifices and internal urethral orifice.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 589,
+    "question": "Which structure lies immediately anterior to the bladder in males?",
+    "options": {
+      "A": "Rectum",
+      "B": "Seminal vesicle",
+      "C": "Prostate",
+      "D": "Pubic symphysis",
+      "E": "Vas deferens"
+    },
+    "answer": "D",
+    "explanation": "The pubic symphysis lies anterior to the bladder, separated by the retropubic (space of Retzius) space.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 590,
+    "question": "Which structure is more posterior in the renal hilum?",
+    "options": {
+      "A": "Renal artery",
+      "B": "Renal pelvis",
+      "C": "Renal vein",
+      "D": "Lymphatic vessels",
+      "E": "Ureter"
+    },
+    "answer": "B",
+    "explanation": "At the renal hilum (anterior to posterior): vein → artery → pelvis (which becomes the ureter).",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 591,
+    "question": "Which clinical condition involves back pressure on the kidney due to urinary obstruction?",
+    "options": {
+      "A": "Nephrolithiasis",
+      "B": "Hydronephrosis",
+      "C": "Pyelonephritis",
+      "D": "Renal cell carcinoma",
+      "E": "Polycystic kidney disease"
+    },
+    "answer": "B",
+    "explanation": "Hydronephrosis is dilation of the renal pelvis/calyces due to back pressure, usually from obstruction.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 592,
+    "question": "Which of the following nerves contributes to innervation of the ureter?",
+    "options": {
+      "A": "Phrenic nerve",
+      "B": "Ilioinguinal nerve",
+      "C": "Lumbar splanchnic nerves",
+      "D": "Hypoglossal nerve",
+      "E": "Obturator nerve"
+    },
+    "answer": "C",
+    "explanation": "Autonomic supply to the ureter comes from renal, aortic, and hypogastric plexuses, including lumbar splanchnics.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 593,
+    "question": "Which vessel typically lies anterior to the left renal vein?",
+    "options": {
+      "A": "Aorta",
+      "B": "Superior mesenteric artery",
+      "C": "Inferior vena cava",
+      "D": "Left gonadal vein",
+      "E": "Renal artery"
+    },
+    "answer": "B",
+    "explanation": "The SMA crosses anterior to the left renal vein, which passes between the SMA and aorta.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 594,
+    "question": "What clinical structure must be avoided during suprapubic catheterisation?",
+    "options": {
+      "A": "Rectum",
+      "B": "Ureteric opening",
+      "C": "Peritoneal reflection",
+      "D": "Inferior epigastric artery",
+      "E": "Seminal vesicle"
+    },
+    "answer": "C",
+    "explanation": "A suprapubic catheter is inserted below the peritoneal reflection to avoid intraperitoneal injury.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 595,
+    "question": "Which nerve provides motor innervation to the external urethral sphincter?",
+    "options": {
+      "A": "Pelvic splanchnic nerves",
+      "B": "Pudendal nerve",
+      "C": "Hypogastric nerve",
+      "D": "Ilioinguinal nerve",
+      "E": "Genitofemoral nerve"
+    },
+    "answer": "B",
+    "explanation": "The pudendal nerve (somatic) innervates the external urethral sphincter, allowing voluntary control.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 596,
+    "question": "Which artery supplies the superior part of the bladder?",
+    "options": {
+      "A": "Inferior vesical artery",
+      "B": "Superior vesical artery",
+      "C": "Uterine artery",
+      "D": "Renal artery",
+      "E": "Iliolumbar artery"
+    },
+    "answer": "B",
+    "explanation": "The superior vesical artery, a branch of the internal iliac, supplies the upper part of the bladder.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 597,
+    "question": "Which part of the urethra is catheterised in male patients?",
+    "options": {
+      "A": "Membranous urethra",
+      "B": "Spongy urethra",
+      "C": "Navicular fossa",
+      "D": "Prostatic urethra",
+      "E": "Entire urethra"
+    },
+    "answer": "E",
+    "explanation": "A catheter passes through all parts of the male urethra from external meatus to bladder.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 598,
+    "question": "Which structure marks the start of the ureter?",
+    "options": {
+      "A": "Renal cortex",
+      "B": "Renal medulla",
+      "C": "Renal sinus",
+      "D": "Renal pelvis",
+      "E": "Minor calyx"
+    },
+    "answer": "D",
+    "explanation": "The renal pelvis, formed by major calyces, marks the beginning of the ureter.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 599,
+    "question": "Which organ is most likely affected by an upper ureteric stone?",
+    "options": {
+      "A": "Bladder",
+      "B": "Rectum",
+      "C": "Kidney",
+      "D": "Liver",
+      "E": "Uterus"
+    },
+    "answer": "C",
+    "explanation": "An upper ureteric stone can cause hydronephrosis and damage to the kidney if left untreated.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 600,
+    "question": "Which nerve root contributes to the iliohypogastric nerve?",
+    "options": {
+      "A": "T12",
+      "B": "L1",
+      "C": "L2",
+      "D": "L3",
+      "E": "S1"
+    },
+    "answer": "B",
+    "explanation": "The iliohypogastric and ilioinguinal nerves arise from the L1 spinal nerve.",
+    "category": "FOM-Anatomy"
+  },
+    {
+    "id": 601,
+    "question": "Which structure carries sperm from the epididymis to the ejaculatory duct?",
+    "options": {
+      "A": "Urethra",
+      "B": "Vas deferens",
+      "C": "Seminal vesicle",
+      "D": "Prostatic duct",
+      "E": "Bulbourethral gland"
+    },
+    "answer": "B",
+    "explanation": "The vas deferens transports sperm from the epididymis to the ejaculatory duct.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 602,
+    "question": "The prostate gland surrounds which part of the male urethra?",
+    "options": {
+      "A": "Spongy urethra",
+      "B": "Penile urethra",
+      "C": "Membranous urethra",
+      "D": "Prostatic urethra",
+      "E": "Pre-prostatic urethra"
+    },
+    "answer": "D",
+    "explanation": "The prostate surrounds the prostatic urethra, the portion immediately after the bladder.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 603,
+    "question": "Which ligament conveys the ovarian vessels?",
+    "options": {
+      "A": "Round ligament",
+      "B": "Suspensory ligament of the ovary",
+      "C": "Broad ligament",
+      "D": "Uterosacral ligament",
+      "E": "Transverse cervical ligament"
+    },
+    "answer": "B",
+    "explanation": "The suspensory ligament of the ovary contains the ovarian artery, vein, and nerves.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 604,
+    "question": "Which structure is found within the spermatic cord?",
+    "options": {
+      "A": "Seminal vesicle",
+      "B": "Epididymis",
+      "C": "Vas deferens",
+      "D": "Bulbourethral gland",
+      "E": "Urethra"
+    },
+    "answer": "C",
+    "explanation": "The spermatic cord contains the vas deferens, testicular artery, pampiniform plexus, and nerves.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 605,
+    "question": "Which erectile tissue forms the majority of the penis and clitoral body?",
+    "options": {
+      "A": "Corpus spongiosum",
+      "B": "Tunica albuginea",
+      "C": "Corpus cavernosum",
+      "D": "Glans",
+      "E": "Ischiocavernosus muscle"
+    },
+    "answer": "C",
+    "explanation": "The corpus cavernosum forms the main erectile mass of the penis and clitoral body.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 606,
+    "question": "Which structure opens into the prostatic urethra?",
+    "options": {
+      "A": "Bulbourethral glands",
+      "B": "Seminal vesicles",
+      "C": "Ejaculatory ducts",
+      "D": "Ureter",
+      "E": "Urinary bladder"
+    },
+    "answer": "C",
+    "explanation": "The ejaculatory ducts, formed by the union of vas deferens and seminal vesicle ducts, open into the prostatic urethra.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 607,
+    "question": "Which ligament is a remnant of the gubernaculum and attaches the uterus to the labia majora?",
+    "options": {
+      "A": "Round ligament of the uterus",
+      "B": "Broad ligament",
+      "C": "Ovarian ligament",
+      "D": "Suspensory ligament",
+      "E": "Falciform ligament"
+    },
+    "answer": "A",
+    "explanation": "The round ligament of the uterus is a remnant of the gubernaculum and passes through the inguinal canal to the labia majora.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 608,
+    "question": "Which organ lies posterior to the uterus in females?",
+    "options": {
+      "A": "Bladder",
+      "B": "Rectum",
+      "C": "Pubic symphysis",
+      "D": "Ovary",
+      "E": "Ureter"
+    },
+    "answer": "B",
+    "explanation": "The rectum lies directly posterior to the uterus and vagina in females.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 609,
+    "question": "Which structure lies inferior to the prostate and contributes to the urethral lubrication?",
+    "options": {
+      "A": "Seminal vesicle",
+      "B": "Ejaculatory duct",
+      "C": "Bulbourethral gland",
+      "D": "Testis",
+      "E": "Bladder"
+    },
+    "answer": "C",
+    "explanation": "The bulbourethral glands (Cowper’s glands) lie inferior to the prostate and secrete mucus into the urethra.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 610,
+    "question": "Which structure does the ureter pass under in females (\"water under the bridge\")?",
+    "options": {
+      "A": "Uterine artery",
+      "B": "Ovarian ligament",
+      "C": "Broad ligament",
+      "D": "Fallopian tube",
+      "E": "External iliac artery"
+    },
+    "answer": "A",
+    "explanation": "The ureter passes inferior to the uterine artery near the lateral fornix of the vagina.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 611,
+    "question": "The ischiocavernosus muscle covers which erectile structure?",
+    "options": {
+      "A": "Corpus spongiosum",
+      "B": "Bulb of vestibule",
+      "C": "Glans",
+      "D": "Crus of the penis/clitoris",
+      "E": "Urethral sphincter"
+    },
+    "answer": "D",
+    "explanation": "The ischiocavernosus muscle overlies the crus of the penis or clitoris and helps maintain erection.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 612,
+    "question": "Which part of the female reproductive tract is the most common site for fertilisation?",
+    "options": {
+      "A": "Cervix",
+      "B": "Fundus of uterus",
+      "C": "Ampulla of uterine tube",
+      "D": "Fimbriae",
+      "E": "Isthmus of uterus"
+    },
+    "answer": "C",
+    "explanation": "Fertilisation usually occurs in the ampulla of the uterine (fallopian) tube.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 613,
+    "question": "Which structure lies immediately posterior to the pubic symphysis in males?",
+    "options": {
+      "A": "Rectum",
+      "B": "Seminal vesicle",
+      "C": "Bladder",
+      "D": "Prostate",
+      "E": "Penile urethra"
+    },
+    "answer": "C",
+    "explanation": "The bladder is situated directly posterior to the pubic symphysis in males.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 614,
+    "question": "Which structure is removed in a tubal ligation?",
+    "options": {
+      "A": "Ovaries",
+      "B": "Fimbriae",
+      "C": "Uterus",
+      "D": "Uterine tubes",
+      "E": "Round ligament"
+    },
+    "answer": "D",
+    "explanation": "Tubal ligation involves tying or cutting the uterine tubes to prevent fertilisation.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 615,
+    "question": "The labia minora enclose which structure?",
+    "options": {
+      "A": "Vaginal orifice",
+      "B": "Clitoral glans",
+      "C": "Hymen",
+      "D": "Vestibule",
+      "E": "Perineal body"
+    },
+    "answer": "D",
+    "explanation": "The labia minora border the vestibule, which contains the openings of the urethra and vagina.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 616,
+    "question": "Which female structure is homologous to the male scrotum?",
+    "options": {
+      "A": "Labia majora",
+      "B": "Labia minora",
+      "C": "Ovaries",
+      "D": "Clitoris",
+      "E": "Vagina"
+    },
+    "answer": "A",
+    "explanation": "The labia majora are embryologically homologous to the scrotum in males.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 617,
+    "question": "The broad ligament encloses which of the following?",
+    "options": {
+      "A": "Round ligament, uterine tube, ovary",
+      "B": "Urethra, clitoris, vagina",
+      "C": "Uterus, pubic symphysis, bladder",
+      "D": "Peritoneum, psoas muscle, ovary",
+      "E": "Sacrum, uterine tube, prostate"
+    },
+    "answer": "A",
+    "explanation": "The broad ligament is a double layer of peritoneum that encloses the uterine tube, ovary, and round ligament.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 618,
+    "question": "Which structure drains into the ejaculatory duct?",
+    "options": {
+      "A": "Seminal vesicle",
+      "B": "Bulbourethral gland",
+      "C": "Corpus cavernosum",
+      "D": "Urethra",
+      "E": "Bladder"
+    },
+    "answer": "A",
+    "explanation": "The duct of the seminal vesicle joins the vas deferens to form the ejaculatory duct.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 619,
+    "question": "Which female structure passes through the inguinal canal?",
+    "options": {
+      "A": "Vagina",
+      "B": "Uterine tube",
+      "C": "Round ligament",
+      "D": "Suspensory ligament",
+      "E": "Urethra"
+    },
+    "answer": "C",
+    "explanation": "The round ligament of the uterus travels through the inguinal canal to attach to the labia majora.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 620,
+    "question": "Which structure is located within the deep perineal pouch?",
+    "options": {
+      "A": "Ejaculatory duct",
+      "B": "Prostatic urethra",
+      "C": "Membranous urethra",
+      "D": "Corpus cavernosum",
+      "E": "Spongy urethra"
+    },
+    "answer": "C",
+    "explanation": "The membranous urethra lies within the deep perineal pouch and is surrounded by the external urethral sphincter.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 621,
+    "question": "Which of the following structures lies most anteriorly in the female pelvis?",
+    "options": {
+      "A": "Rectum",
+      "B": "Cervix",
+      "C": "Bladder",
+      "D": "Uterus",
+      "E": "Ovary"
+    },
+    "answer": "C",
+    "explanation": "The bladder lies most anteriorly, followed by uterus and then rectum in the female pelvis.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 622,
+    "question": "Which erectile tissue surrounds the urethra in the penis?",
+    "options": {
+      "A": "Corpus cavernosum",
+      "B": "Ischiocavernosus",
+      "C": "Corpus spongiosum",
+      "D": "Bulb of penis",
+      "E": "Crura"
+    },
+    "answer": "C",
+    "explanation": "The corpus spongiosum surrounds the penile urethra and forms the glans penis.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 623,
+    "question": "Which part of the uterus communicates directly with the uterine tubes?",
+    "options": {
+      "A": "Fundus",
+      "B": "Body",
+      "C": "Isthmus",
+      "D": "Cervix",
+      "E": "Cornu"
+    },
+    "answer": "E",
+    "explanation": "The cornu (horn) is where the uterine tube enters the uterine cavity from the superolateral aspect.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 624,
+    "question": "Which muscle supports the pelvic floor and forms the levator ani group?",
+    "options": {
+      "A": "Ischiocavernosus",
+      "B": "Bulbospongiosus",
+      "C": "Pubococcygeus",
+      "D": "Coccygeus",
+      "E": "Obturator internus"
+    },
+    "answer": "C",
+    "explanation": "Pubococcygeus is a part of the levator ani group and supports pelvic viscera.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 625,
+    "question": "Which structure lies immediately posterior to the vagina?",
+    "options": {
+      "A": "Bladder",
+      "B": "Cervix",
+      "C": "Rectum",
+      "D": "Uterine tube",
+      "E": "Ovary"
+    },
+    "answer": "C",
+    "explanation": "The rectum lies directly posterior to the vagina.",
+    "category": "FOM-Anatomy"
+  },
+    {
+    "id": 626,
+    "question": "Which lobe of the brain is primarily responsible for vision?",
+    "options": {
+      "A": "Frontal lobe",
+      "B": "Parietal lobe",
+      "C": "Temporal lobe",
+      "D": "Occipital lobe",
+      "E": "Insular cortex"
+    },
+    "answer": "D",
+    "explanation": "The occipital lobe contains the primary visual cortex and is responsible for visual processing.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 627,
+    "question": "Which cranial nerve exits the skull via the cribriform plate?",
+    "options": {
+      "A": "Optic nerve (CN II)",
+      "B": "Olfactory nerve (CN I)",
+      "C": "Oculomotor nerve (CN III)",
+      "D": "Trochlear nerve (CN IV)",
+      "E": "Facial nerve (CN VII)"
+    },
+    "answer": "B",
+    "explanation": "CN I (olfactory) passes through the cribriform plate of the ethmoid bone to reach the olfactory bulb.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 628,
+    "question": "The lateral ventricles communicate with the third ventricle via which structure?",
+    "options": {
+      "A": "Aqueduct of Sylvius",
+      "B": "Central canal",
+      "C": "Foramen of Luschka",
+      "D": "Foramen of Monro",
+      "E": "Median aperture"
+    },
+    "answer": "D",
+    "explanation": "The foramen of Monro (interventricular foramen) connects each lateral ventricle with the third ventricle.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 629,
+    "question": "Which meningeal layer is directly adherent to the surface of the brain?",
+    "options": {
+      "A": "Dura mater",
+      "B": "Arachnoid mater",
+      "C": "Pia mater",
+      "D": "Epidural mater",
+      "E": "Subdural layer"
+    },
+    "answer": "C",
+    "explanation": "The pia mater closely follows the contours of the brain and spinal cord.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 630,
+    "question": "Which artery is a major contributor to the Circle of Willis?",
+    "options": {
+      "A": "External carotid artery",
+      "B": "Middle cerebral artery",
+      "C": "Internal carotid artery",
+      "D": "Basilar artery",
+      "E": "Subclavian artery"
+    },
+    "answer": "C",
+    "explanation": "The internal carotid arteries contribute to the Circle of Willis by giving rise to the anterior cerebral and middle cerebral arteries.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 631,
+    "question": "Which cranial nerve passes through the internal acoustic meatus?",
+    "options": {
+      "A": "Glossopharyngeal nerve (CN IX)",
+      "B": "Facial nerve (CN VII)",
+      "C": "Trigeminal nerve (CN V)",
+      "D": "Hypoglossal nerve (CN XII)",
+      "E": "Oculomotor nerve (CN III)"
+    },
+    "answer": "B",
+    "explanation": "CN VII (facial nerve) and CN VIII pass through the internal acoustic meatus of the temporal bone.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 632,
+    "question": "Which nerve controls the lateral rectus muscle?",
+    "options": {
+      "A": "Oculomotor nerve (CN III)",
+      "B": "Trochlear nerve (CN IV)",
+      "C": "Abducens nerve (CN VI)",
+      "D": "Facial nerve (CN VII)",
+      "E": "Trigeminal nerve (CN V)"
+    },
+    "answer": "C",
+    "explanation": "The abducens nerve (CN VI) innervates the lateral rectus, which abducts the eye.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 633,
+    "question": "The vertebral arteries unite to form which artery?",
+    "options": {
+      "A": "Basilar artery",
+      "B": "Middle cerebral artery",
+      "C": "Anterior cerebral artery",
+      "D": "Posterior communicating artery",
+      "E": "Carotid artery"
+    },
+    "answer": "A",
+    "explanation": "The vertebral arteries join at the pontomedullary junction to form the basilar artery.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 634,
+    "question": "The central canal of the spinal cord is continuous with which ventricle?",
+    "options": {
+      "A": "Lateral ventricle",
+      "B": "Third ventricle",
+      "C": "Fourth ventricle",
+      "D": "Cerebral aqueduct",
+      "E": "Foramen of Monro"
+    },
+    "answer": "C",
+    "explanation": "The central canal is continuous superiorly with the fourth ventricle.",
+    "category": "FOM-Anatomy"
+  },
+  {
+    "id": 635,
+    "question": "Which cranial nerve innervates the muscles of facial expression?",
+    "options": {
+      "A": "Trigeminal nerve (CN V)",
+      "B": "Facial nerve (CN VII)",
+      "C": "Accessory nerve (CN XI)",
+      "D": "Glossopharyngeal nerve (CN IX)",
+      "E": "Oculomotor nerve (CN III)"
+    },
+    "answer": "B",
+    "explanation": "CN VII (facial nerve) innervates all muscles of facial expression.",
+    "category": "FOM-Anatomy"
   }
 ]
